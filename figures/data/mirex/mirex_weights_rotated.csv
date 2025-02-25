@@ -1,0 +1,2921 @@
+,factor,feature_name,weight,view
+0,0,zcr_mean_pyAA,0.46797322498712907,0
+1,0,energy_mean_pyAA,0.3324815950797475,0
+2,0,energy_entropy_mean_pyAA,0.41544397730593535,0
+3,0,spectral_centroid_mean_pyAA,0.13645337798734106,0
+4,0,spectral_spread_mean_pyAA,-0.454578947893318,0
+5,0,spectral_entropy_mean_pyAA,0.5031551211219462,0
+6,0,spectral_flux_mean_pyAA,-0.44937310818823806,0
+7,0,spectral_rolloff_mean_pyAA,0.5150782797547219,0
+8,0,mfcc_1_mean_pyAA,0.6247422085836482,0
+9,0,mfcc_2_mean_pyAA,-0.7316811000208504,0
+10,0,mfcc_3_mean_pyAA,-0.047623010649863816,0
+11,0,mfcc_4_mean_pyAA,-0.05045288071638757,0
+12,0,mfcc_5_mean_pyAA,0.010077520710770392,0
+13,0,mfcc_6_mean_pyAA,0.1282101389743299,0
+14,0,mfcc_7_mean_pyAA,-0.08283598874298219,0
+15,0,mfcc_8_mean_pyAA,0.05286692745810407,0
+16,0,mfcc_9_mean_pyAA,-0.006308285921055948,0
+17,0,mfcc_10_mean_pyAA,0.18013796469448654,0
+18,0,mfcc_11_mean_pyAA,0.07845454142255592,0
+19,0,mfcc_12_mean_pyAA,0.02056955819319381,0
+20,0,mfcc_13_mean_pyAA,0.06451945553011205,0
+21,0,chroma_1_mean_pyAA,-0.30416650875030643,0
+22,0,chroma_2_mean_pyAA,0.10414570505159639,0
+23,0,chroma_3_mean_pyAA,-0.2706089841841051,0
+24,0,chroma_4_mean_pyAA,-0.18936512421312263,0
+25,0,chroma_5_mean_pyAA,-0.3730611593340088,0
+26,0,chroma_6_mean_pyAA,-0.03876714986590799,0
+27,0,chroma_7_mean_pyAA,-0.22911585068761117,0
+28,0,chroma_8_mean_pyAA,0.34524824506679724,0
+29,0,chroma_9_mean_pyAA,0.04954649846492127,0
+30,0,chroma_10_mean_pyAA,-0.20229428721421283,0
+31,0,chroma_11_mean_pyAA,-0.3223375328842993,0
+32,0,chroma_12_mean_pyAA,0.10209126445406119,0
+33,0,chroma_std_mean_pyAA,-0.6213129023726055,0
+34,0,delta zcr_mean_pyAA,0.3310951822529377,0
+35,0,delta energy_mean_pyAA,0.1074590362076611,0
+36,0,delta energy_entropy_mean_pyAA,0.155739798064524,0
+37,0,delta spectral_centroid_mean_pyAA,-0.0029675288784595916,0
+38,0,delta spectral_spread_mean_pyAA,-0.157731381197164,0
+39,0,delta spectral_entropy_mean_pyAA,0.3174437198734692,0
+40,0,delta spectral_flux_mean_pyAA,-0.19388007278607208,0
+41,0,delta spectral_rolloff_mean_pyAA,0.31888817339125136,0
+42,0,delta mfcc_1_mean_pyAA,-0.04113233054269864,0
+43,0,delta mfcc_2_mean_pyAA,-0.38176953582175305,0
+44,0,delta mfcc_3_mean_pyAA,-0.043779774069577525,0
+45,0,delta mfcc_4_mean_pyAA,-0.05887998139142903,0
+46,0,delta mfcc_5_mean_pyAA,-0.03852033265486912,0
+47,0,delta mfcc_6_mean_pyAA,-0.002396943736501933,0
+48,0,delta mfcc_7_mean_pyAA,-0.07054368280516883,0
+49,0,delta mfcc_8_mean_pyAA,0.020606221786194104,0
+50,0,delta mfcc_9_mean_pyAA,0.013976728764803251,0
+51,0,delta mfcc_10_mean_pyAA,0.0185705518786761,0
+52,0,delta mfcc_11_mean_pyAA,-0.03416491148450189,0
+53,0,delta mfcc_12_mean_pyAA,-0.012348007738281324,0
+54,0,delta mfcc_13_mean_pyAA,0.022840661848692392,0
+55,0,delta chroma_1_mean_pyAA,-0.07883179955049831,0
+56,0,delta chroma_2_mean_pyAA,0.09771626349237149,0
+57,0,delta chroma_3_mean_pyAA,-0.09666444892339654,0
+58,0,delta chroma_4_mean_pyAA,0.03738453411003037,0
+59,0,delta chroma_5_mean_pyAA,-0.043404803770287735,0
+60,0,delta chroma_6_mean_pyAA,0.0358503584371203,0
+61,0,delta chroma_7_mean_pyAA,-0.11118585144945078,0
+62,0,delta chroma_8_mean_pyAA,0.2193993439035509,0
+63,0,delta chroma_9_mean_pyAA,0.05779204087893977,0
+64,0,delta chroma_10_mean_pyAA,-0.06815935052124589,0
+65,0,delta chroma_11_mean_pyAA,-0.12874044631779974,0
+66,0,delta chroma_12_mean_pyAA,0.11550069289233272,0
+67,0,delta chroma_std_mean_pyAA,-0.3230957612433436,0
+68,0,zcr_std_pyAA,-0.15826244713782053,0
+69,0,energy_std_pyAA,0.057620868916700374,0
+70,0,energy_entropy_std_pyAA,-0.25561485449326293,0
+71,0,spectral_centroid_std_pyAA,-0.47058776369261757,0
+72,0,spectral_spread_std_pyAA,-0.32608764141556373,0
+73,0,spectral_entropy_std_pyAA,-0.07007806361739014,0
+74,0,spectral_flux_std_pyAA,-0.10055394007054556,0
+75,0,spectral_rolloff_std_pyAA,-0.20459193388265043,0
+76,0,mfcc_1_std_pyAA,-0.22585930752328456,0
+77,0,mfcc_2_std_pyAA,-0.23384208933079198,0
+78,0,mfcc_3_std_pyAA,-0.2617338052891037,0
+79,0,mfcc_4_std_pyAA,-0.18279166178036838,0
+80,0,mfcc_5_std_pyAA,-0.1864227256597256,0
+81,0,mfcc_6_std_pyAA,-0.15575316008021803,0
+82,0,mfcc_7_std_pyAA,-0.17529356697767953,0
+83,0,mfcc_8_std_pyAA,-0.17231387332578293,0
+84,0,mfcc_9_std_pyAA,-0.12278386649676103,0
+85,0,mfcc_10_std_pyAA,-0.1303727401201501,0
+86,0,mfcc_11_std_pyAA,-0.11469605966853928,0
+87,0,mfcc_12_std_pyAA,-0.15670120491963005,0
+88,0,mfcc_13_std_pyAA,-0.275210623607139,0
+89,0,chroma_1_std_pyAA,-0.423478484268925,0
+90,0,chroma_2_std_pyAA,-0.10838946651580583,0
+91,0,chroma_3_std_pyAA,-0.3637782088270374,0
+92,0,chroma_4_std_pyAA,-0.29873514224320724,0
+93,0,chroma_5_std_pyAA,-0.4445858441549508,0
+94,0,chroma_6_std_pyAA,-0.18586100496148195,0
+95,0,chroma_7_std_pyAA,-0.27340980220884836,0
+96,0,chroma_8_std_pyAA,0.11816886167654773,0
+97,0,chroma_9_std_pyAA,-0.09321699945082576,0
+98,0,chroma_10_std_pyAA,-0.30388689862635115,0
+99,0,chroma_11_std_pyAA,-0.38945420165252836,0
+100,0,chroma_12_std_pyAA,-0.0790275781349132,0
+101,0,chroma_std_std_pyAA,-0.32564506639723023,0
+102,0,delta zcr_std_pyAA,-0.12156612526467608,0
+103,0,delta energy_std_pyAA,0.16253491106808388,0
+104,0,delta energy_entropy_std_pyAA,-0.2230688394653108,0
+105,0,delta spectral_centroid_std_pyAA,-0.4847979876097937,0
+106,0,delta spectral_spread_std_pyAA,-0.3056565229333221,0
+107,0,delta spectral_entropy_std_pyAA,-0.049870195234673884,0
+108,0,delta spectral_flux_std_pyAA,-0.08938526751284898,0
+109,0,delta spectral_rolloff_std_pyAA,-0.17338274791065247,0
+110,0,delta mfcc_1_std_pyAA,-0.20385933865336825,0
+111,0,delta mfcc_2_std_pyAA,-0.1688311751047991,0
+112,0,delta mfcc_3_std_pyAA,-0.1285444316670557,0
+113,0,delta mfcc_4_std_pyAA,-0.08537969015081191,0
+114,0,delta mfcc_5_std_pyAA,-0.03356508751270902,0
+115,0,delta mfcc_6_std_pyAA,-0.026545056633993296,0
+116,0,delta mfcc_7_std_pyAA,-0.01825901245374913,0
+117,0,delta mfcc_8_std_pyAA,0.02044943298817848,0
+118,0,delta mfcc_9_std_pyAA,0.05531269429053381,0
+119,0,delta mfcc_10_std_pyAA,0.03725464160660477,0
+120,0,delta mfcc_11_std_pyAA,0.08744561675238781,0
+121,0,delta mfcc_12_std_pyAA,0.08045026052586288,0
+122,0,delta mfcc_13_std_pyAA,0.010192347105949176,0
+123,0,delta chroma_1_std_pyAA,-0.3702878487221384,0
+124,0,delta chroma_2_std_pyAA,-0.03975719393372347,0
+125,0,delta chroma_3_std_pyAA,-0.21327833626809814,0
+126,0,delta chroma_4_std_pyAA,-0.2325630550904075,0
+127,0,delta chroma_5_std_pyAA,-0.29355206411552925,0
+128,0,delta chroma_6_std_pyAA,-0.12268173884912915,0
+129,0,delta chroma_7_std_pyAA,-0.11307178973455508,0
+130,0,delta chroma_8_std_pyAA,0.14942921889178687,0
+131,0,delta chroma_9_std_pyAA,-0.02123331179174265,0
+132,0,delta chroma_10_std_pyAA,-0.19894248830882816,0
+133,0,delta chroma_11_std_pyAA,-0.20643811542308324,0
+134,0,delta chroma_12_std_pyAA,-0.04062727006661917,0
+135,0,delta chroma_std_std_pyAA,-0.1488441087883959,0
+136,0,tempo_pyAA,0.014049483215454388,0
+137,0,global_highest_pitch_cents_all,0.6003364538161245,1
+138,0,global_lowest_pitch_cents_all,0.7105738805881827,1
+139,0,global_pitch_range_cents_all,-0.022000636579681373,1
+140,0,duration_mean_all,0.20696535682740977,1
+141,0,interval_duration_mean_all,-0.35257263780723525,1
+142,0,interval_duration_std_all,-0.33481325476040025,1
+143,0,global_highest_pitch_cents_onethird,0.6346518226928991,1
+144,0,global_lowest_pitch_cents_onethird,0.684299201065687,1
+145,0,global_pitch_range_cents_onethird,0.057536406958902706,1
+146,0,global_vibrato_coverage_onethird,0.0646326989950983,1
+147,0,duration_mean_onethird,0.23558173969201338,1
+148,0,pitch_mean_height_cents_mean_onethird,0.8169392270854041,1
+149,0,pitch_deviation_cents_mean_onethird,0.33375173052634505,1
+150,0,pitch_range_cents_mean_onethird,0.42138848338521134,1
+151,0,pitch_min_cents_mean_onethird,0.7634633583106456,1
+152,0,pitch_max_cents_mean_onethird,0.8122776710098984,1
+153,0,pitch_mean_height_hz_mean_onethird,0.7897026484687811,1
+154,0,pitch_deviation_hz_mean_onethird,0.6626465472931581,1
+155,0,pitch_range_hz_mean_onethird,0.7177402129679712,1
+156,0,pitch_min_hz_mean_onethird,0.7403417248943301,1
+157,0,pitch_max_hz_mean_onethird,0.7913175370289592,1
+158,0,vibrato_length_mean_onethird,0.2249363246728023,1
+159,0,vibrato_coverage_mean_onethird,0.09066721364792756,1
+160,0,vibrato_rate_hz_mean_onethird,0.025644547183700343,1
+161,0,vibrato_extend_cents_mean_onethird,0.6078998260822183,1
+162,0,vibrato_extend_hz_mean_onethird,0.5593580698242645,1
+163,0,duration_std_onethird,0.23249015998555533,1
+164,0,pitch_mean_height_cents_std_onethird,-0.09682730322780629,1
+165,0,pitch_deviation_cents_std_onethird,0.0066516144358606455,1
+166,0,pitch_range_cents_std_onethird,0.07323650016458673,1
+167,0,pitch_min_cents_std_onethird,-0.06793750320422699,1
+168,0,pitch_max_cents_std_onethird,-0.15615536263122268,1
+169,0,pitch_mean_height_hz_std_onethird,0.3222452761742057,1
+170,0,pitch_deviation_hz_std_onethird,0.41985856312113745,1
+171,0,pitch_range_hz_std_onethird,0.4738958302237914,1
+172,0,pitch_min_hz_std_onethird,0.3410014761764187,1
+173,0,pitch_max_hz_std_onethird,0.3193121382845409,1
+174,0,vibrato_length_std_onethird,0.17347460494234576,1
+175,0,vibrato_coverage_std_onethird,-0.08067307045378794,1
+176,0,vibrato_rate_hz_std_onethird,-0.09417903045981661,1
+177,0,vibrato_extend_cents_std_onethird,-0.06667086493565479,1
+178,0,vibrato_extend_hz_std_onethird,0.41881103287793314,1
+179,0,lowlevel.average_loudness_essentia,0.3094743056365561,2
+180,0,lowlevel.barkbands_crest.mean_essentia,-0.6297755871496353,2
+181,0,lowlevel.barkbands_crest.stdev_essentia,-0.3248660558839714,2
+182,0,lowlevel.barkbands_flatness_db.mean_essentia,-0.49006439155880477,2
+183,0,lowlevel.barkbands_flatness_db.stdev_essentia,-0.5547291504914492,2
+184,0,lowlevel.barkbands_kurtosis.mean_essentia,-0.7709881354139119,2
+185,0,lowlevel.barkbands_kurtosis.stdev_essentia,-0.6147763002488973,2
+186,0,lowlevel.barkbands_skewness.mean_essentia,-0.8216313603646023,2
+187,0,lowlevel.barkbands_skewness.stdev_essentia,-0.5338842454254836,2
+188,0,lowlevel.barkbands_spread.mean_essentia,0.47203726180891253,2
+189,0,lowlevel.barkbands_spread.stdev_essentia,-0.24767999390877732,2
+190,0,lowlevel.dissonance.mean_essentia,0.5670142436386663,2
+191,0,lowlevel.dissonance.stdev_essentia,-0.540934665037589,2
+192,0,lowlevel.dynamic_complexity_essentia,-0.38571746829107356,2
+193,0,lowlevel.erbbands_crest.mean_essentia,-0.27437237188063623,2
+194,0,lowlevel.erbbands_crest.stdev_essentia,-0.2716484835700246,2
+195,0,lowlevel.erbbands_flatness_db.mean_essentia,0.044527295390089996,2
+196,0,lowlevel.erbbands_flatness_db.stdev_essentia,-0.2575643122920926,2
+197,0,lowlevel.erbbands_kurtosis.mean_essentia,-0.23977672973191308,2
+198,0,lowlevel.erbbands_kurtosis.stdev_essentia,-0.39463367722842063,2
+199,0,lowlevel.erbbands_skewness.mean_essentia,-0.6445396581558072,2
+200,0,lowlevel.erbbands_skewness.stdev_essentia,-0.4642882553022787,2
+201,0,lowlevel.erbbands_spread.mean_essentia,-0.28556609664659466,2
+202,0,lowlevel.erbbands_spread.stdev_essentia,-0.524499738982848,2
+203,0,lowlevel.hfc.mean_essentia,0.4805131108855725,2
+204,0,lowlevel.hfc.stdev_essentia,-0.018268009283850434,2
+205,0,lowlevel.loudness_ebu128.integrated_essentia,0.5049942306381057,2
+206,0,lowlevel.loudness_ebu128.loudness_range_essentia,-0.27089025628041324,2
+207,0,lowlevel.loudness_ebu128.momentary.mean_essentia,0.5046899736440665,2
+208,0,lowlevel.loudness_ebu128.momentary.stdev_essentia,-0.21167808615887398,2
+209,0,lowlevel.loudness_ebu128.short_term.mean_essentia,0.5065012806974666,2
+210,0,lowlevel.loudness_ebu128.short_term.stdev_essentia,-0.23664694587867963,2
+211,0,lowlevel.melbands_crest.mean_essentia,-0.5559475837008878,2
+212,0,lowlevel.melbands_crest.stdev_essentia,-0.1698772137112926,2
+213,0,lowlevel.melbands_flatness_db.mean_essentia,-0.5769380256881315,2
+214,0,lowlevel.melbands_flatness_db.stdev_essentia,-0.5388688800651765,2
+215,0,lowlevel.melbands_kurtosis.mean_essentia,-0.749177455640178,2
+216,0,lowlevel.melbands_kurtosis.stdev_essentia,-0.5683091934078677,2
+217,0,lowlevel.melbands_skewness.mean_essentia,-0.69215956995422,2
+218,0,lowlevel.melbands_skewness.stdev_essentia,-0.4966197747436288,2
+219,0,lowlevel.melbands_spread.mean_essentia,0.6519561297718882,2
+220,0,lowlevel.melbands_spread.stdev_essentia,0.06221701778954128,2
+221,0,lowlevel.pitch_salience.mean_essentia,0.39635319611560643,2
+222,0,lowlevel.pitch_salience.stdev_essentia,-0.3787720106369948,2
+223,0,lowlevel.silence_rate_20dB.mean_essentia,0.09791415008976763,2
+224,0,lowlevel.silence_rate_20dB.stdev_essentia,-0.09806808799954725,2
+225,0,lowlevel.silence_rate_30dB.mean_essentia,1.4007700831791299,2
+226,0,lowlevel.silence_rate_30dB.stdev_essentia,-1.401060218462021,2
+227,0,lowlevel.silence_rate_60dB.mean_essentia,-0.1319936456661856,2
+228,0,lowlevel.silence_rate_60dB.stdev_essentia,-0.13273092972999756,2
+229,0,lowlevel.spectral_centroid.mean_essentia,0.615864723298444,2
+230,0,lowlevel.spectral_centroid.stdev_essentia,-0.2594154774171841,2
+231,0,lowlevel.spectral_complexity.mean_essentia,0.6418959807905384,2
+232,0,lowlevel.spectral_complexity.stdev_essentia,0.37247246731630157,2
+233,0,lowlevel.spectral_energy.mean_essentia,-0.14453752726517013,2
+234,0,lowlevel.spectral_energy.stdev_essentia,-0.46875623304863223,2
+235,0,lowlevel.spectral_energyband_high.stdev_essentia,-0.09009252565009647,2
+236,0,lowlevel.spectral_energyband_low.mean_essentia,-0.21088630967874422,2
+237,0,lowlevel.spectral_energyband_low.stdev_essentia,-0.21375164172527725,2
+238,0,lowlevel.spectral_energyband_middle_high.mean_essentia,0.7340888157584123,2
+239,0,lowlevel.spectral_energyband_middle_high.stdev_essentia,0.25487259383607874,2
+240,0,lowlevel.spectral_energyband_middle_low.mean_essentia,-0.3733387683913742,2
+241,0,lowlevel.spectral_energyband_middle_low.stdev_essentia,-0.5527719780019468,2
+242,0,lowlevel.spectral_entropy.mean_essentia,0.41750283639243135,2
+243,0,lowlevel.spectral_entropy.stdev_essentia,-0.6411473318262898,2
+244,0,lowlevel.spectral_flux.mean_essentia,0.27729193377862527,2
+245,0,lowlevel.spectral_flux.stdev_essentia,-0.2551255015826165,2
+246,0,lowlevel.spectral_kurtosis.mean_essentia,-0.16539845630103409,2
+247,0,lowlevel.spectral_kurtosis.stdev_essentia,-0.30724186394861486,2
+248,0,lowlevel.spectral_rolloff.mean_essentia,0.5709609229895922,2
+249,0,lowlevel.spectral_rolloff.stdev_essentia,-0.1871656542804085,2
+250,0,lowlevel.spectral_skewness.mean_essentia,-0.38543048602470203,2
+251,0,lowlevel.spectral_skewness.stdev_essentia,-0.46743890957265744,2
+252,0,lowlevel.spectral_spread.mean_essentia,-0.28534169737741094,2
+253,0,lowlevel.spectral_spread.stdev_essentia,-0.37529133452639707,2
+254,0,lowlevel.spectral_strongpeak.mean_essentia,0.27826342397466963,2
+255,0,lowlevel.spectral_strongpeak.stdev_essentia,0.312694481653696,2
+256,0,lowlevel.zerocrossingrate.mean_essentia,0.4723730467229817,2
+257,0,lowlevel.zerocrossingrate.stdev_essentia,-0.22524382128569534,2
+258,0,rhythm.beats_count_essentia,0.13274417405099223,2
+259,0,rhythm.beats_loudness.mean_essentia,-0.205786587452159,2
+260,0,rhythm.beats_loudness.stdev_essentia,-0.5011394382158395,2
+261,0,rhythm.bpm_essentia,0.1186824873562303,2
+262,0,rhythm.bpm_histogram_first_peak_bpm_essentia,0.118750513970401,2
+263,0,rhythm.bpm_histogram_first_peak_weight_essentia,-0.07686169066082374,2
+264,0,rhythm.bpm_histogram_second_peak_bpm_essentia,0.08102504503558745,2
+265,0,rhythm.bpm_histogram_second_peak_spread_essentia,-0.16950394416626086,2
+266,0,rhythm.bpm_histogram_second_peak_weight_essentia,0.0062933442158772165,2
+267,0,rhythm.danceability_essentia,0.1375740322170805,2
+268,0,rhythm.onset_rate_essentia,0.03222973415721585,2
+269,0,tonal.hpcp_crest.mean_essentia,-0.35489059327440403,2
+270,0,tonal.hpcp_crest.stdev_essentia,-0.24254404531424206,2
+271,0,tonal.hpcp_entropy.mean_essentia,0.368745412040337,2
+272,0,tonal.hpcp_entropy.stdev_essentia,0.027611617834930793,2
+273,0,tonal.tuning_diatonic_strength_essentia,0.05921099351701847,2
+274,0,tonal.tuning_equal_tempered_deviation_essentia,0.019111408088546843,2
+275,0,tonal.tuning_frequency_essentia,0.015348237041200731,2
+276,0,tonal.tuning_nontempered_energy_ratio_essentia,0.034950098010718605,2
+277,0,lines,0.6447278531937223,3
+278,0,words,0.7228385432564958,3
+279,0,verses,0.41722288031936544,3
+280,0,words_token,0.7340809972406886,3
+281,0,unique_words_token,0.4614853779042053,3
+282,0,length_mean_words_token,-0.10551199194594547,3
+283,0,length_max_words_token,0.2639588155500056,3
+284,0,length_mstd_words_token,0.10415450504471124,3
+285,0,polarity,-0.05356018732709769,3
+286,0,subjectivity,-0.017846540454121488,3
+287,0,DET,0.49155028042371857,3
+288,0,PRON,0.6130675260278889,3
+289,0,CCONJ,0.41516450527768883,3
+290,0,ADP,0.5320958446230123,3
+291,0,PUNCT,0.3236217515335906,3
+292,1,zcr_mean_pyAA,0.4392131972609222,0
+293,1,energy_mean_pyAA,0.2192372718744959,0
+294,1,energy_entropy_mean_pyAA,0.18846027535118723,0
+295,1,spectral_centroid_mean_pyAA,0.3792028860325665,0
+296,1,spectral_spread_mean_pyAA,0.09034904718099834,0
+297,1,spectral_entropy_mean_pyAA,0.40696593162712913,0
+298,1,spectral_flux_mean_pyAA,-0.1716781247921541,0
+299,1,spectral_rolloff_mean_pyAA,0.42042293846532264,0
+300,1,mfcc_1_mean_pyAA,0.3446945435920112,0
+301,1,mfcc_2_mean_pyAA,-0.36196569723241945,0
+302,1,mfcc_3_mean_pyAA,-0.10924129214092515,0
+303,1,mfcc_4_mean_pyAA,-0.24120568622977548,0
+304,1,mfcc_5_mean_pyAA,-0.03379136874960849,0
+305,1,mfcc_6_mean_pyAA,-0.12425485766915954,0
+306,1,mfcc_7_mean_pyAA,-0.06784993147998424,0
+307,1,mfcc_8_mean_pyAA,-0.21661165026010293,0
+308,1,mfcc_9_mean_pyAA,-0.105846467269138,0
+309,1,mfcc_10_mean_pyAA,-0.0917195826523342,0
+310,1,mfcc_11_mean_pyAA,0.030272212970877118,0
+311,1,mfcc_12_mean_pyAA,-0.00684554290708192,0
+312,1,mfcc_13_mean_pyAA,0.03400582634546264,0
+313,1,chroma_1_mean_pyAA,-0.12694301528029847,0
+314,1,chroma_2_mean_pyAA,0.12396867863427444,0
+315,1,chroma_3_mean_pyAA,-0.26197290082192437,0
+316,1,chroma_4_mean_pyAA,0.06263906582188558,0
+317,1,chroma_5_mean_pyAA,-0.2189096670553141,0
+318,1,chroma_6_mean_pyAA,0.11122818786729233,0
+319,1,chroma_7_mean_pyAA,-0.1548566277288296,0
+320,1,chroma_8_mean_pyAA,0.33946218452878996,0
+321,1,chroma_9_mean_pyAA,0.219244748807461,0
+322,1,chroma_10_mean_pyAA,-0.14195170585623496,0
+323,1,chroma_11_mean_pyAA,-0.2992018742009125,0
+324,1,chroma_12_mean_pyAA,0.14336431428281024,0
+325,1,chroma_std_mean_pyAA,-0.36751831966804255,0
+326,1,delta zcr_mean_pyAA,0.260055074041674,0
+327,1,delta energy_mean_pyAA,0.09144635231628459,0
+328,1,delta energy_entropy_mean_pyAA,0.12485051125761874,0
+329,1,delta spectral_centroid_mean_pyAA,0.08169059899482271,0
+330,1,delta spectral_spread_mean_pyAA,-0.05321571258088669,0
+331,1,delta spectral_entropy_mean_pyAA,0.23847332119778317,0
+332,1,delta spectral_flux_mean_pyAA,-0.08734578146279015,0
+333,1,delta spectral_rolloff_mean_pyAA,0.23358506500412754,0
+334,1,delta mfcc_1_mean_pyAA,-0.04538608296827258,0
+335,1,delta mfcc_2_mean_pyAA,-0.2600070475387348,0
+336,1,delta mfcc_3_mean_pyAA,-0.076041751123291,0
+337,1,delta mfcc_4_mean_pyAA,-0.065791322464195,0
+338,1,delta mfcc_5_mean_pyAA,-0.02328027427562468,0
+339,1,delta mfcc_6_mean_pyAA,-0.05356233958233355,0
+340,1,delta mfcc_7_mean_pyAA,-0.05630909932699271,0
+341,1,delta mfcc_8_mean_pyAA,-0.07902000238266514,0
+342,1,delta mfcc_9_mean_pyAA,-0.031453700998733444,0
+343,1,delta mfcc_10_mean_pyAA,0.012845761442651309,0
+344,1,delta mfcc_11_mean_pyAA,-0.04833154655594484,0
+345,1,delta mfcc_12_mean_pyAA,0.02316693637772385,0
+346,1,delta mfcc_13_mean_pyAA,0.03799804954040751,0
+347,1,delta chroma_1_mean_pyAA,-0.045709498245598695,0
+348,1,delta chroma_2_mean_pyAA,0.03757241086765881,0
+349,1,delta chroma_3_mean_pyAA,-0.168590235816306,0
+350,1,delta chroma_4_mean_pyAA,0.04664986207170684,0
+351,1,delta chroma_5_mean_pyAA,-0.0016096252507543233,0
+352,1,delta chroma_6_mean_pyAA,0.05624587294751633,0
+353,1,delta chroma_7_mean_pyAA,-0.08119074277373352,0
+354,1,delta chroma_8_mean_pyAA,0.18488216326491083,0
+355,1,delta chroma_9_mean_pyAA,0.05979682314495852,0
+356,1,delta chroma_10_mean_pyAA,-0.0407438366830457,0
+357,1,delta chroma_11_mean_pyAA,-0.10370599115494278,0
+358,1,delta chroma_12_mean_pyAA,0.06840811002444153,0
+359,1,delta chroma_std_mean_pyAA,-0.20615582776491848,0
+360,1,zcr_std_pyAA,0.12341107061997418,0
+361,1,energy_std_pyAA,0.07622239995810205,0
+362,1,energy_entropy_std_pyAA,-0.04877866347321706,0
+363,1,spectral_centroid_std_pyAA,-0.11737964131742817,0
+364,1,spectral_spread_std_pyAA,-0.4682707024452827,0
+365,1,spectral_entropy_std_pyAA,0.12783143945816347,0
+366,1,spectral_flux_std_pyAA,-0.08861957627766871,0
+367,1,spectral_rolloff_std_pyAA,0.15877223382573732,0
+368,1,mfcc_1_std_pyAA,-0.19202594396408515,0
+369,1,mfcc_2_std_pyAA,-0.12954390078667802,0
+370,1,mfcc_3_std_pyAA,0.06279839936868792,0
+371,1,mfcc_4_std_pyAA,0.13510803816964861,0
+372,1,mfcc_5_std_pyAA,0.0716255470035167,0
+373,1,mfcc_6_std_pyAA,0.121824237536132,0
+374,1,mfcc_7_std_pyAA,0.1264976370467383,0
+375,1,mfcc_8_std_pyAA,0.17763254767683834,0
+376,1,mfcc_9_std_pyAA,0.16818094167830652,0
+377,1,mfcc_10_std_pyAA,0.21956206347886623,0
+378,1,mfcc_11_std_pyAA,0.2309227772961281,0
+379,1,mfcc_12_std_pyAA,0.21732537146875405,0
+380,1,mfcc_13_std_pyAA,0.14238657996377985,0
+381,1,chroma_1_std_pyAA,-0.14482881015649354,0
+382,1,chroma_2_std_pyAA,0.07823529024396347,0
+383,1,chroma_3_std_pyAA,-0.2460243437901649,0
+384,1,chroma_4_std_pyAA,0.020642852397091377,0
+385,1,chroma_5_std_pyAA,-0.19406309271850938,0
+386,1,chroma_6_std_pyAA,0.08935456356270709,0
+387,1,chroma_7_std_pyAA,-0.11689607557989352,0
+388,1,chroma_8_std_pyAA,0.26342200467821275,0
+389,1,chroma_9_std_pyAA,0.1938498768537211,0
+390,1,chroma_10_std_pyAA,-0.1112646811637299,0
+391,1,chroma_11_std_pyAA,-0.2601215133898171,0
+392,1,chroma_12_std_pyAA,0.08937131483028388,0
+393,1,chroma_std_std_pyAA,-0.13768660182951858,0
+394,1,delta zcr_std_pyAA,0.259343561626512,0
+395,1,delta energy_std_pyAA,0.18438811762390916,0
+396,1,delta energy_entropy_std_pyAA,-0.005235019640689845,0
+397,1,delta spectral_centroid_std_pyAA,-0.0732257597828633,0
+398,1,delta spectral_spread_std_pyAA,-0.42273690359372956,0
+399,1,delta spectral_entropy_std_pyAA,0.27664139033959045,0
+400,1,delta spectral_flux_std_pyAA,-0.088150940772623,0
+401,1,delta spectral_rolloff_std_pyAA,0.24668564660002007,0
+402,1,delta mfcc_1_std_pyAA,0.01743137658300422,0
+403,1,delta mfcc_2_std_pyAA,0.10403896408366049,0
+404,1,delta mfcc_3_std_pyAA,0.272168867773496,0
+405,1,delta mfcc_4_std_pyAA,0.31740031345998,0
+406,1,delta mfcc_5_std_pyAA,0.32820590837913277,0
+407,1,delta mfcc_6_std_pyAA,0.3620904631129737,0
+408,1,delta mfcc_7_std_pyAA,0.4029500492686062,0
+409,1,delta mfcc_8_std_pyAA,0.3975164176309278,0
+410,1,delta mfcc_9_std_pyAA,0.4259577608644947,0
+411,1,delta mfcc_10_std_pyAA,0.4356234543462102,0
+412,1,delta mfcc_11_std_pyAA,0.48080140616704525,0
+413,1,delta mfcc_12_std_pyAA,0.46327823803053614,0
+414,1,delta mfcc_13_std_pyAA,0.4122995659885385,0
+415,1,delta chroma_1_std_pyAA,-0.030621898419479734,0
+416,1,delta chroma_2_std_pyAA,0.14688725998838364,0
+417,1,delta chroma_3_std_pyAA,-0.10717303567237975,0
+418,1,delta chroma_4_std_pyAA,0.13586726406085295,0
+419,1,delta chroma_5_std_pyAA,-0.0036860439812503834,0
+420,1,delta chroma_6_std_pyAA,0.20798461666161858,0
+421,1,delta chroma_7_std_pyAA,-0.0008814946767574064,0
+422,1,delta chroma_8_std_pyAA,0.30495374664318914,0
+423,1,delta chroma_9_std_pyAA,0.27632293798109464,0
+424,1,delta chroma_10_std_pyAA,-0.008023934496138752,0
+425,1,delta chroma_11_std_pyAA,-0.06678387652698962,0
+426,1,delta chroma_12_std_pyAA,0.14092932358171312,0
+427,1,delta chroma_std_std_pyAA,0.08505728718342177,0
+428,1,tempo_pyAA,-0.033510734308811664,0
+429,1,global_highest_pitch_cents_all,0.048929033275608276,1
+430,1,global_lowest_pitch_cents_all,0.4816924569340325,1
+431,1,global_pitch_range_cents_all,-0.42210262808099824,1
+432,1,duration_mean_all,-0.030679271469947703,1
+433,1,interval_duration_mean_all,-0.37538100370607236,1
+434,1,interval_duration_std_all,-0.41257774448264134,1
+435,1,global_highest_pitch_cents_onethird,0.03461913658691224,1
+436,1,global_lowest_pitch_cents_onethird,0.47014939628358,1
+437,1,global_pitch_range_cents_onethird,-0.4138538228766053,1
+438,1,global_vibrato_coverage_onethird,0.1064515105288493,1
+439,1,duration_mean_onethird,-0.03070144150094568,1
+440,1,pitch_mean_height_cents_mean_onethird,0.2923791629837431,1
+441,1,pitch_deviation_cents_mean_onethird,0.0016919342144145742,1
+442,1,pitch_range_cents_mean_onethird,0.03688765314993963,1
+443,1,pitch_min_cents_mean_onethird,0.2996962589178142,1
+444,1,pitch_max_cents_mean_onethird,0.27222779914275064,1
+445,1,pitch_mean_height_hz_mean_onethird,0.22672471520821602,1
+446,1,pitch_deviation_hz_mean_onethird,0.13218200732407262,1
+447,1,pitch_range_hz_mean_onethird,0.15734908039952772,1
+448,1,pitch_min_hz_mean_onethird,0.23982215412516453,1
+449,1,pitch_max_hz_mean_onethird,0.2133071317007042,1
+450,1,vibrato_length_mean_onethird,0.042959428973830975,1
+451,1,vibrato_coverage_mean_onethird,0.09829446941949144,1
+452,1,vibrato_rate_hz_mean_onethird,0.001325577072659674,1
+453,1,vibrato_extend_cents_mean_onethird,0.29438349852725726,1
+454,1,vibrato_extend_hz_mean_onethird,0.20327384940273358,1
+455,1,duration_std_onethird,-0.04707747219467795,1
+456,1,pitch_mean_height_cents_std_onethird,-0.5208135989592322,1
+457,1,pitch_deviation_cents_std_onethird,-0.2988534698570845,1
+458,1,pitch_range_cents_std_onethird,-0.30496692726939334,1
+459,1,pitch_min_cents_std_onethird,-0.4940274986440498,1
+460,1,pitch_max_cents_std_onethird,-0.51738643975511,1
+461,1,pitch_mean_height_hz_std_onethird,-0.28674825588147695,1
+462,1,pitch_deviation_hz_std_onethird,-0.11380698150658008,1
+463,1,pitch_range_hz_std_onethird,-0.10316878042400453,1
+464,1,pitch_min_hz_std_onethird,-0.23772343799221352,1
+465,1,pitch_max_hz_std_onethird,-0.261398095271636,1
+466,1,vibrato_length_std_onethird,-0.00742115698980227,1
+467,1,vibrato_coverage_std_onethird,-0.04160642401626169,1
+468,1,vibrato_rate_hz_std_onethird,-0.060832369080480654,1
+469,1,vibrato_extend_cents_std_onethird,-0.32712343683741235,1
+470,1,vibrato_extend_hz_std_onethird,0.04531463474629945,1
+471,1,lowlevel.average_loudness_essentia,0.3458047699373575,2
+472,1,lowlevel.barkbands_crest.mean_essentia,-0.26525048201300916,2
+473,1,lowlevel.barkbands_crest.stdev_essentia,-0.06954828431592612,2
+474,1,lowlevel.barkbands_flatness_db.mean_essentia,-0.41928449600543166,2
+475,1,lowlevel.barkbands_flatness_db.stdev_essentia,-0.42475973414496576,2
+476,1,lowlevel.barkbands_kurtosis.mean_essentia,-0.35907086975327224,2
+477,1,lowlevel.barkbands_kurtosis.stdev_essentia,-0.31670182364303845,2
+478,1,lowlevel.barkbands_skewness.mean_essentia,-0.34319651091479647,2
+479,1,lowlevel.barkbands_skewness.stdev_essentia,-0.26221544609225034,2
+480,1,lowlevel.barkbands_spread.mean_essentia,0.3558272629161841,2
+481,1,lowlevel.barkbands_spread.stdev_essentia,0.03842046267268753,2
+482,1,lowlevel.dissonance.mean_essentia,0.22343977121584602,2
+483,1,lowlevel.dissonance.stdev_essentia,-0.22098354317082256,2
+484,1,lowlevel.dynamic_complexity_essentia,-0.2290731131225088,2
+485,1,lowlevel.erbbands_crest.mean_essentia,-0.08574871582814723,2
+486,1,lowlevel.erbbands_crest.stdev_essentia,0.007779955646198282,2
+487,1,lowlevel.erbbands_flatness_db.mean_essentia,-0.19910832917236548,2
+488,1,lowlevel.erbbands_flatness_db.stdev_essentia,-0.245129559739268,2
+489,1,lowlevel.erbbands_kurtosis.mean_essentia,-0.18082673324576015,2
+490,1,lowlevel.erbbands_kurtosis.stdev_essentia,-0.18027044029259334,2
+491,1,lowlevel.erbbands_skewness.mean_essentia,-0.18426742928236847,2
+492,1,lowlevel.erbbands_skewness.stdev_essentia,-0.176627364237428,2
+493,1,lowlevel.erbbands_spread.mean_essentia,0.0987645021113493,2
+494,1,lowlevel.erbbands_spread.stdev_essentia,-0.07788722923631045,2
+495,1,lowlevel.hfc.mean_essentia,0.3623910017771496,2
+496,1,lowlevel.hfc.stdev_essentia,0.09729872267315542,2
+497,1,lowlevel.loudness_ebu128.integrated_essentia,0.3413374636838292,2
+498,1,lowlevel.loudness_ebu128.loudness_range_essentia,-0.3716917224156487,2
+499,1,lowlevel.loudness_ebu128.momentary.mean_essentia,0.36358182295765956,2
+500,1,lowlevel.loudness_ebu128.momentary.stdev_essentia,-0.26323399538200976,2
+501,1,lowlevel.loudness_ebu128.short_term.mean_essentia,0.3599620473995904,2
+502,1,lowlevel.loudness_ebu128.short_term.stdev_essentia,-0.36509868939275325,2
+503,1,lowlevel.melbands_crest.mean_essentia,-0.28405644932005236,2
+504,1,lowlevel.melbands_crest.stdev_essentia,-0.039648644972124975,2
+505,1,lowlevel.melbands_flatness_db.mean_essentia,-0.4718486685103487,2
+506,1,lowlevel.melbands_flatness_db.stdev_essentia,-0.43407474434508986,2
+507,1,lowlevel.melbands_kurtosis.mean_essentia,-0.287906330093875,2
+508,1,lowlevel.melbands_kurtosis.stdev_essentia,-0.2413074097327081,2
+509,1,lowlevel.melbands_skewness.mean_essentia,-0.24851244797560784,2
+510,1,lowlevel.melbands_skewness.stdev_essentia,-0.18489653274122045,2
+511,1,lowlevel.melbands_spread.mean_essentia,0.38981015775475253,2
+512,1,lowlevel.melbands_spread.stdev_essentia,0.16294893500891852,2
+513,1,lowlevel.pitch_salience.mean_essentia,0.22350864381282037,2
+514,1,lowlevel.pitch_salience.stdev_essentia,-0.1537605168684704,2
+515,1,lowlevel.silence_rate_20dB.mean_essentia,0.13251635515315865,2
+516,1,lowlevel.silence_rate_20dB.stdev_essentia,-0.13263194204632114,2
+517,1,lowlevel.silence_rate_30dB.mean_essentia,0.9266552896122421,2
+518,1,lowlevel.silence_rate_30dB.stdev_essentia,-0.9266451616214841,2
+519,1,lowlevel.silence_rate_60dB.mean_essentia,-0.057091015400085474,2
+520,1,lowlevel.silence_rate_60dB.stdev_essentia,-0.04689505096212969,2
+521,1,lowlevel.spectral_centroid.mean_essentia,0.38233643298616476,2
+522,1,lowlevel.spectral_centroid.stdev_essentia,-0.0652480785553618,2
+523,1,lowlevel.spectral_complexity.mean_essentia,0.2581104683450512,2
+524,1,lowlevel.spectral_complexity.stdev_essentia,0.12883718429179228,2
+525,1,lowlevel.spectral_energy.mean_essentia,-0.11207999317356945,2
+526,1,lowlevel.spectral_energy.stdev_essentia,-0.3111622203992779,2
+527,1,lowlevel.spectral_energyband_high.stdev_essentia,0.06612773721010241,2
+528,1,lowlevel.spectral_energyband_low.mean_essentia,-0.22835417376213155,2
+529,1,lowlevel.spectral_energyband_low.stdev_essentia,-0.20299894760157053,2
+530,1,lowlevel.spectral_energyband_middle_high.mean_essentia,0.3331281474423336,2
+531,1,lowlevel.spectral_energyband_middle_high.stdev_essentia,0.14756080139681368,2
+532,1,lowlevel.spectral_energyband_middle_low.mean_essentia,-0.11354841483645958,2
+533,1,lowlevel.spectral_energyband_middle_low.stdev_essentia,-0.2568290026491336,2
+534,1,lowlevel.spectral_entropy.mean_essentia,0.3905049650184413,2
+535,1,lowlevel.spectral_entropy.stdev_essentia,-0.3650990512750378,2
+536,1,lowlevel.spectral_flux.mean_essentia,0.22573549961046974,2
+537,1,lowlevel.spectral_flux.stdev_essentia,-0.10948517743563949,2
+538,1,lowlevel.spectral_kurtosis.mean_essentia,-0.38143302478558927,2
+539,1,lowlevel.spectral_kurtosis.stdev_essentia,-0.45932500245255015,2
+540,1,lowlevel.spectral_rolloff.mean_essentia,0.42479135034691184,2
+541,1,lowlevel.spectral_rolloff.stdev_essentia,0.14670523930650628,2
+542,1,lowlevel.spectral_skewness.mean_essentia,-0.3119638971989043,2
+543,1,lowlevel.spectral_skewness.stdev_essentia,-0.4586826768919935,2
+544,1,lowlevel.spectral_spread.mean_essentia,0.23255032370586673,2
+545,1,lowlevel.spectral_spread.stdev_essentia,-0.16780755831500704,2
+546,1,lowlevel.spectral_strongpeak.mean_essentia,0.29263499592229436,2
+547,1,lowlevel.spectral_strongpeak.stdev_essentia,0.2383962279407587,2
+548,1,lowlevel.zerocrossingrate.mean_essentia,0.44190858182539833,2
+549,1,lowlevel.zerocrossingrate.stdev_essentia,0.06484027228931402,2
+550,1,rhythm.beats_count_essentia,0.06708136779534393,2
+551,1,rhythm.beats_loudness.mean_essentia,-0.0916723187651615,2
+552,1,rhythm.beats_loudness.stdev_essentia,-0.36849503685003,2
+553,1,rhythm.bpm_essentia,0.05499503218654326,2
+554,1,rhythm.bpm_histogram_first_peak_bpm_essentia,0.05096737551476494,2
+555,1,rhythm.bpm_histogram_first_peak_weight_essentia,-0.1167637499866962,2
+556,1,rhythm.bpm_histogram_second_peak_bpm_essentia,0.012288936556386373,2
+557,1,rhythm.bpm_histogram_second_peak_spread_essentia,-0.13881208210600268,2
+558,1,rhythm.bpm_histogram_second_peak_weight_essentia,-0.10695284167696933,2
+559,1,rhythm.danceability_essentia,0.32304392504996904,2
+560,1,rhythm.onset_rate_essentia,0.28830429089231363,2
+561,1,tonal.hpcp_crest.mean_essentia,-0.02261538555936953,2
+562,1,tonal.hpcp_crest.stdev_essentia,0.10315841990411155,2
+563,1,tonal.hpcp_entropy.mean_essentia,0.062414844309111046,2
+564,1,tonal.hpcp_entropy.stdev_essentia,0.2291906080000318,2
+565,1,tonal.tuning_diatonic_strength_essentia,0.13342182897699575,2
+566,1,tonal.tuning_equal_tempered_deviation_essentia,0.1263954334097333,2
+567,1,tonal.tuning_frequency_essentia,0.010115328204284364,2
+568,1,tonal.tuning_nontempered_energy_ratio_essentia,0.15913985937691788,2
+569,1,lines,-0.008524816371696893,3
+570,1,words,-0.04490505522715947,3
+571,1,verses,-0.014827372382634284,3
+572,1,words_token,-0.04004270728746641,3
+573,1,unique_words_token,-0.07774582708445406,3
+574,1,length_mean_words_token,0.016496537068069996,3
+575,1,length_max_words_token,-0.0325460736901566,3
+576,1,length_mstd_words_token,0.01639832538252928,3
+577,1,polarity,0.029555816587926855,3
+578,1,subjectivity,0.0134511094057597,3
+579,1,DET,-0.05963797815103715,3
+580,1,PRON,0.0007077721913783435,3
+581,1,CCONJ,-0.11436308416142281,3
+582,1,ADP,-0.009484640080870518,3
+583,1,PUNCT,0.03041724374046892,3
+584,2,zcr_mean_pyAA,-1.4025677501560145,0
+585,2,energy_mean_pyAA,-0.2698406833058374,0
+586,2,energy_entropy_mean_pyAA,-0.2843954250113907,0
+587,2,spectral_centroid_mean_pyAA,-1.0467431895169295,0
+588,2,spectral_spread_mean_pyAA,0.12485028369447893,0
+589,2,spectral_entropy_mean_pyAA,-1.4290122587362863,0
+590,2,spectral_flux_mean_pyAA,0.7867310295006331,0
+591,2,spectral_rolloff_mean_pyAA,-1.452299487757386,0
+592,2,mfcc_1_mean_pyAA,-0.6621095793995304,0
+593,2,mfcc_2_mean_pyAA,1.297448596744032,0
+594,2,mfcc_3_mean_pyAA,-0.3158876248321327,0
+595,2,mfcc_4_mean_pyAA,0.18910410897469793,0
+596,2,mfcc_5_mean_pyAA,-0.3385844912068333,0
+597,2,mfcc_6_mean_pyAA,-0.2619787784379707,0
+598,2,mfcc_7_mean_pyAA,-0.07914231245609973,0
+599,2,mfcc_8_mean_pyAA,-0.016750702992108766,0
+600,2,mfcc_9_mean_pyAA,-0.07882692532370625,0
+601,2,mfcc_10_mean_pyAA,-0.17783689896633925,0
+602,2,mfcc_11_mean_pyAA,-0.15657445546183604,0
+603,2,mfcc_12_mean_pyAA,0.045249790059305184,0
+604,2,mfcc_13_mean_pyAA,-0.10011460085664194,0
+605,2,chroma_1_mean_pyAA,0.5250317418900521,0
+606,2,chroma_2_mean_pyAA,0.0949900978245807,0
+607,2,chroma_3_mean_pyAA,0.38167215326328763,0
+608,2,chroma_4_mean_pyAA,0.4674565667372234,0
+609,2,chroma_5_mean_pyAA,0.5558762704266039,0
+610,2,chroma_6_mean_pyAA,0.31648330251473833,0
+611,2,chroma_7_mean_pyAA,0.20985600307844346,0
+612,2,chroma_8_mean_pyAA,-0.4333894542830075,0
+613,2,chroma_9_mean_pyAA,0.11407767771675412,0
+614,2,chroma_10_mean_pyAA,0.3696714564273623,0
+615,2,chroma_11_mean_pyAA,0.46699722518724635,0
+616,2,chroma_12_mean_pyAA,0.10260604436062518,0
+617,2,chroma_std_mean_pyAA,0.9224008213894185,0
+618,2,delta zcr_mean_pyAA,-0.8035613795889047,0
+619,2,delta energy_mean_pyAA,-0.10322110614262646,0
+620,2,delta energy_entropy_mean_pyAA,-0.21096345467978475,0
+621,2,delta spectral_centroid_mean_pyAA,-0.3202902414451834,0
+622,2,delta spectral_spread_mean_pyAA,0.08398804031611275,0
+623,2,delta spectral_entropy_mean_pyAA,-0.8104515285814732,0
+624,2,delta spectral_flux_mean_pyAA,0.38163346790271824,0
+625,2,delta spectral_rolloff_mean_pyAA,-0.7362252749759098,0
+626,2,delta mfcc_1_mean_pyAA,0.11034933365540821,0
+627,2,delta mfcc_2_mean_pyAA,0.6762450692405357,0
+628,2,delta mfcc_3_mean_pyAA,-0.017716530649944214,0
+629,2,delta mfcc_4_mean_pyAA,0.12408534715074113,0
+630,2,delta mfcc_5_mean_pyAA,-0.025241309857054244,0
+631,2,delta mfcc_6_mean_pyAA,-0.07329282898807749,0
+632,2,delta mfcc_7_mean_pyAA,0.06235869387747236,0
+633,2,delta mfcc_8_mean_pyAA,-0.04846800097009048,0
+634,2,delta mfcc_9_mean_pyAA,-0.023033020421279735,0
+635,2,delta mfcc_10_mean_pyAA,-0.11521476572318533,0
+636,2,delta mfcc_11_mean_pyAA,0.0515096305753104,0
+637,2,delta mfcc_12_mean_pyAA,-0.0032269594695338868,0
+638,2,delta mfcc_13_mean_pyAA,-0.036699603222111285,0
+639,2,delta chroma_1_mean_pyAA,0.1923994486995599,0
+640,2,delta chroma_2_mean_pyAA,-0.14603889843394965,0
+641,2,delta chroma_3_mean_pyAA,0.2267414659343503,0
+642,2,delta chroma_4_mean_pyAA,0.09265962458103184,0
+643,2,delta chroma_5_mean_pyAA,0.06951252691110187,0
+644,2,delta chroma_6_mean_pyAA,0.003944370815407607,0
+645,2,delta chroma_7_mean_pyAA,0.14089618067878304,0
+646,2,delta chroma_8_mean_pyAA,-0.3821176962973937,0
+647,2,delta chroma_9_mean_pyAA,-0.025182380180650263,0
+648,2,delta chroma_10_mean_pyAA,0.179228219836752,0
+649,2,delta chroma_11_mean_pyAA,0.1863533703191216,0
+650,2,delta chroma_12_mean_pyAA,-0.12368547058945291,0
+651,2,delta chroma_std_mean_pyAA,0.5590011590332074,0
+652,2,zcr_std_pyAA,-0.7024500745305599,0
+653,2,energy_std_pyAA,-0.0265819706307978,0
+654,2,energy_entropy_std_pyAA,-0.024856671482598975,0
+655,2,spectral_centroid_std_pyAA,0.032683052707498945,0
+656,2,spectral_spread_std_pyAA,0.9387444263173398,0
+657,2,spectral_entropy_std_pyAA,-0.9018417297763023,0
+658,2,spectral_flux_std_pyAA,0.22224076011416197,0
+659,2,spectral_rolloff_std_pyAA,-0.6805102683546095,0
+660,2,mfcc_1_std_pyAA,0.1552926460666125,0
+661,2,mfcc_2_std_pyAA,-0.00730642744995079,0
+662,2,mfcc_3_std_pyAA,0.018000161311964875,0
+663,2,mfcc_4_std_pyAA,-0.013421994437790574,0
+664,2,mfcc_5_std_pyAA,0.059968856186333575,0
+665,2,mfcc_6_std_pyAA,0.07203214800016004,0
+666,2,mfcc_7_std_pyAA,0.05979412694812587,0
+667,2,mfcc_8_std_pyAA,0.13090452945155126,0
+668,2,mfcc_9_std_pyAA,0.12902629643777344,0
+669,2,mfcc_10_std_pyAA,0.11611420987606218,0
+670,2,mfcc_11_std_pyAA,0.2014972459817609,0
+671,2,mfcc_12_std_pyAA,0.251174839833359,0
+672,2,mfcc_13_std_pyAA,0.3735226463154811,0
+673,2,chroma_1_std_pyAA,0.6007271969186461,0
+674,2,chroma_2_std_pyAA,0.30860863695013385,0
+675,2,chroma_3_std_pyAA,0.4484194741686061,0
+676,2,chroma_4_std_pyAA,0.543338537998577,0
+677,2,chroma_5_std_pyAA,0.6108752987605557,0
+678,2,chroma_6_std_pyAA,0.427057541472686,0
+679,2,chroma_7_std_pyAA,0.194594997639512,0
+680,2,chroma_8_std_pyAA,-0.09426908519614557,0
+681,2,chroma_9_std_pyAA,0.2395665505072119,0
+682,2,chroma_10_std_pyAA,0.4536706328638571,0
+683,2,chroma_11_std_pyAA,0.5083495461480377,0
+684,2,chroma_12_std_pyAA,0.3002316070267971,0
+685,2,chroma_std_std_pyAA,0.1852760278392136,0
+686,2,delta zcr_std_pyAA,-0.7182428735808438,0
+687,2,delta energy_std_pyAA,-0.3267163186106045,0
+688,2,delta energy_entropy_std_pyAA,-0.06736918987473688,0
+689,2,delta spectral_centroid_std_pyAA,0.257543021059526,0
+690,2,delta spectral_spread_std_pyAA,0.980550681281995,0
+691,2,delta spectral_entropy_std_pyAA,-0.8641935998001441,0
+692,2,delta spectral_flux_std_pyAA,0.22548984695745478,0
+693,2,delta spectral_rolloff_std_pyAA,-0.6299901265220302,0
+694,2,delta mfcc_1_std_pyAA,-0.05254189390011616,0
+695,2,delta mfcc_2_std_pyAA,-0.1686752539461233,0
+696,2,delta mfcc_3_std_pyAA,-0.26582703245454975,0
+697,2,delta mfcc_4_std_pyAA,-0.3251577201044979,0
+698,2,delta mfcc_5_std_pyAA,-0.37828576025518584,0
+699,2,delta mfcc_6_std_pyAA,-0.3572358885370135,0
+700,2,delta mfcc_7_std_pyAA,-0.4464140580467675,0
+701,2,delta mfcc_8_std_pyAA,-0.46392318617882217,0
+702,2,delta mfcc_9_std_pyAA,-0.4901193833190299,0
+703,2,delta mfcc_10_std_pyAA,-0.497717377799201,0
+704,2,delta mfcc_11_std_pyAA,-0.5007353036644536,0
+705,2,delta mfcc_12_std_pyAA,-0.45071814243158664,0
+706,2,delta mfcc_13_std_pyAA,-0.4180702242106791,0
+707,2,delta chroma_1_std_pyAA,0.41542125439340644,0
+708,2,delta chroma_2_std_pyAA,0.18323611059534292,0
+709,2,delta chroma_3_std_pyAA,0.1130866445918309,0
+710,2,delta chroma_4_std_pyAA,0.3597325425224062,0
+711,2,delta chroma_5_std_pyAA,0.3110935178362997,0
+712,2,delta chroma_6_std_pyAA,0.25356883484448245,0
+713,2,delta chroma_7_std_pyAA,-0.10531653324783476,0
+714,2,delta chroma_8_std_pyAA,-0.1635652659045833,0
+715,2,delta chroma_9_std_pyAA,0.0936897731607908,0
+716,2,delta chroma_10_std_pyAA,0.22852110447519222,0
+717,2,delta chroma_11_std_pyAA,0.03383710616930612,0
+718,2,delta chroma_12_std_pyAA,0.21053739393506254,0
+719,2,delta chroma_std_std_pyAA,-0.14160952142952998,0
+720,2,tempo_pyAA,-0.01506031615951081,0
+721,2,global_highest_pitch_cents_all,-1.307732671063191,1
+722,2,global_lowest_pitch_cents_all,-0.8877121564644873,1
+723,2,global_pitch_range_cents_all,-0.5951219742405875,1
+724,2,duration_mean_all,0.26738698096001795,1
+725,2,interval_duration_mean_all,0.43704993850031804,1
+726,2,interval_duration_std_all,0.5627705001319511,1
+727,2,global_highest_pitch_cents_onethird,-1.3225196918735211,1
+728,2,global_lowest_pitch_cents_onethird,-0.8370156620915566,1
+729,2,global_pitch_range_cents_onethird,-0.7077299666715052,1
+730,2,global_vibrato_coverage_onethird,0.14863567057025862,1
+731,2,duration_mean_onethird,0.19020031432857265,1
+732,2,pitch_mean_height_cents_mean_onethird,-1.147112886174796,1
+733,2,pitch_deviation_cents_mean_onethird,-0.6167870041375713,1
+734,2,pitch_range_cents_mean_onethird,-0.6734067494140878,1
+735,2,pitch_min_cents_mean_onethird,-1.0942749266503877,1
+736,2,pitch_max_cents_mean_onethird,-1.1770070538120887,1
+737,2,pitch_mean_height_hz_mean_onethird,-1.1911530130444639,1
+738,2,pitch_deviation_hz_mean_onethird,-1.1351427653468926,1
+739,2,pitch_range_hz_mean_onethird,-1.1655524687130576,1
+740,2,pitch_min_hz_mean_onethird,-1.1256838447236661,1
+741,2,pitch_max_hz_mean_onethird,-1.2323059096020066,1
+742,2,vibrato_length_mean_onethird,0.17223341618996046,1
+743,2,vibrato_coverage_mean_onethird,0.16255457071690466,1
+744,2,vibrato_rate_hz_mean_onethird,-0.1473841241065266,1
+745,2,vibrato_extend_cents_mean_onethird,-1.1138245374734992,1
+746,2,vibrato_extend_hz_mean_onethird,-1.1473571542422882,1
+747,2,duration_std_onethird,-0.04276500708393285,1
+748,2,pitch_mean_height_cents_std_onethird,-0.4783409520663413,1
+749,2,pitch_deviation_cents_std_onethird,-0.3190585341374344,1
+750,2,pitch_range_cents_std_onethird,-0.3733088810486375,1
+751,2,pitch_min_cents_std_onethird,-0.3302361311233546,1
+752,2,pitch_max_cents_std_onethird,-0.5135049436347571,1
+753,2,pitch_mean_height_hz_std_onethird,-1.0619127732962919,1
+754,2,pitch_deviation_hz_std_onethird,-1.066083879304676,1
+755,2,pitch_range_hz_std_onethird,-1.1164020065635707,1
+756,2,pitch_min_hz_std_onethird,-0.8828181977341045,1
+757,2,pitch_max_hz_std_onethird,-1.1489436358819525,1
+758,2,vibrato_length_std_onethird,0.0913722914364254,1
+759,2,vibrato_coverage_std_onethird,0.05443285865106982,1
+760,2,vibrato_rate_hz_std_onethird,-0.1500488305638619,1
+761,2,vibrato_extend_cents_std_onethird,-0.33320685779583714,1
+762,2,vibrato_extend_hz_std_onethird,-1.0604239672583098,1
+763,2,lowlevel.average_loudness_essentia,-0.48523379035545344,2
+764,2,lowlevel.barkbands_crest.mean_essentia,0.9852499367209064,2
+765,2,lowlevel.barkbands_crest.stdev_essentia,0.22339177269560678,2
+766,2,lowlevel.barkbands_flatness_db.mean_essentia,1.1031767128930148,2
+767,2,lowlevel.barkbands_flatness_db.stdev_essentia,0.6705460234724769,2
+768,2,lowlevel.barkbands_kurtosis.mean_essentia,1.0518474720113191,2
+769,2,lowlevel.barkbands_kurtosis.stdev_essentia,0.6549864393461569,2
+770,2,lowlevel.barkbands_skewness.mean_essentia,1.140822688736004,2
+771,2,lowlevel.barkbands_skewness.stdev_essentia,0.3706875162444818,2
+772,2,lowlevel.barkbands_spread.mean_essentia,-1.3412791024704673,2
+773,2,lowlevel.barkbands_spread.stdev_essentia,-0.6006826311263554,2
+774,2,lowlevel.dissonance.mean_essentia,-1.1672395988758466,2
+775,2,lowlevel.dissonance.stdev_essentia,0.9444242766507269,2
+776,2,lowlevel.dynamic_complexity_essentia,0.3562707462005148,2
+777,2,lowlevel.erbbands_crest.mean_essentia,0.782092046037156,2
+778,2,lowlevel.erbbands_crest.stdev_essentia,0.5094516037721554,2
+779,2,lowlevel.erbbands_flatness_db.mean_essentia,0.5310746971620375,2
+780,2,lowlevel.erbbands_flatness_db.stdev_essentia,0.43232231264664184,2
+781,2,lowlevel.erbbands_kurtosis.mean_essentia,0.5596819113353156,2
+782,2,lowlevel.erbbands_kurtosis.stdev_essentia,0.5014379970964256,2
+783,2,lowlevel.erbbands_skewness.mean_essentia,1.241318568189903,2
+784,2,lowlevel.erbbands_skewness.stdev_essentia,0.321241746051463,2
+785,2,lowlevel.erbbands_spread.mean_essentia,-0.4157278853668598,2
+786,2,lowlevel.erbbands_spread.stdev_essentia,0.1201665654620186,2
+787,2,lowlevel.hfc.mean_essentia,-1.0133332047136767,2
+788,2,lowlevel.hfc.stdev_essentia,-0.6505873302694091,2
+789,2,lowlevel.loudness_ebu128.integrated_essentia,-0.7204151863344024,2
+790,2,lowlevel.loudness_ebu128.loudness_range_essentia,0.4019128968254169,2
+791,2,lowlevel.loudness_ebu128.momentary.mean_essentia,-0.7247153411159502,2
+792,2,lowlevel.loudness_ebu128.momentary.stdev_essentia,0.2987452555516096,2
+793,2,lowlevel.loudness_ebu128.short_term.mean_essentia,-0.7315530504831743,2
+794,2,lowlevel.loudness_ebu128.short_term.stdev_essentia,0.37853687076255815,2
+795,2,lowlevel.melbands_crest.mean_essentia,0.7196760408811032,2
+796,2,lowlevel.melbands_crest.stdev_essentia,-0.07509330988428985,2
+797,2,lowlevel.melbands_flatness_db.mean_essentia,1.2623765196454027,2
+798,2,lowlevel.melbands_flatness_db.stdev_essentia,0.5187805483399249,2
+799,2,lowlevel.melbands_kurtosis.mean_essentia,0.7254040303690064,2
+800,2,lowlevel.melbands_kurtosis.stdev_essentia,0.390794322791095,2
+801,2,lowlevel.melbands_skewness.mean_essentia,0.5796562770793384,2
+802,2,lowlevel.melbands_skewness.stdev_essentia,0.21171739614292562,2
+803,2,lowlevel.melbands_spread.mean_essentia,-1.4803424595212993,2
+804,2,lowlevel.melbands_spread.stdev_essentia,-1.039502956482707,2
+805,2,lowlevel.pitch_salience.mean_essentia,-0.6486571028584244,2
+806,2,lowlevel.pitch_salience.stdev_essentia,0.23754027369182246,2
+807,2,lowlevel.silence_rate_20dB.mean_essentia,-0.13155546378170477,2
+808,2,lowlevel.silence_rate_20dB.stdev_essentia,0.13173163674448266,2
+809,2,lowlevel.silence_rate_30dB.mean_essentia,-2.036287871460693,2
+810,2,lowlevel.silence_rate_30dB.stdev_essentia,2.036007308990667,2
+811,2,lowlevel.silence_rate_60dB.mean_essentia,-0.08398515802408492,2
+812,2,lowlevel.silence_rate_60dB.stdev_essentia,-0.07740304977166448,2
+813,2,lowlevel.spectral_centroid.mean_essentia,-1.4605310582778304,2
+814,2,lowlevel.spectral_centroid.stdev_essentia,-0.5532725499296292,2
+815,2,lowlevel.spectral_complexity.mean_essentia,-0.8886987766607503,2
+816,2,lowlevel.spectral_complexity.stdev_essentia,-1.0372673264736831,2
+817,2,lowlevel.spectral_energy.mean_essentia,0.4640538365777565,2
+818,2,lowlevel.spectral_energy.stdev_essentia,0.7356610702378977,2
+819,2,lowlevel.spectral_energyband_high.stdev_essentia,-0.5722498111249182,2
+820,2,lowlevel.spectral_energyband_low.mean_essentia,0.26064282251348475,2
+821,2,lowlevel.spectral_energyband_low.stdev_essentia,0.18809151723673828,2
+822,2,lowlevel.spectral_energyband_middle_high.mean_essentia,-0.7977413708960795,2
+823,2,lowlevel.spectral_energyband_middle_high.stdev_essentia,-0.18913531724348145,2
+824,2,lowlevel.spectral_energyband_middle_low.mean_essentia,0.9842307598964336,2
+825,2,lowlevel.spectral_energyband_middle_low.stdev_essentia,1.031449791872738,2
+826,2,lowlevel.spectral_entropy.mean_essentia,-1.1813975291132388,2
+827,2,lowlevel.spectral_entropy.stdev_essentia,0.8309199503336024,2
+828,2,lowlevel.spectral_flux.mean_essentia,-0.4614149761816525,2
+829,2,lowlevel.spectral_flux.stdev_essentia,0.16379300094933702,2
+830,2,lowlevel.spectral_kurtosis.mean_essentia,0.9844924215327608,2
+831,2,lowlevel.spectral_kurtosis.stdev_essentia,0.9296589490995714,2
+832,2,lowlevel.spectral_rolloff.mean_essentia,-1.4899777156957161,2
+833,2,lowlevel.spectral_rolloff.stdev_essentia,-0.6959293115016136,2
+834,2,lowlevel.spectral_skewness.mean_essentia,1.1608399205720505,2
+835,2,lowlevel.spectral_skewness.stdev_essentia,0.9448634197044602,2
+836,2,lowlevel.spectral_spread.mean_essentia,-0.36416590416779643,2
+837,2,lowlevel.spectral_spread.stdev_essentia,0.27386732312042855,2
+838,2,lowlevel.spectral_strongpeak.mean_essentia,-0.10807478464197441,2
+839,2,lowlevel.spectral_strongpeak.stdev_essentia,-0.38708219961420565,2
+840,2,lowlevel.zerocrossingrate.mean_essentia,-1.4164891485636513,2
+841,2,lowlevel.zerocrossingrate.stdev_essentia,-0.5827052436015189,2
+842,2,rhythm.beats_count_essentia,-0.18580946548941807,2
+843,2,rhythm.beats_loudness.mean_essentia,0.3288870964197107,2
+844,2,rhythm.beats_loudness.stdev_essentia,0.8124492419188784,2
+845,2,rhythm.bpm_essentia,-0.137243663149208,2
+846,2,rhythm.bpm_histogram_first_peak_bpm_essentia,-0.13736238589659455,2
+847,2,rhythm.bpm_histogram_first_peak_weight_essentia,0.19818451901908865,2
+848,2,rhythm.bpm_histogram_second_peak_bpm_essentia,-0.06004331642104367,2
+849,2,rhythm.bpm_histogram_second_peak_spread_essentia,0.34079220489055145,2
+850,2,rhythm.bpm_histogram_second_peak_weight_essentia,0.08486104981966792,2
+851,2,rhythm.danceability_essentia,-0.4510464982148782,2
+852,2,rhythm.onset_rate_essentia,-0.3259128545625926,2
+853,2,tonal.hpcp_crest.mean_essentia,0.8409870648224308,2
+854,2,tonal.hpcp_crest.stdev_essentia,0.4872948361734159,2
+855,2,tonal.hpcp_entropy.mean_essentia,-0.9225516384381516,2
+856,2,tonal.hpcp_entropy.stdev_essentia,-0.4577165713912509,2
+857,2,tonal.tuning_diatonic_strength_essentia,-0.01486246444022266,2
+858,2,tonal.tuning_equal_tempered_deviation_essentia,-0.2776034883185,2
+859,2,tonal.tuning_frequency_essentia,0.00877860345995643,2
+860,2,tonal.tuning_nontempered_energy_ratio_essentia,-0.3184232638112993,2
+861,2,lines,-0.09775251640291407,3
+862,2,words,-0.050271936353833986,3
+863,2,verses,-0.1840490274982936,3
+864,2,words_token,-0.06166217699903352,3
+865,2,unique_words_token,0.023990614320476143,3
+866,2,length_mean_words_token,0.067539894315023,3
+867,2,length_max_words_token,-0.10163428148823467,3
+868,2,length_mstd_words_token,-0.07613818092685261,3
+869,2,polarity,0.007717269006612547,3
+870,2,subjectivity,-0.007063874334030491,3
+871,2,DET,0.00041633226955793684,3
+872,2,PRON,-0.033808118912283865,3
+873,2,CCONJ,0.2779552015375825,3
+874,2,ADP,-0.000864806038230883,3
+875,2,PUNCT,-0.18899649004117522,3
+876,3,zcr_mean_pyAA,-0.6321484877549237,0
+877,3,energy_mean_pyAA,-0.5288977290466176,0
+878,3,energy_entropy_mean_pyAA,-0.6562263496865601,0
+879,3,spectral_centroid_mean_pyAA,-0.3837909668392233,0
+880,3,spectral_spread_mean_pyAA,0.2397379320228333,0
+881,3,spectral_entropy_mean_pyAA,-0.6651683346961704,0
+882,3,spectral_flux_mean_pyAA,0.6424651966421565,0
+883,3,spectral_rolloff_mean_pyAA,-0.6715409563748743,0
+884,3,mfcc_1_mean_pyAA,-0.6634124924672811,0
+885,3,mfcc_2_mean_pyAA,0.6829603094575509,0
+886,3,mfcc_3_mean_pyAA,-0.08855892533852398,0
+887,3,mfcc_4_mean_pyAA,0.14428078352904702,0
+888,3,mfcc_5_mean_pyAA,-0.1029029801959491,0
+889,3,mfcc_6_mean_pyAA,-0.02392324510267684,0
+890,3,mfcc_7_mean_pyAA,0.1515568366300594,0
+891,3,mfcc_8_mean_pyAA,0.12579491162334497,0
+892,3,mfcc_9_mean_pyAA,-0.0121852707786812,0
+893,3,mfcc_10_mean_pyAA,-0.1057111997840351,0
+894,3,mfcc_11_mean_pyAA,-0.14866422549684064,0
+895,3,mfcc_12_mean_pyAA,0.004308312826167726,0
+896,3,mfcc_13_mean_pyAA,-0.10010524935106332,0
+897,3,chroma_1_mean_pyAA,0.29651858050755026,0
+898,3,chroma_2_mean_pyAA,0.01910424028967979,0
+899,3,chroma_3_mean_pyAA,0.4079981839373754,0
+900,3,chroma_4_mean_pyAA,0.17441611677246804,0
+901,3,chroma_5_mean_pyAA,0.3520851810540804,0
+902,3,chroma_6_mean_pyAA,0.008607346971171768,0
+903,3,chroma_7_mean_pyAA,0.29417874193353694,0
+904,3,chroma_8_mean_pyAA,-0.24115205433889622,0
+905,3,chroma_9_mean_pyAA,-0.0360353793323419,0
+906,3,chroma_10_mean_pyAA,0.18001783767688886,0
+907,3,chroma_11_mean_pyAA,0.3566166556492183,0
+908,3,chroma_12_mean_pyAA,-0.021071358713604885,0
+909,3,chroma_std_mean_pyAA,0.5947894923891339,0
+910,3,delta zcr_mean_pyAA,-0.3421862063745334,0
+911,3,delta energy_mean_pyAA,-0.2029426685990895,0
+912,3,delta energy_entropy_mean_pyAA,-0.3090444032980902,0
+913,3,delta spectral_centroid_mean_pyAA,-0.011484109707225748,0
+914,3,delta spectral_spread_mean_pyAA,0.1739954372529596,0
+915,3,delta spectral_entropy_mean_pyAA,-0.3423103268384505,0
+916,3,delta spectral_flux_mean_pyAA,0.3340968220749602,0
+917,3,delta spectral_rolloff_mean_pyAA,-0.30437961131497226,0
+918,3,delta mfcc_1_mean_pyAA,0.061731961992875166,0
+919,3,delta mfcc_2_mean_pyAA,0.34875686336128336,0
+920,3,delta mfcc_3_mean_pyAA,0.0012438366336438495,0
+921,3,delta mfcc_4_mean_pyAA,0.10827629738392727,0
+922,3,delta mfcc_5_mean_pyAA,0.05079593518133423,0
+923,3,delta mfcc_6_mean_pyAA,0.018414236087531923,0
+924,3,delta mfcc_7_mean_pyAA,0.0480716659812805,0
+925,3,delta mfcc_8_mean_pyAA,0.0041252896656257506,0
+926,3,delta mfcc_9_mean_pyAA,-0.02742308075221983,0
+927,3,delta mfcc_10_mean_pyAA,-0.03465025051139091,0
+928,3,delta mfcc_11_mean_pyAA,0.029629866492262392,0
+929,3,delta mfcc_12_mean_pyAA,0.03552359536362761,0
+930,3,delta mfcc_13_mean_pyAA,0.02763092048881648,0
+931,3,delta chroma_1_mean_pyAA,0.08222096838269309,0
+932,3,delta chroma_2_mean_pyAA,-0.0864690937024257,0
+933,3,delta chroma_3_mean_pyAA,0.14143339382678347,0
+934,3,delta chroma_4_mean_pyAA,0.0247229561441411,0
+935,3,delta chroma_5_mean_pyAA,0.05172194289935249,0
+936,3,delta chroma_6_mean_pyAA,0.007289018162691871,0
+937,3,delta chroma_7_mean_pyAA,0.16336730733740734,0
+938,3,delta chroma_8_mean_pyAA,-0.13127553201741515,0
+939,3,delta chroma_9_mean_pyAA,-0.0198483472735024,0
+940,3,delta chroma_10_mean_pyAA,0.10270912942660798,0
+941,3,delta chroma_11_mean_pyAA,0.14873388539012325,0
+942,3,delta chroma_12_mean_pyAA,-0.07092065213761867,0
+943,3,delta chroma_std_mean_pyAA,0.2784258795004427,0
+944,3,zcr_std_pyAA,-0.032059873723322425,0
+945,3,energy_std_pyAA,-0.18775668060849146,0
+946,3,energy_entropy_std_pyAA,0.4652569423215573,0
+947,3,spectral_centroid_std_pyAA,0.3549246957362801,0
+948,3,spectral_spread_std_pyAA,0.563624061749889,0
+949,3,spectral_entropy_std_pyAA,-0.14266127007467652,0
+950,3,spectral_flux_std_pyAA,0.14940803699272528,0
+951,3,spectral_rolloff_std_pyAA,-0.014454701939973315,0
+952,3,mfcc_1_std_pyAA,0.2301238458424809,0
+953,3,mfcc_2_std_pyAA,0.18804699416011347,0
+954,3,mfcc_3_std_pyAA,0.29634415383420704,0
+955,3,mfcc_4_std_pyAA,0.21579684989211315,0
+956,3,mfcc_5_std_pyAA,0.3576961179554775,0
+957,3,mfcc_6_std_pyAA,0.27114260873806634,0
+958,3,mfcc_7_std_pyAA,0.16141529687742365,0
+959,3,mfcc_8_std_pyAA,0.13748411801800325,0
+960,3,mfcc_9_std_pyAA,0.05592241417800757,0
+961,3,mfcc_10_std_pyAA,0.03893725471619582,0
+962,3,mfcc_11_std_pyAA,0.06115480575779805,0
+963,3,mfcc_12_std_pyAA,0.1448906712544646,0
+964,3,mfcc_13_std_pyAA,0.30403959112204804,0
+965,3,chroma_1_std_pyAA,0.3724103453222328,0
+966,3,chroma_2_std_pyAA,0.1777949291843174,0
+967,3,chroma_3_std_pyAA,0.45233872809155234,0
+968,3,chroma_4_std_pyAA,0.23591687082538965,0
+969,3,chroma_5_std_pyAA,0.3825508333555446,0
+970,3,chroma_6_std_pyAA,0.12600271721155223,0
+971,3,chroma_7_std_pyAA,0.30549237041300814,0
+972,3,chroma_8_std_pyAA,-0.035310495779187955,0
+973,3,chroma_9_std_pyAA,0.09008688063583772,0
+974,3,chroma_10_std_pyAA,0.22928118178548162,0
+975,3,chroma_11_std_pyAA,0.41378575329615663,0
+976,3,chroma_12_std_pyAA,0.12229354843698141,0
+977,3,chroma_std_std_pyAA,0.29223429111396154,0
+978,3,delta zcr_std_pyAA,0.03741373528267565,0
+979,3,delta energy_std_pyAA,-0.06899027453725896,0
+980,3,delta energy_entropy_std_pyAA,0.4616051491216613,0
+981,3,delta spectral_centroid_std_pyAA,0.5229246000234113,0
+982,3,delta spectral_spread_std_pyAA,0.5589844064792553,0
+983,3,delta spectral_entropy_std_pyAA,-0.00702811800135656,0
+984,3,delta spectral_flux_std_pyAA,0.1429462987466135,0
+985,3,delta spectral_rolloff_std_pyAA,0.08637005185278031,0
+986,3,delta mfcc_1_std_pyAA,0.3908481879147269,0
+987,3,delta mfcc_2_std_pyAA,0.3651548602358434,0
+988,3,delta mfcc_3_std_pyAA,0.38050753463511544,0
+989,3,delta mfcc_4_std_pyAA,0.29874310054286723,0
+990,3,delta mfcc_5_std_pyAA,0.3309223427903844,0
+991,3,delta mfcc_6_std_pyAA,0.3053790351189204,0
+992,3,delta mfcc_7_std_pyAA,0.2493299476449377,0
+993,3,delta mfcc_8_std_pyAA,0.24205786764128742,0
+994,3,delta mfcc_9_std_pyAA,0.1927686544218582,0
+995,3,delta mfcc_10_std_pyAA,0.16780869855074312,0
+996,3,delta mfcc_11_std_pyAA,0.1275122727213479,0
+997,3,delta mfcc_12_std_pyAA,0.17344163975547278,0
+998,3,delta mfcc_13_std_pyAA,0.24758518668843846,0
+999,3,delta chroma_1_std_pyAA,0.40193680635901174,0
+1000,3,delta chroma_2_std_pyAA,0.1743906085357343,0
+1001,3,delta chroma_3_std_pyAA,0.39920178703035836,0
+1002,3,delta chroma_4_std_pyAA,0.2507118043705272,0
+1003,3,delta chroma_5_std_pyAA,0.3178143877528515,0
+1004,3,delta chroma_6_std_pyAA,0.12401141385271325,0
+1005,3,delta chroma_7_std_pyAA,0.23474904163634994,0
+1006,3,delta chroma_8_std_pyAA,-0.023183933811413763,0
+1007,3,delta chroma_9_std_pyAA,0.08519197378294881,0
+1008,3,delta chroma_10_std_pyAA,0.21277072505302988,0
+1009,3,delta chroma_11_std_pyAA,0.3397988835775354,0
+1010,3,delta chroma_12_std_pyAA,0.13694017567303582,0
+1011,3,delta chroma_std_std_pyAA,0.24647646053267167,0
+1012,3,tempo_pyAA,-0.01269948814700051,0
+1013,3,global_highest_pitch_cents_all,-0.7141490516450323,1
+1014,3,global_lowest_pitch_cents_all,-0.8980007569680946,1
+1015,3,global_pitch_range_cents_all,0.12018884557372307,1
+1016,3,duration_mean_all,-0.5627548193673848,1
+1017,3,interval_duration_mean_all,0.059797805765213485,1
+1018,3,interval_duration_std_all,0.11784439169758071,1
+1019,3,global_highest_pitch_cents_onethird,-0.7731679759884341,1
+1020,3,global_lowest_pitch_cents_onethird,-0.9082046041594866,1
+1021,3,global_pitch_range_cents_onethird,0.05782744428778625,1
+1022,3,global_vibrato_coverage_onethird,-0.19227677550490144,1
+1023,3,duration_mean_onethird,-0.5981668138432603,1
+1024,3,pitch_mean_height_cents_mean_onethird,-1.0075270715892233,1
+1025,3,pitch_deviation_cents_mean_onethird,-0.3262831625930863,1
+1026,3,pitch_range_cents_mean_onethird,-0.4334580479227942,1
+1027,3,pitch_min_cents_mean_onethird,-0.9405680195386122,1
+1028,3,pitch_max_cents_mean_onethird,-0.9825626070010182,1
+1029,3,pitch_mean_height_hz_mean_onethird,-0.9832594464097109,1
+1030,3,pitch_deviation_hz_mean_onethird,-0.7640007652829937,1
+1031,3,pitch_range_hz_mean_onethird,-0.8411436114702724,1
+1032,3,pitch_min_hz_mean_onethird,-0.9271832608167924,1
+1033,3,pitch_max_hz_mean_onethird,-0.967977521517779,1
+1034,3,vibrato_length_mean_onethird,-0.5446814658496689,1
+1035,3,vibrato_coverage_mean_onethird,-0.22523112624864422,1
+1036,3,vibrato_rate_hz_mean_onethird,0.10787259602546016,1
+1037,3,vibrato_extend_cents_mean_onethird,-0.5569872460589157,1
+1038,3,vibrato_extend_hz_mean_onethird,-0.49565943214909197,1
+1039,3,duration_std_onethird,-0.4969402531975058,1
+1040,3,pitch_mean_height_cents_std_onethird,0.1076694728737204,1
+1041,3,pitch_deviation_cents_std_onethird,0.028914260997920323,1
+1042,3,pitch_range_cents_std_onethird,-0.03304167811238895,1
+1043,3,pitch_min_cents_std_onethird,0.11858968842157536,1
+1044,3,pitch_max_cents_std_onethird,0.17365763771546874,1
+1045,3,pitch_mean_height_hz_std_onethird,-0.4205945801297465,1
+1046,3,pitch_deviation_hz_std_onethird,-0.5149350866932683,1
+1047,3,pitch_range_hz_std_onethird,-0.6008767068015585,1
+1048,3,pitch_min_hz_std_onethird,-0.3926412268424591,1
+1049,3,pitch_max_hz_std_onethird,-0.41756826263563723,1
+1050,3,vibrato_length_std_onethird,-0.48985311457961084,1
+1051,3,vibrato_coverage_std_onethird,0.020107055434118042,1
+1052,3,vibrato_rate_hz_std_onethird,0.3034349044010384,1
+1053,3,vibrato_extend_cents_std_onethird,0.1534810582804673,1
+1054,3,vibrato_extend_hz_std_onethird,-0.32011335245767636,1
+1055,3,lowlevel.average_loudness_essentia,-0.20518055212609582,2
+1056,3,lowlevel.barkbands_crest.mean_essentia,0.5566543039975612,2
+1057,3,lowlevel.barkbands_crest.stdev_essentia,0.22978041342163283,2
+1058,3,lowlevel.barkbands_flatness_db.mean_essentia,0.5573706985831831,2
+1059,3,lowlevel.barkbands_flatness_db.stdev_essentia,0.5708246595552855,2
+1060,3,lowlevel.barkbands_kurtosis.mean_essentia,0.6972303101480238,2
+1061,3,lowlevel.barkbands_kurtosis.stdev_essentia,0.5132435686426489,2
+1062,3,lowlevel.barkbands_skewness.mean_essentia,0.7499563753928669,2
+1063,3,lowlevel.barkbands_skewness.stdev_essentia,0.4070911559206216,2
+1064,3,lowlevel.barkbands_spread.mean_essentia,-0.6198127166876063,2
+1065,3,lowlevel.barkbands_spread.stdev_essentia,0.04909754822202548,2
+1066,3,lowlevel.dissonance.mean_essentia,-0.6035095970872367,2
+1067,3,lowlevel.dissonance.stdev_essentia,0.6022892528364877,2
+1068,3,lowlevel.dynamic_complexity_essentia,0.34953911211461186,2
+1069,3,lowlevel.erbbands_crest.mean_essentia,0.2592557270461533,2
+1070,3,lowlevel.erbbands_crest.stdev_essentia,0.21668878179709075,2
+1071,3,lowlevel.erbbands_flatness_db.mean_essentia,0.12183685896812295,2
+1072,3,lowlevel.erbbands_flatness_db.stdev_essentia,0.38886046310075406,2
+1073,3,lowlevel.erbbands_kurtosis.mean_essentia,0.1946031474142886,2
+1074,3,lowlevel.erbbands_kurtosis.stdev_essentia,0.27499420739805297,2
+1075,3,lowlevel.erbbands_skewness.mean_essentia,0.6076791752544956,2
+1076,3,lowlevel.erbbands_skewness.stdev_essentia,0.2972333366485896,2
+1077,3,lowlevel.erbbands_spread.mean_essentia,0.10440966660386529,2
+1078,3,lowlevel.erbbands_spread.stdev_essentia,0.40778175549127105,2
+1079,3,lowlevel.hfc.mean_essentia,-0.5837790270824285,2
+1080,3,lowlevel.hfc.stdev_essentia,-0.11149534019163158,2
+1081,3,lowlevel.loudness_ebu128.integrated_essentia,-0.7851764336393161,2
+1082,3,lowlevel.loudness_ebu128.loudness_range_essentia,0.09727537296266683,2
+1083,3,lowlevel.loudness_ebu128.momentary.mean_essentia,-0.7022143813776739,2
+1084,3,lowlevel.loudness_ebu128.momentary.stdev_essentia,0.07893145089651996,2
+1085,3,lowlevel.loudness_ebu128.short_term.mean_essentia,-0.7386203484017345,2
+1086,3,lowlevel.loudness_ebu128.short_term.stdev_essentia,0.05449394352452196,2
+1087,3,lowlevel.melbands_crest.mean_essentia,0.46463105450583503,2
+1088,3,lowlevel.melbands_crest.stdev_essentia,0.11626963599513339,2
+1089,3,lowlevel.melbands_flatness_db.mean_essentia,0.6729979265533164,2
+1090,3,lowlevel.melbands_flatness_db.stdev_essentia,0.5245849246418923,2
+1091,3,lowlevel.melbands_kurtosis.mean_essentia,0.6139126565150704,2
+1092,3,lowlevel.melbands_kurtosis.stdev_essentia,0.4384024620013283,2
+1093,3,lowlevel.melbands_skewness.mean_essentia,0.5449254398314928,2
+1094,3,lowlevel.melbands_skewness.stdev_essentia,0.371028205441194,2
+1095,3,lowlevel.melbands_spread.mean_essentia,-0.7326302257920376,2
+1096,3,lowlevel.melbands_spread.stdev_essentia,-0.25059677108094813,2
+1097,3,lowlevel.pitch_salience.mean_essentia,-0.26533181565620817,2
+1098,3,lowlevel.pitch_salience.stdev_essentia,0.35135815691123523,2
+1099,3,lowlevel.silence_rate_20dB.mean_essentia,-0.2220565188785698,2
+1100,3,lowlevel.silence_rate_20dB.stdev_essentia,0.22228898401400618,2
+1101,3,lowlevel.silence_rate_30dB.mean_essentia,-1.8571785965516139,2
+1102,3,lowlevel.silence_rate_30dB.stdev_essentia,1.8572704524175334,2
+1103,3,lowlevel.silence_rate_60dB.mean_essentia,0.11152277160094018,2
+1104,3,lowlevel.silence_rate_60dB.stdev_essentia,0.11168513372352244,2
+1105,3,lowlevel.spectral_centroid.mean_essentia,-0.7408983321517757,2
+1106,3,lowlevel.spectral_centroid.stdev_essentia,0.07746158418479704,2
+1107,3,lowlevel.spectral_complexity.mean_essentia,-0.5784317723468692,2
+1108,3,lowlevel.spectral_complexity.stdev_essentia,-0.35060209886152116,2
+1109,3,lowlevel.spectral_energy.mean_essentia,0.28549656775077864,2
+1110,3,lowlevel.spectral_energy.stdev_essentia,0.7501204407791937,2
+1111,3,lowlevel.spectral_energyband_high.stdev_essentia,-0.12629636204928402,2
+1112,3,lowlevel.spectral_energyband_low.mean_essentia,0.3627903373237296,2
+1113,3,lowlevel.spectral_energyband_low.stdev_essentia,0.43221954307839006,2
+1114,3,lowlevel.spectral_energyband_middle_high.mean_essentia,-0.6118546404436709,2
+1115,3,lowlevel.spectral_energyband_middle_high.stdev_essentia,-0.12473488716275914,2
+1116,3,lowlevel.spectral_energyband_middle_low.mean_essentia,0.41492372014006307,2
+1117,3,lowlevel.spectral_energyband_middle_low.stdev_essentia,0.6894375268581823,2
+1118,3,lowlevel.spectral_entropy.mean_essentia,-0.5153521423137551,2
+1119,3,lowlevel.spectral_entropy.stdev_essentia,0.6097278351996958,2
+1120,3,lowlevel.spectral_flux.mean_essentia,-0.02001397219915281,2
+1121,3,lowlevel.spectral_flux.stdev_essentia,0.6127317346296427,2
+1122,3,lowlevel.spectral_kurtosis.mean_essentia,0.38984027381088265,2
+1123,3,lowlevel.spectral_kurtosis.stdev_essentia,0.5117307977859546,2
+1124,3,lowlevel.spectral_rolloff.mean_essentia,-0.7079175156294998,2
+1125,3,lowlevel.spectral_rolloff.stdev_essentia,-0.02317002156709079,2
+1126,3,lowlevel.spectral_skewness.mean_essentia,0.5454109290267992,2
+1127,3,lowlevel.spectral_skewness.stdev_essentia,0.5843017523724591,2
+1128,3,lowlevel.spectral_spread.mean_essentia,0.04389313328354473,2
+1129,3,lowlevel.spectral_spread.stdev_essentia,0.40881165034080813,2
+1130,3,lowlevel.spectral_strongpeak.mean_essentia,-0.34429765038689747,2
+1131,3,lowlevel.spectral_strongpeak.stdev_essentia,-0.41697827571652946,2
+1132,3,lowlevel.zerocrossingrate.mean_essentia,-0.6358879556529388,2
+1133,3,lowlevel.zerocrossingrate.stdev_essentia,0.034693300041837155,2
+1134,3,rhythm.beats_count_essentia,-0.1245712560667721,2
+1135,3,rhythm.beats_loudness.mean_essentia,0.4521728610705578,2
+1136,3,rhythm.beats_loudness.stdev_essentia,0.7479322512144038,2
+1137,3,rhythm.bpm_essentia,-0.12458608499945423,2
+1138,3,rhythm.bpm_histogram_first_peak_bpm_essentia,-0.1238182578330136,2
+1139,3,rhythm.bpm_histogram_first_peak_weight_essentia,0.05919843865693231,2
+1140,3,rhythm.bpm_histogram_second_peak_bpm_essentia,-0.11074583250790387,2
+1141,3,rhythm.bpm_histogram_second_peak_spread_essentia,0.1566248554562569,2
+1142,3,rhythm.bpm_histogram_second_peak_weight_essentia,-0.05135121320253196,2
+1143,3,rhythm.danceability_essentia,0.16679502765030635,2
+1144,3,rhythm.onset_rate_essentia,0.2213044485581403,2
+1145,3,tonal.hpcp_crest.mean_essentia,0.2062954243030395,2
+1146,3,tonal.hpcp_crest.stdev_essentia,0.10355521399545678,2
+1147,3,tonal.hpcp_entropy.mean_essentia,-0.23487010430605693,2
+1148,3,tonal.hpcp_entropy.stdev_essentia,-0.09877959538542,2
+1149,3,tonal.tuning_diatonic_strength_essentia,-0.07080029656659528,2
+1150,3,tonal.tuning_equal_tempered_deviation_essentia,0.08700812038490979,2
+1151,3,tonal.tuning_frequency_essentia,-0.03140309031596145,2
+1152,3,tonal.tuning_nontempered_energy_ratio_essentia,0.07350375157184727,2
+1153,3,lines,0.2751374942854983,3
+1154,3,words,0.388605640335485,3
+1155,3,verses,0.0636680238244623,3
+1156,3,words_token,0.3756081120847296,3
+1157,3,unique_words_token,0.41207741642913426,3
+1158,3,length_mean_words_token,0.04410959967912371,3
+1159,3,length_max_words_token,0.1548675975260581,3
+1160,3,length_mstd_words_token,0.01586119747286405,3
+1161,3,polarity,0.036560686924485414,3
+1162,3,subjectivity,-0.01118735197235901,3
+1163,3,DET,0.3450386080404552,3
+1164,3,PRON,0.23029553660161636,3
+1165,3,CCONJ,0.47856719131020387,3
+1166,3,ADP,0.34054509059218196,3
+1167,3,PUNCT,0.3435615010793129,3
+1168,4,zcr_mean_pyAA,0.5937053139399888,0
+1169,4,energy_mean_pyAA,0.14631113668756127,0
+1170,4,energy_entropy_mean_pyAA,0.2904084900403807,0
+1171,4,spectral_centroid_mean_pyAA,0.3365694356500655,0
+1172,4,spectral_spread_mean_pyAA,-0.3900012934400148,0
+1173,4,spectral_entropy_mean_pyAA,0.7522615073790229,0
+1174,4,spectral_flux_mean_pyAA,-0.7071796035197986,0
+1175,4,spectral_rolloff_mean_pyAA,0.6398619592824205,0
+1176,4,mfcc_1_mean_pyAA,0.48828984752946863,0
+1177,4,mfcc_2_mean_pyAA,-0.8155918176897748,0
+1178,4,mfcc_3_mean_pyAA,0.5378468753566451,0
+1179,4,mfcc_4_mean_pyAA,0.13701912011988326,0
+1180,4,mfcc_5_mean_pyAA,0.44681377098340047,0
+1181,4,mfcc_6_mean_pyAA,0.37712549157652664,0
+1182,4,mfcc_7_mean_pyAA,0.1724105469353675,0
+1183,4,mfcc_8_mean_pyAA,0.2113154681815909,0
+1184,4,mfcc_9_mean_pyAA,0.02741519738812894,0
+1185,4,mfcc_10_mean_pyAA,0.189050574540701,0
+1186,4,mfcc_11_mean_pyAA,0.08809443155547983,0
+1187,4,mfcc_12_mean_pyAA,0.004253098825424935,0
+1188,4,mfcc_13_mean_pyAA,0.06031252448220716,0
+1189,4,chroma_1_mean_pyAA,-0.38087335014610096,0
+1190,4,chroma_2_mean_pyAA,-0.32444211079342244,0
+1191,4,chroma_3_mean_pyAA,-0.052614732706363083,0
+1192,4,chroma_4_mean_pyAA,-0.41866003913110905,0
+1193,4,chroma_5_mean_pyAA,-0.14444480832231024,0
+1194,4,chroma_6_mean_pyAA,-0.43583562942321424,0
+1195,4,chroma_7_mean_pyAA,0.03556604143476571,0
+1196,4,chroma_8_mean_pyAA,0.056341738915108054,0
+1197,4,chroma_9_mean_pyAA,-0.3281688063549666,0
+1198,4,chroma_10_mean_pyAA,-0.17376488733552892,0
+1199,4,chroma_11_mean_pyAA,-0.14706845795824686,0
+1200,4,chroma_12_mean_pyAA,-0.34132943033386964,0
+1201,4,chroma_std_mean_pyAA,-0.4146207281299805,0
+1202,4,delta zcr_mean_pyAA,0.38490521496737684,0
+1203,4,delta energy_mean_pyAA,0.085323684630006,0
+1204,4,delta energy_entropy_mean_pyAA,0.08454640155547939,0
+1205,4,delta spectral_centroid_mean_pyAA,0.11336159751182705,0
+1206,4,delta spectral_spread_mean_pyAA,-0.0678569397916783,0
+1207,4,delta spectral_entropy_mean_pyAA,0.4002378647493637,0
+1208,4,delta spectral_flux_mean_pyAA,-0.2764599564026654,0
+1209,4,delta spectral_rolloff_mean_pyAA,0.32607330961215386,0
+1210,4,delta mfcc_1_mean_pyAA,-0.10720582231916563,0
+1211,4,delta mfcc_2_mean_pyAA,-0.4230232257880791,0
+1212,4,delta mfcc_3_mean_pyAA,0.16282529233875065,0
+1213,4,delta mfcc_4_mean_pyAA,0.06622154542083776,0
+1214,4,delta mfcc_5_mean_pyAA,0.151086560618546,0
+1215,4,delta mfcc_6_mean_pyAA,0.05462402990865761,0
+1216,4,delta mfcc_7_mean_pyAA,0.030847745948035705,0
+1217,4,delta mfcc_8_mean_pyAA,0.05804009473668497,0
+1218,4,delta mfcc_9_mean_pyAA,-0.01085523301960262,0
+1219,4,delta mfcc_10_mean_pyAA,0.08944844656366727,0
+1220,4,delta mfcc_11_mean_pyAA,-0.002948896518626616,0
+1221,4,delta mfcc_12_mean_pyAA,-0.003975570071465946,0
+1222,4,delta mfcc_13_mean_pyAA,0.07694124510682791,0
+1223,4,delta chroma_1_mean_pyAA,-0.13413397820713047,0
+1224,4,delta chroma_2_mean_pyAA,0.018251771652558858,0
+1225,4,delta chroma_3_mean_pyAA,0.014350941656270665,0
+1226,4,delta chroma_4_mean_pyAA,-0.04691947524919877,0
+1227,4,delta chroma_5_mean_pyAA,0.01886142166647075,0
+1228,4,delta chroma_6_mean_pyAA,-0.0915635497259819,0
+1229,4,delta chroma_7_mean_pyAA,0.012246181840444447,0
+1230,4,delta chroma_8_mean_pyAA,0.18736058400134975,0
+1231,4,delta chroma_9_mean_pyAA,-0.014807474375790351,0
+1232,4,delta chroma_10_mean_pyAA,-0.06836416508293554,0
+1233,4,delta chroma_11_mean_pyAA,-0.044749545010065804,0
+1234,4,delta chroma_12_mean_pyAA,-0.018318155996475172,0
+1235,4,delta chroma_std_mean_pyAA,-0.22056504180394026,0
+1236,4,zcr_std_pyAA,-0.2824858452178019,0
+1237,4,energy_std_pyAA,-0.2435056905549259,0
+1238,4,energy_entropy_std_pyAA,-0.31555850809854036,0
+1239,4,spectral_centroid_std_pyAA,-0.7637526889990239,0
+1240,4,spectral_spread_std_pyAA,-0.6461323863716758,0
+1241,4,spectral_entropy_std_pyAA,-0.11457688567554293,0
+1242,4,spectral_flux_std_pyAA,-0.17491784141560518,0
+1243,4,spectral_rolloff_std_pyAA,-0.27353351188104197,0
+1244,4,mfcc_1_std_pyAA,-0.29214351160985147,0
+1245,4,mfcc_2_std_pyAA,-0.42610829409225864,0
+1246,4,mfcc_3_std_pyAA,-0.5040711326012983,0
+1247,4,mfcc_4_std_pyAA,-0.4912076021500284,0
+1248,4,mfcc_5_std_pyAA,-0.5202628585900652,0
+1249,4,mfcc_6_std_pyAA,-0.5394180260942949,0
+1250,4,mfcc_7_std_pyAA,-0.5649719629988115,0
+1251,4,mfcc_8_std_pyAA,-0.5651638221953549,0
+1252,4,mfcc_9_std_pyAA,-0.5570600520875434,0
+1253,4,mfcc_10_std_pyAA,-0.5384213749357678,0
+1254,4,mfcc_11_std_pyAA,-0.5496360171848438,0
+1255,4,mfcc_12_std_pyAA,-0.5858012337960068,0
+1256,4,mfcc_13_std_pyAA,-0.6352509115256146,0
+1257,4,chroma_1_std_pyAA,-0.5222592336996487,0
+1258,4,chroma_2_std_pyAA,-0.5241835083500084,0
+1259,4,chroma_3_std_pyAA,-0.241144279228663,0
+1260,4,chroma_4_std_pyAA,-0.5700763481132408,0
+1261,4,chroma_5_std_pyAA,-0.3520505291516275,0
+1262,4,chroma_6_std_pyAA,-0.5984586874930504,0
+1263,4,chroma_7_std_pyAA,-0.10098668277885586,0
+1264,4,chroma_8_std_pyAA,-0.21295256778005486,0
+1265,4,chroma_9_std_pyAA,-0.4842646359006925,0
+1266,4,chroma_10_std_pyAA,-0.3862002113568484,0
+1267,4,chroma_11_std_pyAA,-0.32450838625574446,0
+1268,4,chroma_12_std_pyAA,-0.5341000785652611,0
+1269,4,chroma_std_std_pyAA,-0.26262058640316327,0
+1270,4,delta zcr_std_pyAA,-0.22179505507314373,0
+1271,4,delta energy_std_pyAA,-0.05363502422634108,0
+1272,4,delta energy_entropy_std_pyAA,-0.2925882876906248,0
+1273,4,delta spectral_centroid_std_pyAA,-0.7940493500478766,0
+1274,4,delta spectral_spread_std_pyAA,-0.6055283814470347,0
+1275,4,delta spectral_entropy_std_pyAA,-0.07093932615937791,0
+1276,4,delta spectral_flux_std_pyAA,-0.1680437210328865,0
+1277,4,delta spectral_rolloff_std_pyAA,-0.2675202180528589,0
+1278,4,delta mfcc_1_std_pyAA,-0.2962585114503324,0
+1279,4,delta mfcc_2_std_pyAA,-0.3705999521558378,0
+1280,4,delta mfcc_3_std_pyAA,-0.41729390748909756,0
+1281,4,delta mfcc_4_std_pyAA,-0.3464091713169843,0
+1282,4,delta mfcc_5_std_pyAA,-0.32768296891858695,0
+1283,4,delta mfcc_6_std_pyAA,-0.3202238885265372,0
+1284,4,delta mfcc_7_std_pyAA,-0.31606033948669354,0
+1285,4,delta mfcc_8_std_pyAA,-0.31633116750406387,0
+1286,4,delta mfcc_9_std_pyAA,-0.29622200905876855,0
+1287,4,delta mfcc_10_std_pyAA,-0.23102459869782632,0
+1288,4,delta mfcc_11_std_pyAA,-0.2598446441017371,0
+1289,4,delta mfcc_12_std_pyAA,-0.2530247948912952,0
+1290,4,delta mfcc_13_std_pyAA,-0.26096176870578397,0
+1291,4,delta chroma_1_std_pyAA,-0.45277288830106177,0
+1292,4,delta chroma_2_std_pyAA,-0.49444446831660654,0
+1293,4,delta chroma_3_std_pyAA,-0.07131728514344393,0
+1294,4,delta chroma_4_std_pyAA,-0.5261641804466065,0
+1295,4,delta chroma_5_std_pyAA,-0.287771415681535,0
+1296,4,delta chroma_6_std_pyAA,-0.5604719423921605,0
+1297,4,delta chroma_7_std_pyAA,0.06133319553202498,0
+1298,4,delta chroma_8_std_pyAA,-0.18020188241255652,0
+1299,4,delta chroma_9_std_pyAA,-0.4346268933279315,0
+1300,4,delta chroma_10_std_pyAA,-0.28472088571856735,0
+1301,4,delta chroma_11_std_pyAA,-0.0887473690211645,0
+1302,4,delta chroma_12_std_pyAA,-0.522313571078055,0
+1303,4,delta chroma_std_std_pyAA,-0.12342235792343127,0
+1304,4,tempo_pyAA,0.0406841815788531,0
+1305,4,global_highest_pitch_cents_all,0.6351964480331891,1
+1306,4,global_lowest_pitch_cents_all,0.7031096947618372,1
+1307,4,global_pitch_range_cents_all,-0.06170917814432709,1
+1308,4,duration_mean_all,0.353437444052684,1
+1309,4,interval_duration_mean_all,-0.37094680335341107,1
+1310,4,interval_duration_std_all,-0.3670576390513669,1
+1311,4,global_highest_pitch_cents_onethird,0.6229681386594956,1
+1312,4,global_lowest_pitch_cents_onethird,0.715428639046218,1
+1313,4,global_pitch_range_cents_onethird,-0.034013127424418914,1
+1314,4,global_vibrato_coverage_onethird,0.027861535900249125,1
+1315,4,duration_mean_onethird,0.38494264299735104,1
+1316,4,pitch_mean_height_cents_mean_onethird,0.708882168474932,1
+1317,4,pitch_deviation_cents_mean_onethird,0.44511856169306757,1
+1318,4,pitch_range_cents_mean_onethird,0.5832060518292354,1
+1319,4,pitch_min_cents_mean_onethird,0.6418220481033261,1
+1320,4,pitch_max_cents_mean_onethird,0.7722551263986153,1
+1321,4,pitch_mean_height_hz_mean_onethird,0.6893331777677784,1
+1322,4,pitch_deviation_hz_mean_onethird,0.706879627520367,1
+1323,4,pitch_range_hz_mean_onethird,0.7885548035308176,1
+1324,4,pitch_min_hz_mean_onethird,0.6131380936661195,1
+1325,4,pitch_max_hz_mean_onethird,0.7587811987508781,1
+1326,4,vibrato_length_mean_onethird,0.3092891232189898,1
+1327,4,vibrato_coverage_mean_onethird,0.02996854717706657,1
+1328,4,vibrato_rate_hz_mean_onethird,0.04521871705931037,1
+1329,4,vibrato_extend_cents_mean_onethird,0.5717442386146728,1
+1330,4,vibrato_extend_hz_mean_onethird,0.5501833022772792,1
+1331,4,duration_std_onethird,0.3648017270964269,1
+1332,4,pitch_mean_height_cents_std_onethird,-0.27765765683596816,1
+1333,4,pitch_deviation_cents_std_onethird,-0.031354851247198445,1
+1334,4,pitch_range_cents_std_onethird,0.05587428300756909,1
+1335,4,pitch_min_cents_std_onethird,-0.3052099075034421,1
+1336,4,pitch_max_cents_std_onethird,-0.2356529941455519,1
+1337,4,pitch_mean_height_hz_std_onethird,0.16199650389653722,1
+1338,4,pitch_deviation_hz_std_onethird,0.4129501628348981,1
+1339,4,pitch_range_hz_std_onethird,0.5049436867951147,1
+1340,4,pitch_min_hz_std_onethird,0.1133008542695638,1
+1341,4,pitch_max_hz_std_onethird,0.2710147252858991,1
+1342,4,vibrato_length_std_onethird,0.2854714374775298,1
+1343,4,vibrato_coverage_std_onethird,-0.19802844950143114,1
+1344,4,vibrato_rate_hz_std_onethird,-0.15683813203548633,1
+1345,4,vibrato_extend_cents_std_onethird,-0.017161079643259514,1
+1346,4,vibrato_extend_hz_std_onethird,0.4294705616193295,1
+1347,4,lowlevel.average_loudness_essentia,0.3551052024175374,2
+1348,4,lowlevel.barkbands_crest.mean_essentia,-0.674156431787526,2
+1349,4,lowlevel.barkbands_crest.stdev_essentia,-0.38109436896183596,2
+1350,4,lowlevel.barkbands_flatness_db.mean_essentia,-0.6586884436976785,2
+1351,4,lowlevel.barkbands_flatness_db.stdev_essentia,-0.6672360244435518,2
+1352,4,lowlevel.barkbands_kurtosis.mean_essentia,-0.7531210736085353,2
+1353,4,lowlevel.barkbands_kurtosis.stdev_essentia,-0.5460527756597636,2
+1354,4,lowlevel.barkbands_skewness.mean_essentia,-0.6490004463603768,2
+1355,4,lowlevel.barkbands_skewness.stdev_essentia,-0.42021642664274445,2
+1356,4,lowlevel.barkbands_spread.mean_essentia,0.8018685169058491,2
+1357,4,lowlevel.barkbands_spread.stdev_essentia,-0.1838204479318374,2
+1358,4,lowlevel.dissonance.mean_essentia,1.0216719491301276,2
+1359,4,lowlevel.dissonance.stdev_essentia,-0.9886343127926622,2
+1360,4,lowlevel.dynamic_complexity_essentia,-0.47949223247189393,2
+1361,4,lowlevel.erbbands_crest.mean_essentia,-0.7250369399988477,2
+1362,4,lowlevel.erbbands_crest.stdev_essentia,-0.7131206727712627,2
+1363,4,lowlevel.erbbands_flatness_db.mean_essentia,-0.3042579999275284,2
+1364,4,lowlevel.erbbands_flatness_db.stdev_essentia,-0.6490184894559425,2
+1365,4,lowlevel.erbbands_kurtosis.mean_essentia,-0.5352836914173126,2
+1366,4,lowlevel.erbbands_kurtosis.stdev_essentia,-0.6316202740441519,2
+1367,4,lowlevel.erbbands_skewness.mean_essentia,-0.98174940231711,2
+1368,4,lowlevel.erbbands_skewness.stdev_essentia,-0.6555038687760256,2
+1369,4,lowlevel.erbbands_spread.mean_essentia,0.20374218032041924,2
+1370,4,lowlevel.erbbands_spread.stdev_essentia,-0.4175384604962152,2
+1371,4,lowlevel.hfc.mean_essentia,0.5193805599136861,2
+1372,4,lowlevel.hfc.stdev_essentia,-0.07073818676333625,2
+1373,4,lowlevel.loudness_ebu128.integrated_essentia,0.2821931338807465,2
+1374,4,lowlevel.loudness_ebu128.loudness_range_essentia,-0.2857608410895038,2
+1375,4,lowlevel.loudness_ebu128.momentary.mean_essentia,0.3152787550935578,2
+1376,4,lowlevel.loudness_ebu128.momentary.stdev_essentia,-0.22223623464077183,2
+1377,4,lowlevel.loudness_ebu128.short_term.mean_essentia,0.292114695444976,2
+1378,4,lowlevel.loudness_ebu128.short_term.stdev_essentia,-0.2355721050063205,2
+1379,4,lowlevel.melbands_crest.mean_essentia,-0.36366857223028326,2
+1380,4,lowlevel.melbands_crest.stdev_essentia,-0.19597547050616632,2
+1381,4,lowlevel.melbands_flatness_db.mean_essentia,-0.7251972942858163,2
+1382,4,lowlevel.melbands_flatness_db.stdev_essentia,-0.6013242028421569,2
+1383,4,lowlevel.melbands_kurtosis.mean_essentia,-0.46434947846691965,2
+1384,4,lowlevel.melbands_kurtosis.stdev_essentia,-0.3358345355898975,2
+1385,4,lowlevel.melbands_skewness.mean_essentia,-0.23460148166674308,2
+1386,4,lowlevel.melbands_skewness.stdev_essentia,-0.2691561050589295,2
+1387,4,lowlevel.melbands_spread.mean_essentia,0.795782530158221,2
+1388,4,lowlevel.melbands_spread.stdev_essentia,0.10412892155678447,2
+1389,4,lowlevel.pitch_salience.mean_essentia,0.3834709852798893,2
+1390,4,lowlevel.pitch_salience.stdev_essentia,-0.4054896402796821,2
+1391,4,lowlevel.silence_rate_20dB.mean_essentia,0.024057008917581096,2
+1392,4,lowlevel.silence_rate_20dB.stdev_essentia,-0.024054990413874686,2
+1393,4,lowlevel.silence_rate_30dB.mean_essentia,1.02260570843284,2
+1394,4,lowlevel.silence_rate_30dB.stdev_essentia,-1.022478991673041,2
+1395,4,lowlevel.silence_rate_60dB.mean_essentia,-0.20569057879265829,2
+1396,4,lowlevel.silence_rate_60dB.stdev_essentia,-0.22198902980392332,2
+1397,4,lowlevel.spectral_centroid.mean_essentia,0.8810876082358899,2
+1398,4,lowlevel.spectral_centroid.stdev_essentia,-0.23207775518997578,2
+1399,4,lowlevel.spectral_complexity.mean_essentia,0.7638987467760501,2
+1400,4,lowlevel.spectral_complexity.stdev_essentia,0.6049080864367414,2
+1401,4,lowlevel.spectral_energy.mean_essentia,-0.08205041765619449,2
+1402,4,lowlevel.spectral_energy.stdev_essentia,-0.4407983126974092,2
+1403,4,lowlevel.spectral_energyband_high.stdev_essentia,-0.03699482035895332,2
+1404,4,lowlevel.spectral_energyband_low.mean_essentia,0.06849410896990163,2
+1405,4,lowlevel.spectral_energyband_low.stdev_essentia,-0.012839561830684038,2
+1406,4,lowlevel.spectral_energyband_middle_high.mean_essentia,0.5088016236912555,2
+1407,4,lowlevel.spectral_energyband_middle_high.stdev_essentia,-0.09995660876868112,2
+1408,4,lowlevel.spectral_energyband_middle_low.mean_essentia,-0.519192066678088,2
+1409,4,lowlevel.spectral_energyband_middle_low.stdev_essentia,-0.6581449239709916,2
+1410,4,lowlevel.spectral_entropy.mean_essentia,0.7427377848190247,2
+1411,4,lowlevel.spectral_entropy.stdev_essentia,-0.9427838849841793,2
+1412,4,lowlevel.spectral_flux.mean_essentia,0.3189210054255273,2
+1413,4,lowlevel.spectral_flux.stdev_essentia,-0.2924728436467012,2
+1414,4,lowlevel.spectral_kurtosis.mean_essentia,-0.6087388358489312,2
+1415,4,lowlevel.spectral_kurtosis.stdev_essentia,-0.7219965239717875,2
+1416,4,lowlevel.spectral_rolloff.mean_essentia,0.6587747367824885,2
+1417,4,lowlevel.spectral_rolloff.stdev_essentia,-0.26315165387864853,2
+1418,4,lowlevel.spectral_skewness.mean_essentia,-0.8590350207762784,2
+1419,4,lowlevel.spectral_skewness.stdev_essentia,-0.8484455076591555,2
+1420,4,lowlevel.spectral_spread.mean_essentia,-0.11757835927522682,2
+1421,4,lowlevel.spectral_spread.stdev_essentia,-0.6712014542150254,2
+1422,4,lowlevel.spectral_strongpeak.mean_essentia,-0.2762635930815222,2
+1423,4,lowlevel.spectral_strongpeak.stdev_essentia,-0.08697298787336608,2
+1424,4,lowlevel.zerocrossingrate.mean_essentia,0.5978420703183409,2
+1425,4,lowlevel.zerocrossingrate.stdev_essentia,-0.3720618755827869,2
+1426,4,rhythm.beats_count_essentia,0.1799165798906203,2
+1427,4,rhythm.beats_loudness.mean_essentia,-0.15656333927623783,2
+1428,4,rhythm.beats_loudness.stdev_essentia,-0.49118896452378635,2
+1429,4,rhythm.bpm_essentia,0.1563394046263557,2
+1430,4,rhythm.bpm_histogram_first_peak_bpm_essentia,0.16114672214699335,2
+1431,4,rhythm.bpm_histogram_first_peak_weight_essentia,-0.12057908093117473,2
+1432,4,rhythm.bpm_histogram_second_peak_bpm_essentia,0.10985004976087778,2
+1433,4,rhythm.bpm_histogram_second_peak_spread_essentia,-0.3120345576338527,2
+1434,4,rhythm.bpm_histogram_second_peak_weight_essentia,0.02140808731752211,2
+1435,4,rhythm.danceability_essentia,0.10505811134275707,2
+1436,4,rhythm.onset_rate_essentia,-0.005346399452814043,2
+1437,4,tonal.hpcp_crest.mean_essentia,-0.7184236654217061,2
+1438,4,tonal.hpcp_crest.stdev_essentia,-0.5622210258703471,2
+1439,4,tonal.hpcp_entropy.mean_essentia,0.7494816786392237,2
+1440,4,tonal.hpcp_entropy.stdev_essentia,0.09516909869393234,2
+1441,4,tonal.tuning_diatonic_strength_essentia,-0.063853660031386,2
+1442,4,tonal.tuning_equal_tempered_deviation_essentia,0.21232733487114416,2
+1443,4,tonal.tuning_frequency_essentia,-0.05576902878682094,2
+1444,4,tonal.tuning_nontempered_energy_ratio_essentia,0.199069599984448,2
+1445,4,lines,-0.08985576500098287,3
+1446,4,words,-0.1375114973738986,3
+1447,4,verses,0.02630474265720892,3
+1448,4,words_token,-0.12199734673171499,3
+1449,4,unique_words_token,-0.1866824013476753,3
+1450,4,length_mean_words_token,-0.07261698729468935,3
+1451,4,length_max_words_token,0.004219397652978676,3
+1452,4,length_mstd_words_token,0.08037255333777925,3
+1453,4,polarity,-0.08559123962993688,3
+1454,4,subjectivity,-0.006325818367608937,3
+1455,4,DET,-0.13351558589895762,3
+1456,4,PRON,-0.10555013151516995,3
+1457,4,CCONJ,-0.3456150521429263,3
+1458,4,ADP,-0.10356059723085104,3
+1459,4,PUNCT,-0.04750379004875249,3
+1460,5,zcr_mean_pyAA,0.740360768164594,0
+1461,5,energy_mean_pyAA,0.24443013707646902,0
+1462,5,energy_entropy_mean_pyAA,0.16911501145447946,0
+1463,5,spectral_centroid_mean_pyAA,0.5387826549495197,0
+1464,5,spectral_spread_mean_pyAA,-0.03332430985372051,0
+1465,5,spectral_entropy_mean_pyAA,0.7620139975115742,0
+1466,5,spectral_flux_mean_pyAA,-0.7341235881124915,0
+1467,5,spectral_rolloff_mean_pyAA,0.7638654383613167,0
+1468,5,mfcc_1_mean_pyAA,0.6453524919017446,0
+1469,5,mfcc_2_mean_pyAA,-0.7369795748386345,0
+1470,5,mfcc_3_mean_pyAA,0.31639107421135026,0
+1471,5,mfcc_4_mean_pyAA,0.21153394102176645,0
+1472,5,mfcc_5_mean_pyAA,0.2842826704687054,0
+1473,5,mfcc_6_mean_pyAA,0.42950624753069233,0
+1474,5,mfcc_7_mean_pyAA,0.16242880872031892,0
+1475,5,mfcc_8_mean_pyAA,0.2792318159673322,0
+1476,5,mfcc_9_mean_pyAA,0.0852852269127978,0
+1477,5,mfcc_10_mean_pyAA,0.24854142157861342,0
+1478,5,mfcc_11_mean_pyAA,0.08897341618527083,0
+1479,5,mfcc_12_mean_pyAA,0.019374304337041032,0
+1480,5,mfcc_13_mean_pyAA,0.007223546565665306,0
+1481,5,chroma_1_mean_pyAA,-0.28470799797915813,0
+1482,5,chroma_2_mean_pyAA,-0.2130212635073777,0
+1483,5,chroma_3_mean_pyAA,-0.08296023859305043,0
+1484,5,chroma_4_mean_pyAA,-0.3942777303614936,0
+1485,5,chroma_5_mean_pyAA,-0.2474665181862536,0
+1486,5,chroma_6_mean_pyAA,-0.32332626525553704,0
+1487,5,chroma_7_mean_pyAA,0.07553946207214578,0
+1488,5,chroma_8_mean_pyAA,0.056272120829757646,0
+1489,5,chroma_9_mean_pyAA,-0.3353187242198375,0
+1490,5,chroma_10_mean_pyAA,-0.10788281660187238,0
+1491,5,chroma_11_mean_pyAA,-0.0563034273746401,0
+1492,5,chroma_12_mean_pyAA,-0.1589826989325064,0
+1493,5,chroma_std_mean_pyAA,-0.5559436510436333,0
+1494,5,delta zcr_mean_pyAA,0.48359414005953955,0
+1495,5,delta energy_mean_pyAA,0.16592194765375243,0
+1496,5,delta energy_entropy_mean_pyAA,0.10561052388194492,0
+1497,5,delta spectral_centroid_mean_pyAA,0.19652086104869834,0
+1498,5,delta spectral_spread_mean_pyAA,-0.008797030040986566,0
+1499,5,delta spectral_entropy_mean_pyAA,0.45487789843440113,0
+1500,5,delta spectral_flux_mean_pyAA,-0.37628098532062126,0
+1501,5,delta spectral_rolloff_mean_pyAA,0.4202710599409568,0
+1502,5,delta mfcc_1_mean_pyAA,-0.03285278724850251,0
+1503,5,delta mfcc_2_mean_pyAA,-0.39675069771232097,0
+1504,5,delta mfcc_3_mean_pyAA,0.037741745194863355,0
+1505,5,delta mfcc_4_mean_pyAA,0.04668663779887357,0
+1506,5,delta mfcc_5_mean_pyAA,0.10481518860776272,0
+1507,5,delta mfcc_6_mean_pyAA,0.09765538202318087,0
+1508,5,delta mfcc_7_mean_pyAA,-0.01288173857871982,0
+1509,5,delta mfcc_8_mean_pyAA,0.036775778014242595,0
+1510,5,delta mfcc_9_mean_pyAA,0.02054166576489723,0
+1511,5,delta mfcc_10_mean_pyAA,0.056589930284376554,0
+1512,5,delta mfcc_11_mean_pyAA,-0.08648409374613364,0
+1513,5,delta mfcc_12_mean_pyAA,0.07308135095004992,0
+1514,5,delta mfcc_13_mean_pyAA,0.03215521158927345,0
+1515,5,delta chroma_1_mean_pyAA,-0.024478928254390665,0
+1516,5,delta chroma_2_mean_pyAA,0.03395880321122613,0
+1517,5,delta chroma_3_mean_pyAA,-0.025450933405700687,0
+1518,5,delta chroma_4_mean_pyAA,-0.008669350553518952,0
+1519,5,delta chroma_5_mean_pyAA,-0.01097291597031265,0
+1520,5,delta chroma_6_mean_pyAA,-0.0026685725376152623,0
+1521,5,delta chroma_7_mean_pyAA,0.012400717304885412,0
+1522,5,delta chroma_8_mean_pyAA,0.21409620786166217,0
+1523,5,delta chroma_9_mean_pyAA,0.03632862508854622,0
+1524,5,delta chroma_10_mean_pyAA,0.013461606538007428,0
+1525,5,delta chroma_11_mean_pyAA,-0.03474789472281024,0
+1526,5,delta chroma_12_mean_pyAA,0.10381834430854632,0
+1527,5,delta chroma_std_mean_pyAA,-0.3210134513090451,0
+1528,5,zcr_std_pyAA,0.2735397571030977,0
+1529,5,energy_std_pyAA,-0.24149787194024455,0
+1530,5,energy_entropy_std_pyAA,-0.15953797690547714,0
+1531,5,spectral_centroid_std_pyAA,0.049965199705470434,0
+1532,5,spectral_spread_std_pyAA,-0.4435097330177453,0
+1533,5,spectral_entropy_std_pyAA,0.27983682789949527,0
+1534,5,spectral_flux_std_pyAA,-0.1467756657087064,0
+1535,5,spectral_rolloff_std_pyAA,0.2569470094222669,0
+1536,5,mfcc_1_std_pyAA,-0.312565542378278,0
+1537,5,mfcc_2_std_pyAA,-0.5509176721350858,0
+1538,5,mfcc_3_std_pyAA,-0.595152169637331,0
+1539,5,mfcc_4_std_pyAA,-0.5626962662926458,0
+1540,5,mfcc_5_std_pyAA,-0.5598583211227321,0
+1541,5,mfcc_6_std_pyAA,-0.6478537418436974,0
+1542,5,mfcc_7_std_pyAA,-0.5874977072679576,0
+1543,5,mfcc_8_std_pyAA,-0.6194107398104887,0
+1544,5,mfcc_9_std_pyAA,-0.6516491087847501,0
+1545,5,mfcc_10_std_pyAA,-0.6288275428050125,0
+1546,5,mfcc_11_std_pyAA,-0.656928989676935,0
+1547,5,mfcc_12_std_pyAA,-0.6516238818912656,0
+1548,5,mfcc_13_std_pyAA,-0.6714358180656883,0
+1549,5,chroma_1_std_pyAA,-0.5058910580816145,0
+1550,5,chroma_2_std_pyAA,-0.45171686940940214,0
+1551,5,chroma_3_std_pyAA,-0.3656152214100326,0
+1552,5,chroma_4_std_pyAA,-0.593927453658389,0
+1553,5,chroma_5_std_pyAA,-0.5212367800819295,0
+1554,5,chroma_6_std_pyAA,-0.557328025553714,0
+1555,5,chroma_7_std_pyAA,-0.11941823162798552,0
+1556,5,chroma_8_std_pyAA,-0.25601095877618407,0
+1557,5,chroma_9_std_pyAA,-0.5259614021022192,0
+1558,5,chroma_10_std_pyAA,-0.3767304181145253,0
+1559,5,chroma_11_std_pyAA,-0.3457695588161621,0
+1560,5,chroma_12_std_pyAA,-0.38821075269938304,0
+1561,5,chroma_std_std_pyAA,-0.4442883116050386,0
+1562,5,delta zcr_std_pyAA,0.35739722119088035,0
+1563,5,delta energy_std_pyAA,0.17735106704216114,0
+1564,5,delta energy_entropy_std_pyAA,-0.1476722223262201,0
+1565,5,delta spectral_centroid_std_pyAA,-0.08470688926281636,0
+1566,5,delta spectral_spread_std_pyAA,-0.4961493793383573,0
+1567,5,delta spectral_entropy_std_pyAA,0.3651445841368038,0
+1568,5,delta spectral_flux_std_pyAA,-0.13890430922388752,0
+1569,5,delta spectral_rolloff_std_pyAA,0.28885261983820687,0
+1570,5,delta mfcc_1_std_pyAA,-0.22223409278441514,0
+1571,5,delta mfcc_2_std_pyAA,-0.3079026431343302,0
+1572,5,delta mfcc_3_std_pyAA,-0.3373893087829,0
+1573,5,delta mfcc_4_std_pyAA,-0.31291545656668823,0
+1574,5,delta mfcc_5_std_pyAA,-0.24708161054298178,0
+1575,5,delta mfcc_6_std_pyAA,-0.306038608817547,0
+1576,5,delta mfcc_7_std_pyAA,-0.288055622199085,0
+1577,5,delta mfcc_8_std_pyAA,-0.2633395219922309,0
+1578,5,delta mfcc_9_std_pyAA,-0.2892349506909056,0
+1579,5,delta mfcc_10_std_pyAA,-0.29279203212953525,0
+1580,5,delta mfcc_11_std_pyAA,-0.2626795829218996,0
+1581,5,delta mfcc_12_std_pyAA,-0.2336319420013319,0
+1582,5,delta mfcc_13_std_pyAA,-0.25524860169346647,0
+1583,5,delta chroma_1_std_pyAA,-0.4672432979163349,0
+1584,5,delta chroma_2_std_pyAA,-0.415634611710474,0
+1585,5,delta chroma_3_std_pyAA,-0.15000803765801507,0
+1586,5,delta chroma_4_std_pyAA,-0.5407762112066534,0
+1587,5,delta chroma_5_std_pyAA,-0.39953321208208314,0
+1588,5,delta chroma_6_std_pyAA,-0.4984110404789307,0
+1589,5,delta chroma_7_std_pyAA,0.12342958359693729,0
+1590,5,delta chroma_8_std_pyAA,-0.2235010462698732,0
+1591,5,delta chroma_9_std_pyAA,-0.46758228614334135,0
+1592,5,delta chroma_10_std_pyAA,-0.2582262212024776,0
+1593,5,delta chroma_11_std_pyAA,-0.023206098858153317,0
+1594,5,delta chroma_12_std_pyAA,-0.36811805054048163,0
+1595,5,delta chroma_std_std_pyAA,-0.16524939686315837,0
+1596,5,tempo_pyAA,-0.025013918431426856,0
+1597,5,global_highest_pitch_cents_all,0.5098985725579123,1
+1598,5,global_lowest_pitch_cents_all,0.660301914947344,1
+1599,5,global_pitch_range_cents_all,-0.14236875619382072,1
+1600,5,duration_mean_all,0.19241398514956667,1
+1601,5,interval_duration_mean_all,-0.4702644410382495,1
+1602,5,interval_duration_std_all,-0.49243736310730424,1
+1603,5,global_highest_pitch_cents_onethird,0.5166006624028135,1
+1604,5,global_lowest_pitch_cents_onethird,0.6862133457554205,1
+1605,5,global_pitch_range_cents_onethird,-0.12916929646905423,1
+1606,5,global_vibrato_coverage_onethird,-0.025053189047004938,1
+1607,5,duration_mean_onethird,0.23133847344394143,1
+1608,5,pitch_mean_height_cents_mean_onethird,0.6996535213242853,1
+1609,5,pitch_deviation_cents_mean_onethird,0.3855922349484053,1
+1610,5,pitch_range_cents_mean_onethird,0.4916881417096765,1
+1611,5,pitch_min_cents_mean_onethird,0.6399029838136174,1
+1612,5,pitch_max_cents_mean_onethird,0.7273451476212547,1
+1613,5,pitch_mean_height_hz_mean_onethird,0.6615428460871089,1
+1614,5,pitch_deviation_hz_mean_onethird,0.6244387996740105,1
+1615,5,pitch_range_hz_mean_onethird,0.6866529698385784,1
+1616,5,pitch_min_hz_mean_onethird,0.6054708296267141,1
+1617,5,pitch_max_hz_mean_onethird,0.6959529946144436,1
+1618,5,vibrato_length_mean_onethird,0.16691673490968886,1
+1619,5,vibrato_coverage_mean_onethird,-0.03259648280027067,1
+1620,5,vibrato_rate_hz_mean_onethird,0.025496642474895814,1
+1621,5,vibrato_extend_cents_mean_onethird,0.5663675599499558,1
+1622,5,vibrato_extend_hz_mean_onethird,0.5260961163120369,1
+1623,5,duration_std_onethird,0.23609805711231002,1
+1624,5,pitch_mean_height_cents_std_onethird,-0.34222574185791416,1
+1625,5,pitch_deviation_cents_std_onethird,-0.08957607457590692,1
+1626,5,pitch_range_cents_std_onethird,-0.02708680780448601,1
+1627,5,pitch_min_cents_std_onethird,-0.3222558753693338,1
+1628,5,pitch_max_cents_std_onethird,-0.33995303860084336,1
+1629,5,pitch_mean_height_hz_std_onethird,0.0499536553391932,1
+1630,5,pitch_deviation_hz_std_onethird,0.2942942934314745,1
+1631,5,pitch_range_hz_std_onethird,0.37800208363678356,1
+1632,5,pitch_min_hz_std_onethird,0.08277477642358817,1
+1633,5,pitch_max_hz_std_onethird,0.12792949767156053,1
+1634,5,vibrato_length_std_onethird,0.1629459514628871,1
+1635,5,vibrato_coverage_std_onethird,-0.20091792436291936,1
+1636,5,vibrato_rate_hz_std_onethird,-0.08499541991997396,1
+1637,5,vibrato_extend_cents_std_onethird,-0.06888205791713443,1
+1638,5,vibrato_extend_hz_std_onethird,0.3945234008280513,1
+1639,5,lowlevel.average_loudness_essentia,0.6218702595691697,2
+1640,5,lowlevel.barkbands_crest.mean_essentia,-0.8654761381795885,2
+1641,5,lowlevel.barkbands_crest.stdev_essentia,-0.6053746839454316,2
+1642,5,lowlevel.barkbands_flatness_db.mean_essentia,-0.7838013937351551,2
+1643,5,lowlevel.barkbands_flatness_db.stdev_essentia,-0.6008781597316446,2
+1644,5,lowlevel.barkbands_kurtosis.mean_essentia,-0.8747802061095985,2
+1645,5,lowlevel.barkbands_kurtosis.stdev_essentia,-0.7382808365259002,2
+1646,5,lowlevel.barkbands_skewness.mean_essentia,-0.7831198412535842,2
+1647,5,lowlevel.barkbands_skewness.stdev_essentia,-0.6613330244245609,2
+1648,5,lowlevel.barkbands_spread.mean_essentia,0.8309054026261132,2
+1649,5,lowlevel.barkbands_spread.stdev_essentia,0.20394228734490497,2
+1650,5,lowlevel.dissonance.mean_essentia,0.8833696763539542,2
+1651,5,lowlevel.dissonance.stdev_essentia,-0.8380823416397356,2
+1652,5,lowlevel.dynamic_complexity_essentia,-0.6654884698739738,2
+1653,5,lowlevel.erbbands_crest.mean_essentia,-0.7531103765209831,2
+1654,5,lowlevel.erbbands_crest.stdev_essentia,-0.7184727197763736,2
+1655,5,lowlevel.erbbands_flatness_db.mean_essentia,-0.462528373651703,2
+1656,5,lowlevel.erbbands_flatness_db.stdev_essentia,-0.41641786983127205,2
+1657,5,lowlevel.erbbands_kurtosis.mean_essentia,-0.42784826306230567,2
+1658,5,lowlevel.erbbands_kurtosis.stdev_essentia,-0.6025114504763892,2
+1659,5,lowlevel.erbbands_skewness.mean_essentia,-0.8492872736768865,2
+1660,5,lowlevel.erbbands_skewness.stdev_essentia,-0.6584152364519418,2
+1661,5,lowlevel.erbbands_spread.mean_essentia,0.12444513012257641,2
+1662,5,lowlevel.erbbands_spread.stdev_essentia,-0.34088767820228694,2
+1663,5,lowlevel.hfc.mean_essentia,0.8535972308809662,2
+1664,5,lowlevel.hfc.stdev_essentia,0.3841842198832018,2
+1665,5,lowlevel.loudness_ebu128.integrated_essentia,0.4568214121662334,2
+1666,5,lowlevel.loudness_ebu128.loudness_range_essentia,-0.562698550271627,2
+1667,5,lowlevel.loudness_ebu128.momentary.mean_essentia,0.5512833359286884,2
+1668,5,lowlevel.loudness_ebu128.momentary.stdev_essentia,-0.44473751797077626,2
+1669,5,lowlevel.loudness_ebu128.short_term.mean_essentia,0.5040398743444466,2
+1670,5,lowlevel.loudness_ebu128.short_term.stdev_essentia,-0.49261376599638035,2
+1671,5,lowlevel.melbands_crest.mean_essentia,-0.6331407202538412,2
+1672,5,lowlevel.melbands_crest.stdev_essentia,-0.4273333950204959,2
+1673,5,lowlevel.melbands_flatness_db.mean_essentia,-0.7663679776002575,2
+1674,5,lowlevel.melbands_flatness_db.stdev_essentia,-0.4887788041586777,2
+1675,5,lowlevel.melbands_kurtosis.mean_essentia,-0.6688837314521001,2
+1676,5,lowlevel.melbands_kurtosis.stdev_essentia,-0.5718579799937795,2
+1677,5,lowlevel.melbands_skewness.mean_essentia,-0.45701199303533113,2
+1678,5,lowlevel.melbands_skewness.stdev_essentia,-0.5429971989377202,2
+1679,5,lowlevel.melbands_spread.mean_essentia,0.8152614585315772,2
+1680,5,lowlevel.melbands_spread.stdev_essentia,0.3207531469692973,2
+1681,5,lowlevel.pitch_salience.mean_essentia,0.579737243030589,2
+1682,5,lowlevel.pitch_salience.stdev_essentia,-0.6027136806585159,2
+1683,5,lowlevel.silence_rate_20dB.mean_essentia,0.11062293326343355,2
+1684,5,lowlevel.silence_rate_20dB.stdev_essentia,-0.11064481892853915,2
+1685,5,lowlevel.silence_rate_30dB.mean_essentia,0.8487984963149655,2
+1686,5,lowlevel.silence_rate_30dB.stdev_essentia,-0.8488030495425957,2
+1687,5,lowlevel.silence_rate_60dB.mean_essentia,-0.4447110906577964,2
+1688,5,lowlevel.silence_rate_60dB.stdev_essentia,-0.45418343527900956,2
+1689,5,lowlevel.spectral_centroid.mean_essentia,0.7537502303295867,2
+1690,5,lowlevel.spectral_centroid.stdev_essentia,-0.12199055664182519,2
+1691,5,lowlevel.spectral_complexity.mean_essentia,0.9240605537474285,2
+1692,5,lowlevel.spectral_complexity.stdev_essentia,0.6299299010865618,2
+1693,5,lowlevel.spectral_energy.mean_essentia,0.1852194773106315,2
+1694,5,lowlevel.spectral_energy.stdev_essentia,-0.21550122629964627,2
+1695,5,lowlevel.spectral_energyband_high.stdev_essentia,0.49423614935670374,2
+1696,5,lowlevel.spectral_energyband_low.mean_essentia,0.21226188799565673,2
+1697,5,lowlevel.spectral_energyband_low.stdev_essentia,0.1975734501616586,2
+1698,5,lowlevel.spectral_energyband_middle_high.mean_essentia,0.598127745637025,2
+1699,5,lowlevel.spectral_energyband_middle_high.stdev_essentia,-0.17034816928536095,2
+1700,5,lowlevel.spectral_energyband_middle_low.mean_essentia,-0.23284872856092606,2
+1701,5,lowlevel.spectral_energyband_middle_low.stdev_essentia,-0.47425640319655,2
+1702,5,lowlevel.spectral_entropy.mean_essentia,0.7446739655762091,2
+1703,5,lowlevel.spectral_entropy.stdev_essentia,-0.6107425603519089,2
+1704,5,lowlevel.spectral_flux.mean_essentia,0.6013135749219878,2
+1705,5,lowlevel.spectral_flux.stdev_essentia,0.027906810240316993,2
+1706,5,lowlevel.spectral_kurtosis.mean_essentia,-0.3477330560907409,2
+1707,5,lowlevel.spectral_kurtosis.stdev_essentia,-0.40218384937302903,2
+1708,5,lowlevel.spectral_rolloff.mean_essentia,0.7713996902438305,2
+1709,5,lowlevel.spectral_rolloff.stdev_essentia,0.21795687756889146,2
+1710,5,lowlevel.spectral_skewness.mean_essentia,-0.4833146775674735,2
+1711,5,lowlevel.spectral_skewness.stdev_essentia,-0.5197633802290935,2
+1712,5,lowlevel.spectral_spread.mean_essentia,0.14509690764796165,2
+1713,5,lowlevel.spectral_spread.stdev_essentia,-0.008256921326466543,2
+1714,5,lowlevel.spectral_strongpeak.mean_essentia,-0.1963063240950223,2
+1715,5,lowlevel.spectral_strongpeak.stdev_essentia,-0.1239581775206399,2
+1716,5,lowlevel.zerocrossingrate.mean_essentia,0.7433795633098499,2
+1717,5,lowlevel.zerocrossingrate.stdev_essentia,0.18264896063104405,2
+1718,5,rhythm.beats_count_essentia,0.10817302630847876,2
+1719,5,rhythm.beats_loudness.mean_essentia,0.17967279657911073,2
+1720,5,rhythm.beats_loudness.stdev_essentia,-0.35441387276561087,2
+1721,5,rhythm.bpm_essentia,0.08200300683766004,2
+1722,5,rhythm.bpm_histogram_first_peak_bpm_essentia,0.07189853002901715,2
+1723,5,rhythm.bpm_histogram_first_peak_weight_essentia,-0.10347948926507662,2
+1724,5,rhythm.bpm_histogram_second_peak_bpm_essentia,-0.0961707004980962,2
+1725,5,rhythm.bpm_histogram_second_peak_spread_essentia,-0.3632211682899709,2
+1726,5,rhythm.bpm_histogram_second_peak_weight_essentia,-0.2113133241119512,2
+1727,5,rhythm.danceability_essentia,0.3777272896626442,2
+1728,5,rhythm.onset_rate_essentia,0.1297843340084487,2
+1729,5,tonal.hpcp_crest.mean_essentia,-0.72603040366523,2
+1730,5,tonal.hpcp_crest.stdev_essentia,-0.5911384938249472,2
+1731,5,tonal.hpcp_entropy.mean_essentia,0.7406767488627064,2
+1732,5,tonal.hpcp_entropy.stdev_essentia,-0.02731688281504608,2
+1733,5,tonal.tuning_diatonic_strength_essentia,-0.032080424789911036,2
+1734,5,tonal.tuning_equal_tempered_deviation_essentia,0.07374494443561905,2
+1735,5,tonal.tuning_frequency_essentia,0.01872716250971569,2
+1736,5,tonal.tuning_nontempered_energy_ratio_essentia,0.07423412455931264,2
+1737,5,lines,-0.08692835439976558,3
+1738,5,words,-0.18944742378705498,3
+1739,5,verses,-0.0849328626944414,3
+1740,5,words_token,-0.1916149946411857,3
+1741,5,unique_words_token,-0.21434202566610933,3
+1742,5,length_mean_words_token,-0.008124445729504519,3
+1743,5,length_max_words_token,-0.009779643491720854,3
+1744,5,length_mstd_words_token,0.027332274615322387,3
+1745,5,polarity,-0.12660675101158192,3
+1746,5,subjectivity,-0.04440469074920067,3
+1747,5,DET,-0.1670025385869969,3
+1748,5,PRON,-0.1126825247757325,3
+1749,5,CCONJ,-0.23205887215676008,3
+1750,5,ADP,-0.136074899142425,3
+1751,5,PUNCT,-0.2630523353071365,3
+1752,6,zcr_mean_pyAA,-0.068048670246933,0
+1753,6,energy_mean_pyAA,-0.4649478314863337,0
+1754,6,energy_entropy_mean_pyAA,0.34546528245286817,0
+1755,6,spectral_centroid_mean_pyAA,-0.3814278304930001,0
+1756,6,spectral_spread_mean_pyAA,-0.5819082927594629,0
+1757,6,spectral_entropy_mean_pyAA,-0.06577792710360707,0
+1758,6,spectral_flux_mean_pyAA,-0.018449336728315422,0
+1759,6,spectral_rolloff_mean_pyAA,-0.0029355218964789626,0
+1760,6,mfcc_1_mean_pyAA,-0.09650582401406399,0
+1761,6,mfcc_2_mean_pyAA,-0.1959975589747388,0
+1762,6,mfcc_3_mean_pyAA,-0.4504253871353246,0
+1763,6,mfcc_4_mean_pyAA,-0.2362375418930853,0
+1764,6,mfcc_5_mean_pyAA,-0.3567012755253557,0
+1765,6,mfcc_6_mean_pyAA,-0.21418649451430863,0
+1766,6,mfcc_7_mean_pyAA,-0.24728891826957697,0
+1767,6,mfcc_8_mean_pyAA,-0.1801196720195751,0
+1768,6,mfcc_9_mean_pyAA,-0.15897023915371472,0
+1769,6,mfcc_10_mean_pyAA,-0.012284907152798653,0
+1770,6,mfcc_11_mean_pyAA,-0.057842808379568976,0
+1771,6,mfcc_12_mean_pyAA,-0.055417400985630555,0
+1772,6,mfcc_13_mean_pyAA,-0.1496145486088176,0
+1773,6,chroma_1_mean_pyAA,0.10682695923941789,0
+1774,6,chroma_2_mean_pyAA,0.39955248545636,0
+1775,6,chroma_3_mean_pyAA,-0.4678128161868437,0
+1776,6,chroma_4_mean_pyAA,0.17385265398274627,0
+1777,6,chroma_5_mean_pyAA,-0.2523787920203482,0
+1778,6,chroma_6_mean_pyAA,0.24657609029769842,0
+1779,6,chroma_7_mean_pyAA,-0.4652633091126838,0
+1780,6,chroma_8_mean_pyAA,0.46524989304700837,0
+1781,6,chroma_9_mean_pyAA,0.4076922956474856,0
+1782,6,chroma_10_mean_pyAA,0.03405042050529617,0
+1783,6,chroma_11_mean_pyAA,-0.34302864834357744,0
+1784,6,chroma_12_mean_pyAA,0.39929016291691577,0
+1785,6,chroma_std_mean_pyAA,-0.5521461512925105,0
+1786,6,delta zcr_mean_pyAA,0.013245375289001934,0
+1787,6,delta energy_mean_pyAA,-0.1358543541030398,0
+1788,6,delta energy_entropy_mean_pyAA,0.08805475445381411,0
+1789,6,delta spectral_centroid_mean_pyAA,-0.1000756481088589,0
+1790,6,delta spectral_spread_mean_pyAA,-0.09385313389135262,0
+1791,6,delta spectral_entropy_mean_pyAA,-0.0026289694701456486,0
+1792,6,delta spectral_flux_mean_pyAA,0.028913041147442777,0
+1793,6,delta spectral_rolloff_mean_pyAA,0.07006389585093566,0
+1794,6,delta mfcc_1_mean_pyAA,0.02304196782319086,0
+1795,6,delta mfcc_2_mean_pyAA,-0.029488688915619336,0
+1796,6,delta mfcc_3_mean_pyAA,-0.1566928171406038,0
+1797,6,delta mfcc_4_mean_pyAA,-0.10616973981829946,0
+1798,6,delta mfcc_5_mean_pyAA,-0.05153003168622945,0
+1799,6,delta mfcc_6_mean_pyAA,-0.10030250403003395,0
+1800,6,delta mfcc_7_mean_pyAA,-0.11369646759666739,0
+1801,6,delta mfcc_8_mean_pyAA,-0.052026600879897016,0
+1802,6,delta mfcc_9_mean_pyAA,-0.016588832024257365,0
+1803,6,delta mfcc_10_mean_pyAA,0.02117611674411539,0
+1804,6,delta mfcc_11_mean_pyAA,0.034971912064810096,0
+1805,6,delta mfcc_12_mean_pyAA,-0.051192363437471675,0
+1806,6,delta mfcc_13_mean_pyAA,0.008035905209140635,0
+1807,6,delta chroma_1_mean_pyAA,-0.01317364431008033,0
+1808,6,delta chroma_2_mean_pyAA,0.09569077031763412,0
+1809,6,delta chroma_3_mean_pyAA,-0.1723788065731536,0
+1810,6,delta chroma_4_mean_pyAA,0.06416462697914857,0
+1811,6,delta chroma_5_mean_pyAA,-0.04822227809810749,0
+1812,6,delta chroma_6_mean_pyAA,0.12205132770171813,0
+1813,6,delta chroma_7_mean_pyAA,-0.2443874007347198,0
+1814,6,delta chroma_8_mean_pyAA,0.11096504858856295,0
+1815,6,delta chroma_9_mean_pyAA,0.08919318671589685,0
+1816,6,delta chroma_10_mean_pyAA,0.02035601844458196,0
+1817,6,delta chroma_11_mean_pyAA,-0.08127574096057058,0
+1818,6,delta chroma_12_mean_pyAA,0.1443352009016069,0
+1819,6,delta chroma_std_mean_pyAA,-0.2682335940630143,0
+1820,6,zcr_std_pyAA,-0.3543707407446882,0
+1821,6,energy_std_pyAA,-0.39724188855433007,0
+1822,6,energy_entropy_std_pyAA,-0.128338734157729,0
+1823,6,spectral_centroid_std_pyAA,-0.33896293677522377,0
+1824,6,spectral_spread_std_pyAA,0.22814038617979926,0
+1825,6,spectral_entropy_std_pyAA,-0.29641958813178937,0
+1826,6,spectral_flux_std_pyAA,-0.04853478064124383,0
+1827,6,spectral_rolloff_std_pyAA,-0.43078464889334384,0
+1828,6,mfcc_1_std_pyAA,0.017119740348052765,0
+1829,6,mfcc_2_std_pyAA,0.11064443013169482,0
+1830,6,mfcc_3_std_pyAA,0.10202484282444044,0
+1831,6,mfcc_4_std_pyAA,0.12732654562363005,0
+1832,6,mfcc_5_std_pyAA,0.15389874766300568,0
+1833,6,mfcc_6_std_pyAA,0.18818624669574816,0
+1834,6,mfcc_7_std_pyAA,0.19980538594430994,0
+1835,6,mfcc_8_std_pyAA,0.19723941090814198,0
+1836,6,mfcc_9_std_pyAA,0.17437060670936372,0
+1837,6,mfcc_10_std_pyAA,0.1593608825828735,0
+1838,6,mfcc_11_std_pyAA,0.18843266104131992,0
+1839,6,mfcc_12_std_pyAA,0.13209412975465473,0
+1840,6,mfcc_13_std_pyAA,0.1128893332355332,0
+1841,6,chroma_1_std_pyAA,0.07407847379385815,0
+1842,6,chroma_2_std_pyAA,0.29335383418165323,0
+1843,6,chroma_3_std_pyAA,-0.4032899019764233,0
+1844,6,chroma_4_std_pyAA,0.12844093783712734,0
+1845,6,chroma_5_std_pyAA,-0.12649845763776504,0
+1846,6,chroma_6_std_pyAA,0.17277188841002222,0
+1847,6,chroma_7_std_pyAA,-0.3714317846466173,0
+1848,6,chroma_8_std_pyAA,0.3513690358607811,0
+1849,6,chroma_9_std_pyAA,0.27078580530631163,0
+1850,6,chroma_10_std_pyAA,0.025666575765890595,0
+1851,6,chroma_11_std_pyAA,-0.2617679685080003,0
+1852,6,chroma_12_std_pyAA,0.2967226229838829,0
+1853,6,chroma_std_std_pyAA,-0.31512288084728507,0
+1854,6,delta zcr_std_pyAA,-0.38706048083774336,0
+1855,6,delta energy_std_pyAA,-0.4997864947925969,0
+1856,6,delta energy_entropy_std_pyAA,-0.09031736205102918,0
+1857,6,delta spectral_centroid_std_pyAA,-0.31292052169606516,0
+1858,6,delta spectral_spread_std_pyAA,0.2563355636865302,0
+1859,6,delta spectral_entropy_std_pyAA,-0.32292947949494033,0
+1860,6,delta spectral_flux_std_pyAA,-0.04156543661430179,0
+1861,6,delta spectral_rolloff_std_pyAA,-0.44118381897183967,0
+1862,6,delta mfcc_1_std_pyAA,-0.09816584948907656,0
+1863,6,delta mfcc_2_std_pyAA,0.0018956318376204132,0
+1864,6,delta mfcc_3_std_pyAA,-0.029841333464276545,0
+1865,6,delta mfcc_4_std_pyAA,-0.007691565628555797,0
+1866,6,delta mfcc_5_std_pyAA,0.0028204976674439572,0
+1867,6,delta mfcc_6_std_pyAA,0.01104865555690156,0
+1868,6,delta mfcc_7_std_pyAA,0.03555752555168016,0
+1869,6,delta mfcc_8_std_pyAA,0.00546169504715554,0
+1870,6,delta mfcc_9_std_pyAA,0.01399261829361384,0
+1871,6,delta mfcc_10_std_pyAA,0.020184151632160804,0
+1872,6,delta mfcc_11_std_pyAA,-0.003490855798178942,0
+1873,6,delta mfcc_12_std_pyAA,0.007904345706237664,0
+1874,6,delta mfcc_13_std_pyAA,-0.02965105116562002,0
+1875,6,delta chroma_1_std_pyAA,0.03929770036988341,0
+1876,6,delta chroma_2_std_pyAA,0.3019830552881397,0
+1877,6,delta chroma_3_std_pyAA,-0.42743945918279125,0
+1878,6,delta chroma_4_std_pyAA,0.1257172351533142,0
+1879,6,delta chroma_5_std_pyAA,-0.20585687574836362,0
+1880,6,delta chroma_6_std_pyAA,0.18865438844745047,0
+1881,6,delta chroma_7_std_pyAA,-0.3977384546729941,0
+1882,6,delta chroma_8_std_pyAA,0.3534445682224948,0
+1883,6,delta chroma_9_std_pyAA,0.2724116403232263,0
+1884,6,delta chroma_10_std_pyAA,0.006328823408419615,0
+1885,6,delta chroma_11_std_pyAA,-0.3425622558944474,0
+1886,6,delta chroma_12_std_pyAA,0.30168497278029005,0
+1887,6,delta chroma_std_std_pyAA,-0.3179964754875354,0
+1888,6,tempo_pyAA,-0.020399688308089935,0
+1889,6,global_highest_pitch_cents_all,0.0475044166102235,1
+1890,6,global_lowest_pitch_cents_all,0.1565915705527098,1
+1891,6,global_pitch_range_cents_all,-0.07427557091722317,1
+1892,6,duration_mean_all,0.20772184760920767,1
+1893,6,interval_duration_mean_all,0.063432505701171,1
+1894,6,interval_duration_std_all,0.055938243169973985,1
+1895,6,global_highest_pitch_cents_onethird,0.03717728790051925,1
+1896,6,global_lowest_pitch_cents_onethird,0.13323884947760342,1
+1897,6,global_pitch_range_cents_onethird,-0.06370905047340428,1
+1898,6,global_vibrato_coverage_onethird,0.12395329053476871,1
+1899,6,duration_mean_onethird,0.1977089372857017,1
+1900,6,pitch_mean_height_cents_mean_onethird,0.12276529049792989,1
+1901,6,pitch_deviation_cents_mean_onethird,-0.009955669973879774,1
+1902,6,pitch_range_cents_mean_onethird,-0.0012565109247071765,1
+1903,6,pitch_min_cents_mean_onethird,0.12134213558411956,1
+1904,6,pitch_max_cents_mean_onethird,0.09713163873051776,1
+1905,6,pitch_mean_height_hz_mean_onethird,0.10773733882984915,1
+1906,6,pitch_deviation_hz_mean_onethird,0.03871101044532923,1
+1907,6,pitch_range_hz_mean_onethird,0.05345004893147464,1
+1908,6,pitch_min_hz_mean_onethird,0.1197393747305782,1
+1909,6,pitch_max_hz_mean_onethird,0.08638512839885773,1
+1910,6,vibrato_length_mean_onethird,0.21123763913652185,1
+1911,6,vibrato_coverage_mean_onethird,0.13502208571534716,1
+1912,6,vibrato_rate_hz_mean_onethird,-0.06515190995975914,1
+1913,6,vibrato_extend_cents_mean_onethird,0.012250059603390472,1
+1914,6,vibrato_extend_hz_mean_onethird,-0.0002853970929623992,1
+1915,6,duration_std_onethird,0.13774874329761558,1
+1916,6,pitch_mean_height_cents_std_onethird,-0.014600426261167192,1
+1917,6,pitch_deviation_cents_std_onethird,-0.02143820559033874,1
+1918,6,pitch_range_cents_std_onethird,-0.031576323339569626,1
+1919,6,pitch_min_cents_std_onethird,0.008346596237529764,1
+1920,6,pitch_max_cents_std_onethird,-0.039716329588873514,1
+1921,6,pitch_mean_height_hz_std_onethird,0.05314714235320784,1
+1922,6,pitch_deviation_hz_std_onethird,0.015940527168336206,1
+1923,6,pitch_range_hz_std_onethird,-0.0018763492028539002,1
+1924,6,pitch_min_hz_std_onethird,0.07931897319121232,1
+1925,6,pitch_max_hz_std_onethird,0.020951971099437323,1
+1926,6,vibrato_length_std_onethird,0.18265283272033084,1
+1927,6,vibrato_coverage_std_onethird,0.10005270565162484,1
+1928,6,vibrato_rate_hz_std_onethird,-0.12635660475924282,1
+1929,6,vibrato_extend_cents_std_onethird,-0.06597182888972862,1
+1930,6,vibrato_extend_hz_std_onethird,-0.01673717404645962,1
+1931,6,lowlevel.average_loudness_essentia,-0.30050639504243426,2
+1932,6,lowlevel.barkbands_crest.mean_essentia,-0.28496328829082296,2
+1933,6,lowlevel.barkbands_crest.stdev_essentia,-0.2289574974896384,2
+1934,6,lowlevel.barkbands_flatness_db.mean_essentia,0.05817470435182159,2
+1935,6,lowlevel.barkbands_flatness_db.stdev_essentia,-0.24301981413411441,2
+1936,6,lowlevel.barkbands_kurtosis.mean_essentia,-0.43403449598176047,2
+1937,6,lowlevel.barkbands_kurtosis.stdev_essentia,-0.4409467812095368,2
+1938,6,lowlevel.barkbands_skewness.mean_essentia,-0.5711098374378455,2
+1939,6,lowlevel.barkbands_skewness.stdev_essentia,-0.41395887975419804,2
+1940,6,lowlevel.barkbands_spread.mean_essentia,-0.1739252772763627,2
+1941,6,lowlevel.barkbands_spread.stdev_essentia,-0.5262340107799635,2
+1942,6,lowlevel.dissonance.mean_essentia,-0.12427459961476096,2
+1943,6,lowlevel.dissonance.stdev_essentia,0.12053796921730829,2
+1944,6,lowlevel.dynamic_complexity_essentia,0.2239235576472067,2
+1945,6,lowlevel.erbbands_crest.mean_essentia,0.2593710861402096,2
+1946,6,lowlevel.erbbands_crest.stdev_essentia,0.12466958901798228,2
+1947,6,lowlevel.erbbands_flatness_db.mean_essentia,0.5692390452896339,2
+1948,6,lowlevel.erbbands_flatness_db.stdev_essentia,0.22544482726977985,2
+1949,6,lowlevel.erbbands_kurtosis.mean_essentia,0.17077735004869066,2
+1950,6,lowlevel.erbbands_kurtosis.stdev_essentia,0.02955838528073655,2
+1951,6,lowlevel.erbbands_skewness.mean_essentia,-0.02397891848764193,2
+1952,6,lowlevel.erbbands_skewness.stdev_essentia,-0.07103004319271465,2
+1953,6,lowlevel.erbbands_spread.mean_essentia,-0.7007482007208321,2
+1954,6,lowlevel.erbbands_spread.stdev_essentia,-0.5647116404477545,2
+1955,6,lowlevel.hfc.mean_essentia,-0.2290350311548125,2
+1956,6,lowlevel.hfc.stdev_essentia,-0.21671020308414793,2
+1957,6,lowlevel.loudness_ebu128.integrated_essentia,-0.3861331327007411,2
+1958,6,lowlevel.loudness_ebu128.loudness_range_essentia,0.2783057974009486,2
+1959,6,lowlevel.loudness_ebu128.momentary.mean_essentia,-0.39897628340631314,2
+1960,6,lowlevel.loudness_ebu128.momentary.stdev_essentia,0.2096687997279312,2
+1961,6,lowlevel.loudness_ebu128.short_term.mean_essentia,-0.3921638568019388,2
+1962,6,lowlevel.loudness_ebu128.short_term.stdev_essentia,0.2619391120126716,2
+1963,6,lowlevel.melbands_crest.mean_essentia,-0.5102820006538479,2
+1964,6,lowlevel.melbands_crest.stdev_essentia,-0.2076398167826141,2
+1965,6,lowlevel.melbands_flatness_db.mean_essentia,-0.05160077385451052,2
+1966,6,lowlevel.melbands_flatness_db.stdev_essentia,-0.3035599896843411,2
+1967,6,lowlevel.melbands_kurtosis.mean_essentia,-0.6782522562097618,2
+1968,6,lowlevel.melbands_kurtosis.stdev_essentia,-0.5831345323597733,2
+1969,6,lowlevel.melbands_skewness.mean_essentia,-0.7714224604906307,2
+1970,6,lowlevel.melbands_skewness.stdev_essentia,-0.5352900581721212,2
+1971,6,lowlevel.melbands_spread.mean_essentia,0.10884476378324982,2
+1972,6,lowlevel.melbands_spread.stdev_essentia,-0.2092318120590958,2
+1973,6,lowlevel.pitch_salience.mean_essentia,0.38639107168061365,2
+1974,6,lowlevel.pitch_salience.stdev_essentia,-0.2598437840750045,2
+1975,6,lowlevel.silence_rate_20dB.mean_essentia,0.0186186738027204,2
+1976,6,lowlevel.silence_rate_20dB.stdev_essentia,-0.01866007342546127,2
+1977,6,lowlevel.silence_rate_30dB.mean_essentia,0.666509697572753,2
+1978,6,lowlevel.silence_rate_30dB.stdev_essentia,-0.6669844908401686,2
+1979,6,lowlevel.silence_rate_60dB.mean_essentia,0.3407515688771841,2
+1980,6,lowlevel.silence_rate_60dB.stdev_essentia,0.33009561475894267,2
+1981,6,lowlevel.spectral_centroid.mean_essentia,0.005104553051867774,2
+1982,6,lowlevel.spectral_centroid.stdev_essentia,-0.3184996530254312,2
+1983,6,lowlevel.spectral_complexity.mean_essentia,-0.04898891991233503,2
+1984,6,lowlevel.spectral_complexity.stdev_essentia,-0.2243756651542036,2
+1985,6,lowlevel.spectral_energy.mean_essentia,-0.5493774493399981,2
+1986,6,lowlevel.spectral_energy.stdev_essentia,-0.3723538910896012,2
+1987,6,lowlevel.spectral_energyband_high.stdev_essentia,-0.4418430755531152,2
+1988,6,lowlevel.spectral_energyband_low.mean_essentia,-0.6171840818450506,2
+1989,6,lowlevel.spectral_energyband_low.stdev_essentia,-0.5256393401902633,2
+1990,6,lowlevel.spectral_energyband_middle_high.mean_essentia,0.2850064745409013,2
+1991,6,lowlevel.spectral_energyband_middle_high.stdev_essentia,0.3977395159875666,2
+1992,6,lowlevel.spectral_energyband_middle_low.mean_essentia,-0.2524922990966443,2
+1993,6,lowlevel.spectral_energyband_middle_low.stdev_essentia,-0.16160074741730968,2
+1994,6,lowlevel.spectral_entropy.mean_essentia,-0.2693721189238567,2
+1995,6,lowlevel.spectral_entropy.stdev_essentia,-0.07868752672668368,2
+1996,6,lowlevel.spectral_flux.mean_essentia,-0.4299563965764651,2
+1997,6,lowlevel.spectral_flux.stdev_essentia,-0.2971690854142406,2
+1998,6,lowlevel.spectral_kurtosis.mean_essentia,0.4083408136221559,2
+1999,6,lowlevel.spectral_kurtosis.stdev_essentia,0.2856749773431159,2
+2000,6,lowlevel.spectral_rolloff.mean_essentia,0.06703336994465679,2
+2001,6,lowlevel.spectral_rolloff.stdev_essentia,-0.4009097124903279,2
+2002,6,lowlevel.spectral_skewness.mean_essentia,0.21355127957920272,2
+2003,6,lowlevel.spectral_skewness.stdev_essentia,0.12649746882526064,2
+2004,6,lowlevel.spectral_spread.mean_essentia,-0.5972379987577588,2
+2005,6,lowlevel.spectral_spread.stdev_essentia,-0.3112366656458302,2
+2006,6,lowlevel.spectral_strongpeak.mean_essentia,0.44755855937429,2
+2007,6,lowlevel.spectral_strongpeak.stdev_essentia,0.44339120526178744,2
+2008,6,lowlevel.zerocrossingrate.mean_essentia,-0.06365466154850695,2
+2009,6,lowlevel.zerocrossingrate.stdev_essentia,-0.35917393050355445,2
+2010,6,rhythm.beats_count_essentia,0.03781340519239701,2
+2011,6,rhythm.beats_loudness.mean_essentia,-0.4741570924149343,2
+2012,6,rhythm.beats_loudness.stdev_essentia,-0.24549495946768587,2
+2013,6,rhythm.bpm_essentia,0.0371909815596665,2
+2014,6,rhythm.bpm_histogram_first_peak_bpm_essentia,0.044959546985644805,2
+2015,6,rhythm.bpm_histogram_first_peak_weight_essentia,-0.0009027354286490337,2
+2016,6,rhythm.bpm_histogram_second_peak_bpm_essentia,0.14101468190507335,2
+2017,6,rhythm.bpm_histogram_second_peak_spread_essentia,0.2654549185443732,2
+2018,6,rhythm.bpm_histogram_second_peak_weight_essentia,0.2152890932342022,2
+2019,6,rhythm.danceability_essentia,-0.208477646598687,2
+2020,6,rhythm.onset_rate_essentia,-0.2028713668149316,2
+2021,6,tonal.hpcp_crest.mean_essentia,0.18559114659578962,2
+2022,6,tonal.hpcp_crest.stdev_essentia,0.1946777711578871,2
+2023,6,tonal.hpcp_entropy.mean_essentia,-0.16879517518620632,2
+2024,6,tonal.hpcp_entropy.stdev_essentia,-0.06497713556430144,2
+2025,6,tonal.tuning_diatonic_strength_essentia,0.10345417667059545,2
+2026,6,tonal.tuning_equal_tempered_deviation_essentia,-0.16512738493818577,2
+2027,6,tonal.tuning_frequency_essentia,0.10763131164124701,2
+2028,6,tonal.tuning_nontempered_energy_ratio_essentia,-0.16661091048648344,2
+2029,6,lines,-0.39170115472408995,3
+2030,6,words,-0.4197380367506312,3
+2031,6,verses,-0.19599135987907418,3
+2032,6,words_token,-0.41672584031995186,3
+2033,6,unique_words_token,-0.32480400782348695,3
+2034,6,length_mean_words_token,0.020321532870079106,3
+2035,6,length_max_words_token,-0.14032254089675286,3
+2036,6,length_mstd_words_token,-0.001100205702972001,3
+2037,6,polarity,0.049288303227055685,3
+2038,6,subjectivity,-0.011134432199651073,3
+2039,6,DET,-0.3131378266929646,3
+2040,6,PRON,-0.38521807332815394,3
+2041,6,CCONJ,-0.2405610341132933,3
+2042,6,ADP,-0.3599891535769186,3
+2043,6,PUNCT,-0.23535252703212906,3
+2044,7,zcr_mean_pyAA,-0.7143105569213891,0
+2045,7,energy_mean_pyAA,0.14293261973992732,0
+2046,7,energy_entropy_mean_pyAA,0.05980754838438975,0
+2047,7,spectral_centroid_mean_pyAA,-0.7445078374173211,0
+2048,7,spectral_spread_mean_pyAA,-0.3738170612103671,0
+2049,7,spectral_entropy_mean_pyAA,-0.6915479450089335,0
+2050,7,spectral_flux_mean_pyAA,0.5479906754371858,0
+2051,7,spectral_rolloff_mean_pyAA,-0.6717165599036515,0
+2052,7,mfcc_1_mean_pyAA,-0.2204732902278354,0
+2053,7,mfcc_2_mean_pyAA,0.5123097322195113,0
+2054,7,mfcc_3_mean_pyAA,-0.22313033969492357,0
+2055,7,mfcc_4_mean_pyAA,-0.11043491260054641,0
+2056,7,mfcc_5_mean_pyAA,-0.38901065365139526,0
+2057,7,mfcc_6_mean_pyAA,-0.27497532321957646,0
+2058,7,mfcc_7_mean_pyAA,-0.2125817317069954,0
+2059,7,mfcc_8_mean_pyAA,-0.15092008910433272,0
+2060,7,mfcc_9_mean_pyAA,-0.23050350879002077,0
+2061,7,mfcc_10_mean_pyAA,-0.20933347714122827,0
+2062,7,mfcc_11_mean_pyAA,-0.2156565513846517,0
+2063,7,mfcc_12_mean_pyAA,-0.0971354192861596,0
+2064,7,mfcc_13_mean_pyAA,-0.15378724821625897,0
+2065,7,chroma_1_mean_pyAA,0.3536717316381233,0
+2066,7,chroma_2_mean_pyAA,0.20274655578096615,0
+2067,7,chroma_3_mean_pyAA,-0.0742720664093675,0
+2068,7,chroma_4_mean_pyAA,0.4276491483866441,0
+2069,7,chroma_5_mean_pyAA,0.2330865417930395,0
+2070,7,chroma_6_mean_pyAA,0.3087062691352861,0
+2071,7,chroma_7_mean_pyAA,-0.23837917475003811,0
+2072,7,chroma_8_mean_pyAA,-0.108726771287887,0
+2073,7,chroma_9_mean_pyAA,0.2426941816193708,0
+2074,7,chroma_10_mean_pyAA,0.2010830429117254,0
+2075,7,chroma_11_mean_pyAA,-0.05691698844693306,0
+2076,7,chroma_12_mean_pyAA,0.1851964165038547,0
+2077,7,chroma_std_mean_pyAA,0.23052945137423578,0
+2078,7,delta zcr_mean_pyAA,-0.43380539380142163,0
+2079,7,delta energy_mean_pyAA,0.06611672497082816,0
+2080,7,delta energy_entropy_mean_pyAA,-0.0043704996307739,0
+2081,7,delta spectral_centroid_mean_pyAA,-0.2623114120990364,0
+2082,7,delta spectral_spread_mean_pyAA,-0.045002509494424504,0
+2083,7,delta spectral_entropy_mean_pyAA,-0.4068307042192441,0
+2084,7,delta spectral_flux_mean_pyAA,0.2075004957934129,0
+2085,7,delta spectral_rolloff_mean_pyAA,-0.35152410501911807,0
+2086,7,delta mfcc_1_mean_pyAA,0.19077763250160748,0
+2087,7,delta mfcc_2_mean_pyAA,0.30233611158880846,0
+2088,7,delta mfcc_3_mean_pyAA,-0.05409049846709489,0
+2089,7,delta mfcc_4_mean_pyAA,-0.010088424220889873,0
+2090,7,delta mfcc_5_mean_pyAA,-0.059666623016518684,0
+2091,7,delta mfcc_6_mean_pyAA,-0.10931107603286662,0
+2092,7,delta mfcc_7_mean_pyAA,-0.055585205115216085,0
+2093,7,delta mfcc_8_mean_pyAA,-0.051792937669815374,0
+2094,7,delta mfcc_9_mean_pyAA,0.007373671142906867,0
+2095,7,delta mfcc_10_mean_pyAA,-0.07858440207648532,0
+2096,7,delta mfcc_11_mean_pyAA,-0.0320939482873346,0
+2097,7,delta mfcc_12_mean_pyAA,-0.05427537829337386,0
+2098,7,delta mfcc_13_mean_pyAA,-0.07810836216242462,0
+2099,7,delta chroma_1_mean_pyAA,0.08641451956190278,0
+2100,7,delta chroma_2_mean_pyAA,0.00123115027491599,0
+2101,7,delta chroma_3_mean_pyAA,-0.004147280327455702,0
+2102,7,delta chroma_4_mean_pyAA,0.07665826063905751,0
+2103,7,delta chroma_5_mean_pyAA,-0.03281417840403648,0
+2104,7,delta chroma_6_mean_pyAA,0.024284354002667256,0
+2105,7,delta chroma_7_mean_pyAA,-0.11148313292497103,0
+2106,7,delta chroma_8_mean_pyAA,-0.1530294569604138,0
+2107,7,delta chroma_9_mean_pyAA,0.006159562827754798,0
+2108,7,delta chroma_10_mean_pyAA,0.05922950910093695,0
+2109,7,delta chroma_11_mean_pyAA,-0.0005977812476650942,0
+2110,7,delta chroma_12_mean_pyAA,0.00025864387468830407,0
+2111,7,delta chroma_std_mean_pyAA,0.18508913997079576,0
+2112,7,zcr_std_pyAA,-0.217804291026218,0
+2113,7,energy_std_pyAA,0.4243592339041851,0
+2114,7,energy_entropy_std_pyAA,-0.014433630431349185,0
+2115,7,spectral_centroid_std_pyAA,0.049906800981597506,0
+2116,7,spectral_spread_std_pyAA,0.7056971864576079,0
+2117,7,spectral_entropy_std_pyAA,-0.2786592691293213,0
+2118,7,spectral_flux_std_pyAA,0.1408900764513726,0
+2119,7,spectral_rolloff_std_pyAA,-0.3120970293227522,0
+2120,7,mfcc_1_std_pyAA,0.24945058528745792,0
+2121,7,mfcc_2_std_pyAA,0.3270290621830383,0
+2122,7,mfcc_3_std_pyAA,0.3377545458660501,0
+2123,7,mfcc_4_std_pyAA,0.28058958933383876,0
+2124,7,mfcc_5_std_pyAA,0.28320010615624847,0
+2125,7,mfcc_6_std_pyAA,0.2775552792228756,0
+2126,7,mfcc_7_std_pyAA,0.25240230477530745,0
+2127,7,mfcc_8_std_pyAA,0.2842557702003249,0
+2128,7,mfcc_9_std_pyAA,0.24463325955802215,0
+2129,7,mfcc_10_std_pyAA,0.24486889729637049,0
+2130,7,mfcc_11_std_pyAA,0.26637297070271626,0
+2131,7,mfcc_12_std_pyAA,0.38484242230057436,0
+2132,7,mfcc_13_std_pyAA,0.4389827295312256,0
+2133,7,chroma_1_std_pyAA,0.46290470597905264,0
+2134,7,chroma_2_std_pyAA,0.3315762366221756,0
+2135,7,chroma_3_std_pyAA,0.13541273537171747,0
+2136,7,chroma_4_std_pyAA,0.5476810314776898,0
+2137,7,chroma_5_std_pyAA,0.4173383135630315,0
+2138,7,chroma_6_std_pyAA,0.4353424352509182,0
+2139,7,chroma_7_std_pyAA,-0.12089062581155564,0
+2140,7,chroma_8_std_pyAA,0.06249977570227937,0
+2141,7,chroma_9_std_pyAA,0.3086950586091412,0
+2142,7,chroma_10_std_pyAA,0.35727946892080314,0
+2143,7,chroma_11_std_pyAA,0.11025348302500891,0
+2144,7,chroma_12_std_pyAA,0.2927593149071546,0
+2145,7,chroma_std_std_pyAA,0.09195933869550577,0
+2146,7,delta zcr_std_pyAA,-0.33091753570732935,0
+2147,7,delta energy_std_pyAA,-0.014633243880789716,0
+2148,7,delta energy_entropy_std_pyAA,-0.05414536582181172,0
+2149,7,delta spectral_centroid_std_pyAA,0.10659328741981607,0
+2150,7,delta spectral_spread_std_pyAA,0.7739471277103553,0
+2151,7,delta spectral_entropy_std_pyAA,-0.3773716196937277,0
+2152,7,delta spectral_flux_std_pyAA,0.1419858584185312,0
+2153,7,delta spectral_rolloff_std_pyAA,-0.35733820261749144,0
+2154,7,delta mfcc_1_std_pyAA,0.05141278310409313,0
+2155,7,delta mfcc_2_std_pyAA,0.10712275589814799,0
+2156,7,delta mfcc_3_std_pyAA,0.02431759201476167,0
+2157,7,delta mfcc_4_std_pyAA,-0.016288828045221023,0
+2158,7,delta mfcc_5_std_pyAA,-0.03791907157963137,0
+2159,7,delta mfcc_6_std_pyAA,-0.07433833251357203,0
+2160,7,delta mfcc_7_std_pyAA,-0.0802870729702341,0
+2161,7,delta mfcc_8_std_pyAA,-0.10273044166896507,0
+2162,7,delta mfcc_9_std_pyAA,-0.13935996684494475,0
+2163,7,delta mfcc_10_std_pyAA,-0.14071199376409704,0
+2164,7,delta mfcc_11_std_pyAA,-0.14595117511844016,0
+2165,7,delta mfcc_12_std_pyAA,-0.09626181962760842,0
+2166,7,delta mfcc_13_std_pyAA,-0.025664044324077144,0
+2167,7,delta chroma_1_std_pyAA,0.3834877150711904,0
+2168,7,delta chroma_2_std_pyAA,0.29077195754448215,0
+2169,7,delta chroma_3_std_pyAA,-0.10752273990942114,0
+2170,7,delta chroma_4_std_pyAA,0.46941157871599876,0
+2171,7,delta chroma_5_std_pyAA,0.23189624468865064,0
+2172,7,delta chroma_6_std_pyAA,0.34401740261879077,0
+2173,7,delta chroma_7_std_pyAA,-0.3470816657400408,0
+2174,7,delta chroma_8_std_pyAA,0.031755517776343126,0
+2175,7,delta chroma_9_std_pyAA,0.24381111293868551,0
+2176,7,delta chroma_10_std_pyAA,0.18876959045796296,0
+2177,7,delta chroma_11_std_pyAA,-0.20254696066259997,0
+2178,7,delta chroma_12_std_pyAA,0.256593192828428,0
+2179,7,delta chroma_std_std_pyAA,-0.17242102463488626,0
+2180,7,tempo_pyAA,-0.0007342980715771832,0
+2181,7,global_highest_pitch_cents_all,-0.8574403717787136,1
+2182,7,global_lowest_pitch_cents_all,-0.6495546717154007,1
+2183,7,global_pitch_range_cents_all,-0.28648982420940855,1
+2184,7,duration_mean_all,0.06568723867175418,1
+2185,7,interval_duration_mean_all,0.2549879320743409,1
+2186,7,interval_duration_std_all,0.3331815641548869,1
+2187,7,global_highest_pitch_cents_onethird,-0.9229314223031158,1
+2188,7,global_lowest_pitch_cents_onethird,-0.6723879668976634,1
+2189,7,global_pitch_range_cents_onethird,-0.35554245575813026,1
+2190,7,global_vibrato_coverage_onethird,0.026465857325660078,1
+2191,7,duration_mean_onethird,0.02564506604809514,1
+2192,7,pitch_mean_height_cents_mean_onethird,-1.007864766291041,1
+2193,7,pitch_deviation_cents_mean_onethird,-0.428298567449695,1
+2194,7,pitch_range_cents_mean_onethird,-0.47795855690574923,1
+2195,7,pitch_min_cents_mean_onethird,-0.9391789419586365,1
+2196,7,pitch_max_cents_mean_onethird,-0.985229225810282,1
+2197,7,pitch_mean_height_hz_mean_onethird,-1.0190702972667793,1
+2198,7,pitch_deviation_hz_mean_onethird,-0.8297633767261321,1
+2199,7,pitch_range_hz_mean_onethird,-0.8629325626380273,1
+2200,7,pitch_min_hz_mean_onethird,-0.9698346576295169,1
+2201,7,pitch_max_hz_mean_onethird,-0.9979463825276124,1
+2202,7,vibrato_length_mean_onethird,0.008651815982674215,1
+2203,7,vibrato_coverage_mean_onethird,0.05127530765545424,1
+2204,7,vibrato_rate_hz_mean_onethird,-0.02466040556890759,1
+2205,7,vibrato_extend_cents_mean_onethird,-0.8382546900232387,1
+2206,7,vibrato_extend_hz_mean_onethird,-0.8204138348777099,1
+2207,7,duration_std_onethird,-0.08949870380216086,1
+2208,7,pitch_mean_height_cents_std_onethird,-0.24302368432529786,1
+2209,7,pitch_deviation_cents_std_onethird,-0.21054900910033086,1
+2210,7,pitch_range_cents_std_onethird,-0.26201276412483,1
+2211,7,pitch_min_cents_std_onethird,-0.26961691091778606,1
+2212,7,pitch_max_cents_std_onethird,-0.14475357504139713,1
+2213,7,pitch_mean_height_hz_std_onethird,-0.6975423961245597,1
+2214,7,pitch_deviation_hz_std_onethird,-0.6683412849487957,1
+2215,7,pitch_range_hz_std_onethird,-0.726580670745548,1
+2216,7,pitch_min_hz_std_onethird,-0.7240072228544724,1
+2217,7,pitch_max_hz_std_onethird,-0.6656068435518836,1
+2218,7,vibrato_length_std_onethird,-0.07031227931226468,1
+2219,7,vibrato_coverage_std_onethird,0.05420681390610546,1
+2220,7,vibrato_rate_hz_std_onethird,-0.021012133070300865,1
+2221,7,vibrato_extend_cents_std_onethird,-0.07889245600830522,1
+2222,7,vibrato_extend_hz_std_onethird,-0.6854811067777447,1
+2223,7,lowlevel.average_loudness_essentia,-0.4366791931397886,2
+2224,7,lowlevel.barkbands_crest.mean_essentia,0.49027832636546964,2
+2225,7,lowlevel.barkbands_crest.stdev_essentia,0.2164944122596363,2
+2226,7,lowlevel.barkbands_flatness_db.mean_essentia,0.7865615339431767,2
+2227,7,lowlevel.barkbands_flatness_db.stdev_essentia,0.5258867109317353,2
+2228,7,lowlevel.barkbands_kurtosis.mean_essentia,0.4924132114168935,2
+2229,7,lowlevel.barkbands_kurtosis.stdev_essentia,0.34987401861401674,2
+2230,7,lowlevel.barkbands_skewness.mean_essentia,0.39116114910311994,2
+2231,7,lowlevel.barkbands_skewness.stdev_essentia,0.30344584357817844,2
+2232,7,lowlevel.barkbands_spread.mean_essentia,-0.7800685395647197,2
+2233,7,lowlevel.barkbands_spread.stdev_essentia,-0.28538953111748755,2
+2234,7,lowlevel.dissonance.mean_essentia,-0.6770893739725801,2
+2235,7,lowlevel.dissonance.stdev_essentia,0.6399885410134399,2
+2236,7,lowlevel.dynamic_complexity_essentia,0.3821150392016177,2
+2237,7,lowlevel.erbbands_crest.mean_essentia,0.6153482731489742,2
+2238,7,lowlevel.erbbands_crest.stdev_essentia,0.4008356829036674,2
+2239,7,lowlevel.erbbands_flatness_db.mean_essentia,0.7419936096698188,2
+2240,7,lowlevel.erbbands_flatness_db.stdev_essentia,0.5119317326653083,2
+2241,7,lowlevel.erbbands_kurtosis.mean_essentia,0.42226408682175,2
+2242,7,lowlevel.erbbands_kurtosis.stdev_essentia,0.48031132147243527,2
+2243,7,lowlevel.erbbands_skewness.mean_essentia,0.5427927843182933,2
+2244,7,lowlevel.erbbands_skewness.stdev_essentia,0.4545241415681211,2
+2245,7,lowlevel.erbbands_spread.mean_essentia,-0.4551612117600985,2
+2246,7,lowlevel.erbbands_spread.stdev_essentia,-0.05285893611396373,2
+2247,7,lowlevel.hfc.mean_essentia,-0.6618342207513404,2
+2248,7,lowlevel.hfc.stdev_essentia,-0.3764380745084932,2
+2249,7,lowlevel.loudness_ebu128.integrated_essentia,0.04360518623531885,2
+2250,7,lowlevel.loudness_ebu128.loudness_range_essentia,0.42071070862404875,2
+2251,7,lowlevel.loudness_ebu128.momentary.mean_essentia,-0.08509923198902004,2
+2252,7,lowlevel.loudness_ebu128.momentary.stdev_essentia,0.3289998742866649,2
+2253,7,lowlevel.loudness_ebu128.short_term.mean_essentia,-0.018269571487577355,2
+2254,7,lowlevel.loudness_ebu128.short_term.stdev_essentia,0.37435964773418173,2
+2255,7,lowlevel.melbands_crest.mean_essentia,0.2670279467825108,2
+2256,7,lowlevel.melbands_crest.stdev_essentia,0.0966973831535517,2
+2257,7,lowlevel.melbands_flatness_db.mean_essentia,0.7257445892197767,2
+2258,7,lowlevel.melbands_flatness_db.stdev_essentia,0.430463396308515,2
+2259,7,lowlevel.melbands_kurtosis.mean_essentia,0.190975786276052,2
+2260,7,lowlevel.melbands_kurtosis.stdev_essentia,0.11214249775578344,2
+2261,7,lowlevel.melbands_skewness.mean_essentia,0.05266816440671082,2
+2262,7,lowlevel.melbands_skewness.stdev_essentia,0.08566543280987723,2
+2263,7,lowlevel.melbands_spread.mean_essentia,-0.6251958524970975,2
+2264,7,lowlevel.melbands_spread.stdev_essentia,-0.25770956493208563,2
+2265,7,lowlevel.pitch_salience.mean_essentia,-0.18170310617527366,2
+2266,7,lowlevel.pitch_salience.stdev_essentia,0.21451037214461044,2
+2267,7,lowlevel.silence_rate_20dB.mean_essentia,-0.03126008581202242,2
+2268,7,lowlevel.silence_rate_20dB.stdev_essentia,0.03129848160033809,2
+2269,7,lowlevel.silence_rate_30dB.mean_essentia,-0.19113080928422221,2
+2270,7,lowlevel.silence_rate_30dB.stdev_essentia,0.19092101917418794,2
+2271,7,lowlevel.silence_rate_60dB.mean_essentia,0.21474375881713517,2
+2272,7,lowlevel.silence_rate_60dB.stdev_essentia,0.24279596151863822,2
+2273,7,lowlevel.spectral_centroid.mean_essentia,-0.691049718925557,2
+2274,7,lowlevel.spectral_centroid.stdev_essentia,0.011662757768175503,2
+2275,7,lowlevel.spectral_complexity.mean_essentia,-0.5818716679700814,2
+2276,7,lowlevel.spectral_complexity.stdev_essentia,-0.65081098139144,2
+2277,7,lowlevel.spectral_energy.mean_essentia,-0.0969393890521365,2
+2278,7,lowlevel.spectral_energy.stdev_essentia,0.015411879623952603,2
+2279,7,lowlevel.spectral_energyband_high.stdev_essentia,-0.38494727095886644,2
+2280,7,lowlevel.spectral_energyband_low.mean_essentia,-0.2572202374679092,2
+2281,7,lowlevel.spectral_energyband_low.stdev_essentia,-0.27833927503720485,2
+2282,7,lowlevel.spectral_energyband_middle_high.mean_essentia,-0.3339618342517517,2
+2283,7,lowlevel.spectral_energyband_middle_high.stdev_essentia,0.05369312900305777,2
+2284,7,lowlevel.spectral_energyband_middle_low.mean_essentia,0.35352709467695953,2
+2285,7,lowlevel.spectral_energyband_middle_low.stdev_essentia,0.37931616249815897,2
+2286,7,lowlevel.spectral_entropy.mean_essentia,-0.8513916542420525,2
+2287,7,lowlevel.spectral_entropy.stdev_essentia,0.648178324033153,2
+2288,7,lowlevel.spectral_flux.mean_essentia,-0.5423518378909704,2
+2289,7,lowlevel.spectral_flux.stdev_essentia,-0.16932016587015686,2
+2290,7,lowlevel.spectral_kurtosis.mean_essentia,0.7467000693235146,2
+2291,7,lowlevel.spectral_kurtosis.stdev_essentia,0.7781837611488039,2
+2292,7,lowlevel.spectral_rolloff.mean_essentia,-0.6306295280984724,2
+2293,7,lowlevel.spectral_rolloff.stdev_essentia,-0.29237863064203584,2
+2294,7,lowlevel.spectral_skewness.mean_essentia,0.6209102749423755,2
+2295,7,lowlevel.spectral_skewness.stdev_essentia,0.7420867326086731,2
+2296,7,lowlevel.spectral_spread.mean_essentia,-0.5734875467250692,2
+2297,7,lowlevel.spectral_spread.stdev_essentia,0.06475869845606608,2
+2298,7,lowlevel.spectral_strongpeak.mean_essentia,0.26330018520317583,2
+2299,7,lowlevel.spectral_strongpeak.stdev_essentia,0.10832047416483405,2
+2300,7,lowlevel.zerocrossingrate.mean_essentia,-0.7125497273969955,2
+2301,7,lowlevel.zerocrossingrate.stdev_essentia,-0.14779395290809227,2
+2302,7,rhythm.beats_count_essentia,-0.08560471090026833,2
+2303,7,rhythm.beats_loudness.mean_essentia,-0.21389536133307774,2
+2304,7,rhythm.beats_loudness.stdev_essentia,0.110595256302442,2
+2305,7,rhythm.bpm_essentia,-0.070055922519868,2
+2306,7,rhythm.bpm_histogram_first_peak_bpm_essentia,-0.07206500001550806,2
+2307,7,rhythm.bpm_histogram_first_peak_weight_essentia,0.1464908364724788,2
+2308,7,rhythm.bpm_histogram_second_peak_bpm_essentia,0.015475626361797452,2
+2309,7,rhythm.bpm_histogram_second_peak_spread_essentia,0.34540175683823243,2
+2310,7,rhythm.bpm_histogram_second_peak_weight_essentia,0.11064495836582704,2
+2311,7,rhythm.danceability_essentia,-0.4395558783632396,2
+2312,7,rhythm.onset_rate_essentia,-0.3416715581246552,2
+2313,7,tonal.hpcp_crest.mean_essentia,0.5565918309202699,2
+2314,7,tonal.hpcp_crest.stdev_essentia,0.447759814605787,2
+2315,7,tonal.hpcp_entropy.mean_essentia,-0.5595886575687906,2
+2316,7,tonal.hpcp_entropy.stdev_essentia,-0.10674932855587026,2
+2317,7,tonal.tuning_diatonic_strength_essentia,0.040734809484891076,2
+2318,7,tonal.tuning_equal_tempered_deviation_essentia,-0.1856746097697798,2
+2319,7,tonal.tuning_frequency_essentia,0.024756254148638412,2
+2320,7,tonal.tuning_nontempered_energy_ratio_essentia,-0.19948793967525502,2
+2321,7,lines,-0.0007201731689243056,3
+2322,7,words,0.09033490042029489,3
+2323,7,verses,-0.013397745356478379,3
+2324,7,words_token,0.07775492657455897,3
+2325,7,unique_words_token,0.1597957771514918,3
+2326,7,length_mean_words_token,0.055628842049038646,3
+2327,7,length_max_words_token,0.0013423787907159825,3
+2328,7,length_mstd_words_token,-0.009295067873143065,3
+2329,7,polarity,0.018489635173696502,3
+2330,7,subjectivity,0.0599218561973664,3
+2331,7,DET,0.08981319086681884,3
+2332,7,PRON,0.05897464249179134,3
+2333,7,CCONJ,0.29670676814118807,3
+2334,7,ADP,0.11011207466936511,3
+2335,7,PUNCT,-0.005915391618830503,3
+2336,8,zcr_mean_pyAA,0.9533910610360076,0
+2337,8,energy_mean_pyAA,0.028337513719914775,0
+2338,8,energy_entropy_mean_pyAA,0.8591378266031122,0
+2339,8,spectral_centroid_mean_pyAA,0.7241355940981636,0
+2340,8,spectral_spread_mean_pyAA,0.0052550657908997656,0
+2341,8,spectral_entropy_mean_pyAA,0.9407908508532923,0
+2342,8,spectral_flux_mean_pyAA,-1.2119526024966232,0
+2343,8,spectral_rolloff_mean_pyAA,0.9338841494394368,0
+2344,8,mfcc_1_mean_pyAA,0.6617485209060813,0
+2345,8,mfcc_2_mean_pyAA,-0.7640142851709874,0
+2346,8,mfcc_3_mean_pyAA,0.07758851716324137,0
+2347,8,mfcc_4_mean_pyAA,-0.17304693943217872,0
+2348,8,mfcc_5_mean_pyAA,0.1430765199891949,0
+2349,8,mfcc_6_mean_pyAA,0.04987685198338937,0
+2350,8,mfcc_7_mean_pyAA,-0.051909115731425606,0
+2351,8,mfcc_8_mean_pyAA,-0.08861786276129463,0
+2352,8,mfcc_9_mean_pyAA,-0.030169664897656746,0
+2353,8,mfcc_10_mean_pyAA,0.02627301715819909,0
+2354,8,mfcc_11_mean_pyAA,0.03563893326946242,0
+2355,8,mfcc_12_mean_pyAA,-0.07949869629231499,0
+2356,8,mfcc_13_mean_pyAA,-0.08572545624065864,0
+2357,8,chroma_1_mean_pyAA,-0.05961651621480811,0
+2358,8,chroma_2_mean_pyAA,0.1336364092152718,0
+2359,8,chroma_3_mean_pyAA,-0.4773231285338351,0
+2360,8,chroma_4_mean_pyAA,-0.09374779710867708,0
+2361,8,chroma_5_mean_pyAA,-0.3104360882928269,0
+2362,8,chroma_6_mean_pyAA,-0.015085061692826307,0
+2363,8,chroma_7_mean_pyAA,-0.362862374339639,0
+2364,8,chroma_8_mean_pyAA,0.3399394782132097,0
+2365,8,chroma_9_mean_pyAA,0.07120926426783192,0
+2366,8,chroma_10_mean_pyAA,-0.03586925428693837,0
+2367,8,chroma_11_mean_pyAA,-0.47433900952942976,0
+2368,8,chroma_12_mean_pyAA,0.08199335551267345,0
+2369,8,chroma_std_mean_pyAA,-0.9040645736396944,0
+2370,8,delta zcr_mean_pyAA,0.540437307887396,0
+2371,8,delta energy_mean_pyAA,0.10903506219492833,0
+2372,8,delta energy_entropy_mean_pyAA,0.3404923089581288,0
+2373,8,delta spectral_centroid_mean_pyAA,0.17301929089844845,0
+2374,8,delta spectral_spread_mean_pyAA,-0.08155623151124206,0
+2375,8,delta spectral_entropy_mean_pyAA,0.5135957420168065,0
+2376,8,delta spectral_flux_mean_pyAA,-0.5195020974235299,0
+2377,8,delta spectral_rolloff_mean_pyAA,0.4713416005921193,0
+2378,8,delta mfcc_1_mean_pyAA,-0.16878999772920827,0
+2379,8,delta mfcc_2_mean_pyAA,-0.45766061497876254,0
+2380,8,delta mfcc_3_mean_pyAA,0.006985811470944209,0
+2381,8,delta mfcc_4_mean_pyAA,-0.0908353604557668,0
+2382,8,delta mfcc_5_mean_pyAA,-0.023126779414914173,0
+2383,8,delta mfcc_6_mean_pyAA,-0.03680429683600137,0
+2384,8,delta mfcc_7_mean_pyAA,-0.024864042493135126,0
+2385,8,delta mfcc_8_mean_pyAA,-0.01980915476455931,0
+2386,8,delta mfcc_9_mean_pyAA,0.04338647280594517,0
+2387,8,delta mfcc_10_mean_pyAA,0.028731395840595364,0
+2388,8,delta mfcc_11_mean_pyAA,-0.04695607313506703,0
+2389,8,delta mfcc_12_mean_pyAA,-0.0046717291725056325,0
+2390,8,delta mfcc_13_mean_pyAA,-0.007070379745114222,0
+2391,8,delta chroma_1_mean_pyAA,-0.04034132104349972,0
+2392,8,delta chroma_2_mean_pyAA,0.11264744623543765,0
+2393,8,delta chroma_3_mean_pyAA,-0.1916802392294264,0
+2394,8,delta chroma_4_mean_pyAA,0.08806246576146895,0
+2395,8,delta chroma_5_mean_pyAA,0.019218242073323365,0
+2396,8,delta chroma_6_mean_pyAA,0.061336553171582424,0
+2397,8,delta chroma_7_mean_pyAA,-0.21356653994599656,0
+2398,8,delta chroma_8_mean_pyAA,0.264321296436603,0
+2399,8,delta chroma_9_mean_pyAA,0.04326856740702052,0
+2400,8,delta chroma_10_mean_pyAA,-0.029475098650289043,0
+2401,8,delta chroma_11_mean_pyAA,-0.0979240005335725,0
+2402,8,delta chroma_12_mean_pyAA,0.13564966516473875,0
+2403,8,delta chroma_std_mean_pyAA,-0.41903756958334637,0
+2404,8,zcr_std_pyAA,0.19887098910884893,0
+2405,8,energy_std_pyAA,-0.5133473748236193,0
+2406,8,energy_entropy_std_pyAA,-0.7140840388702803,0
+2407,8,spectral_centroid_std_pyAA,-0.26155436620521094,0
+2408,8,spectral_spread_std_pyAA,-0.9358905023233998,0
+2409,8,spectral_entropy_std_pyAA,0.2663107511527705,0
+2410,8,spectral_flux_std_pyAA,-0.3848444344323354,0
+2411,8,spectral_rolloff_std_pyAA,0.22175739178694204,0
+2412,8,mfcc_1_std_pyAA,-0.46379693408669953,0
+2413,8,mfcc_2_std_pyAA,-0.6785709035857197,0
+2414,8,mfcc_3_std_pyAA,-0.564339068376171,0
+2415,8,mfcc_4_std_pyAA,-0.543434479893789,0
+2416,8,mfcc_5_std_pyAA,-0.6058406572130994,0
+2417,8,mfcc_6_std_pyAA,-0.5868415537291277,0
+2418,8,mfcc_7_std_pyAA,-0.504582336300184,0
+2419,8,mfcc_8_std_pyAA,-0.43347974375221043,0
+2420,8,mfcc_9_std_pyAA,-0.42117376301065973,0
+2421,8,mfcc_10_std_pyAA,-0.3714968610216607,0
+2422,8,mfcc_11_std_pyAA,-0.3536772333805202,0
+2423,8,mfcc_12_std_pyAA,-0.4046809356636893,0
+2424,8,mfcc_13_std_pyAA,-0.4340400403417408,0
+2425,8,chroma_1_std_pyAA,-0.2699250151273493,0
+2426,8,chroma_2_std_pyAA,-0.1499335861448553,0
+2427,8,chroma_3_std_pyAA,-0.6821156509629956,0
+2428,8,chroma_4_std_pyAA,-0.280845048279376,0
+2429,8,chroma_5_std_pyAA,-0.4535401879669431,0
+2430,8,chroma_6_std_pyAA,-0.2715460758098616,0
+2431,8,chroma_7_std_pyAA,-0.4933324787545501,0
+2432,8,chroma_8_std_pyAA,0.01611263074909859,0
+2433,8,chroma_9_std_pyAA,-0.1459958772228943,0
+2434,8,chroma_10_std_pyAA,-0.2550546736308061,0
+2435,8,chroma_11_std_pyAA,-0.6610160970038546,0
+2436,8,chroma_12_std_pyAA,-0.18314370094970644,0
+2437,8,chroma_std_std_pyAA,-0.746572030535998,0
+2438,8,delta zcr_std_pyAA,0.14981521676114168,0
+2439,8,delta energy_std_pyAA,-0.4845071700120557,0
+2440,8,delta energy_entropy_std_pyAA,-0.672861121395592,0
+2441,8,delta spectral_centroid_std_pyAA,-0.5918113332615355,0
+2442,8,delta spectral_spread_std_pyAA,-0.9778538965711376,0
+2443,8,delta spectral_entropy_std_pyAA,0.1260051380426328,0
+2444,8,delta spectral_flux_std_pyAA,-0.36483222929339293,0
+2445,8,delta spectral_rolloff_std_pyAA,0.10099139079264852,0
+2446,8,delta mfcc_1_std_pyAA,-0.6311904312560526,0
+2447,8,delta mfcc_2_std_pyAA,-0.8560484899705195,0
+2448,8,delta mfcc_3_std_pyAA,-0.7167405506369469,0
+2449,8,delta mfcc_4_std_pyAA,-0.673270943321081,0
+2450,8,delta mfcc_5_std_pyAA,-0.6175322248830319,0
+2451,8,delta mfcc_6_std_pyAA,-0.6284526743327603,0
+2452,8,delta mfcc_7_std_pyAA,-0.553547605679823,0
+2453,8,delta mfcc_8_std_pyAA,-0.5632171931222281,0
+2454,8,delta mfcc_9_std_pyAA,-0.512167725707755,0
+2455,8,delta mfcc_10_std_pyAA,-0.4474795515198964,0
+2456,8,delta mfcc_11_std_pyAA,-0.4368049575658856,0
+2457,8,delta mfcc_12_std_pyAA,-0.46596869651371065,0
+2458,8,delta mfcc_13_std_pyAA,-0.45705760449506316,0
+2459,8,delta chroma_1_std_pyAA,-0.2864913943931684,0
+2460,8,delta chroma_2_std_pyAA,-0.15577051743553583,0
+2461,8,delta chroma_3_std_pyAA,-0.625345169169826,0
+2462,8,delta chroma_4_std_pyAA,-0.3124251353227449,0
+2463,8,delta chroma_5_std_pyAA,-0.5215300828562308,0
+2464,8,delta chroma_6_std_pyAA,-0.27371734757588695,0
+2465,8,delta chroma_7_std_pyAA,-0.38459727821603296,0
+2466,8,delta chroma_8_std_pyAA,0.013236390501338704,0
+2467,8,delta chroma_9_std_pyAA,-0.1406060010667261,0
+2468,8,delta chroma_10_std_pyAA,-0.27828899960210984,0
+2469,8,delta chroma_11_std_pyAA,-0.5951783311225789,0
+2470,8,delta chroma_12_std_pyAA,-0.20970702469031052,0
+2471,8,delta chroma_std_std_pyAA,-0.6259872070578415,0
+2472,8,tempo_pyAA,-0.07142564978812234,0
+2473,8,global_highest_pitch_cents_all,0.5637026907054972,1
+2474,8,global_lowest_pitch_cents_all,0.568717476192619,1
+2475,8,global_pitch_range_cents_all,0.09543922395350812,1
+2476,8,duration_mean_all,0.49181158791636437,1
+2477,8,interval_duration_mean_all,-0.1930044609600603,1
+2478,8,interval_duration_std_all,-0.17109995862217553,1
+2479,8,global_highest_pitch_cents_onethird,0.5926344765783883,1
+2480,8,global_lowest_pitch_cents_onethird,0.5652972079886001,1
+2481,8,global_pitch_range_cents_onethird,0.12426084229276091,1
+2482,8,global_vibrato_coverage_onethird,0.1142259941380032,1
+2483,8,duration_mean_onethird,0.5368680060057591,1
+2484,8,pitch_mean_height_cents_mean_onethird,0.6331663442427652,1
+2485,8,pitch_deviation_cents_mean_onethird,0.31295643492503505,1
+2486,8,pitch_range_cents_mean_onethird,0.4270760752383185,1
+2487,8,pitch_min_cents_mean_onethird,0.5843631863820666,1
+2488,8,pitch_max_cents_mean_onethird,0.6609472290663174,1
+2489,8,pitch_mean_height_hz_mean_onethird,0.62966707964729,1
+2490,8,pitch_deviation_hz_mean_onethird,0.5805289435543778,1
+2491,8,pitch_range_hz_mean_onethird,0.6566303282322445,1
+2492,8,pitch_min_hz_mean_onethird,0.5824953899505357,1
+2493,8,pitch_max_hz_mean_onethird,0.6729084368964793,1
+2494,8,vibrato_length_mean_onethird,0.45707840603897565,1
+2495,8,vibrato_coverage_mean_onethird,0.14181840042176513,1
+2496,8,vibrato_rate_hz_mean_onethird,-0.19081008106988503,1
+2497,8,vibrato_extend_cents_mean_onethird,0.32471360822409034,1
+2498,8,vibrato_extend_hz_mean_onethird,0.3136360911481247,1
+2499,8,duration_std_onethird,0.4769396877498333,1
+2500,8,pitch_mean_height_cents_std_onethird,0.06907970496610555,1
+2501,8,pitch_deviation_cents_std_onethird,0.043145310858115155,1
+2502,8,pitch_range_cents_std_onethird,0.180263518054286,1
+2503,8,pitch_min_cents_std_onethird,-0.002019118664938889,1
+2504,8,pitch_max_cents_std_onethird,0.08401394766258147,1
+2505,8,pitch_mean_height_hz_std_onethird,0.37953567046210396,1
+2506,8,pitch_deviation_hz_std_onethird,0.43059593896747245,1
+2507,8,pitch_range_hz_std_onethird,0.5506661812060406,1
+2508,8,pitch_min_hz_std_onethird,0.3081575489402216,1
+2509,8,pitch_max_hz_std_onethird,0.4497545659812053,1
+2510,8,vibrato_length_std_onethird,0.3856520068239599,1
+2511,8,vibrato_coverage_std_onethird,-0.1488608982601028,1
+2512,8,vibrato_rate_hz_std_onethird,-0.20961899374721965,1
+2513,8,vibrato_extend_cents_std_onethird,0.02192558351803981,1
+2514,8,vibrato_extend_hz_std_onethird,0.24674966584220445,1
+2515,8,lowlevel.average_loudness_essentia,0.19010927068674388,2
+2516,8,lowlevel.barkbands_crest.mean_essentia,-1.0442059314493273,2
+2517,8,lowlevel.barkbands_crest.stdev_essentia,-0.7408264359583764,2
+2518,8,lowlevel.barkbands_flatness_db.mean_essentia,-1.0906587688363787,2
+2519,8,lowlevel.barkbands_flatness_db.stdev_essentia,-1.0642946328861838,2
+2520,8,lowlevel.barkbands_kurtosis.mean_essentia,-1.0652445662490897,2
+2521,8,lowlevel.barkbands_kurtosis.stdev_essentia,-1.0144562641959591,2
+2522,8,lowlevel.barkbands_skewness.mean_essentia,-0.8896599846814807,2
+2523,8,lowlevel.barkbands_skewness.stdev_essentia,-0.9619370940743777,2
+2524,8,lowlevel.barkbands_spread.mean_essentia,0.9231740974923339,2
+2525,8,lowlevel.barkbands_spread.stdev_essentia,0.051416956355147536,2
+2526,8,lowlevel.dissonance.mean_essentia,0.796962358893566,2
+2527,8,lowlevel.dissonance.stdev_essentia,-0.851960981378532,2
+2528,8,lowlevel.dynamic_complexity_essentia,-0.496916386329181,2
+2529,8,lowlevel.erbbands_crest.mean_essentia,-0.7208962608056633,2
+2530,8,lowlevel.erbbands_crest.stdev_essentia,-0.5840920969975748,2
+2531,8,lowlevel.erbbands_flatness_db.mean_essentia,-0.590878338983789,2
+2532,8,lowlevel.erbbands_flatness_db.stdev_essentia,-0.7458267333213745,2
+2533,8,lowlevel.erbbands_kurtosis.mean_essentia,-0.6866093885299153,2
+2534,8,lowlevel.erbbands_kurtosis.stdev_essentia,-0.7717555117861337,2
+2535,8,lowlevel.erbbands_skewness.mean_essentia,-0.6931130972939216,2
+2536,8,lowlevel.erbbands_skewness.stdev_essentia,-0.7540854425133161,2
+2537,8,lowlevel.erbbands_spread.mean_essentia,0.24728239829439155,2
+2538,8,lowlevel.erbbands_spread.stdev_essentia,-0.4635728962856634,2
+2539,8,lowlevel.hfc.mean_essentia,0.8116356918330234,2
+2540,8,lowlevel.hfc.stdev_essentia,0.2362707410218024,2
+2541,8,lowlevel.loudness_ebu128.integrated_essentia,0.2525717090254398,2
+2542,8,lowlevel.loudness_ebu128.loudness_range_essentia,-0.1382382152724767,2
+2543,8,lowlevel.loudness_ebu128.momentary.mean_essentia,0.2704494560311687,2
+2544,8,lowlevel.loudness_ebu128.momentary.stdev_essentia,-0.2088641159966238,2
+2545,8,lowlevel.loudness_ebu128.short_term.mean_essentia,0.24167593718415334,2
+2546,8,lowlevel.loudness_ebu128.short_term.stdev_essentia,-0.11255451498779989,2
+2547,8,lowlevel.melbands_crest.mean_essentia,-0.9158549093922257,2
+2548,8,lowlevel.melbands_crest.stdev_essentia,-0.575918687345214,2
+2549,8,lowlevel.melbands_flatness_db.mean_essentia,-1.1193156389397754,2
+2550,8,lowlevel.melbands_flatness_db.stdev_essentia,-1.0041193183283603,2
+2551,8,lowlevel.melbands_kurtosis.mean_essentia,-0.8586230770714317,2
+2552,8,lowlevel.melbands_kurtosis.stdev_essentia,-0.8498280533068658,2
+2553,8,lowlevel.melbands_skewness.mean_essentia,-0.6050107160583188,2
+2554,8,lowlevel.melbands_skewness.stdev_essentia,-0.8378972860531233,2
+2555,8,lowlevel.melbands_spread.mean_essentia,0.9363849016122245,2
+2556,8,lowlevel.melbands_spread.stdev_essentia,0.27767609239905455,2
+2557,8,lowlevel.pitch_salience.mean_essentia,0.7567901058077329,2
+2558,8,lowlevel.pitch_salience.stdev_essentia,-0.8622595831450398,2
+2559,8,lowlevel.silence_rate_20dB.mean_essentia,0.15696529963573772,2
+2560,8,lowlevel.silence_rate_20dB.stdev_essentia,-0.15708000374027653,2
+2561,8,lowlevel.silence_rate_30dB.mean_essentia,1.7783116142643998,2
+2562,8,lowlevel.silence_rate_30dB.stdev_essentia,-1.7781326977942122,2
+2563,8,lowlevel.silence_rate_60dB.mean_essentia,-0.24146216376319757,2
+2564,8,lowlevel.silence_rate_60dB.stdev_essentia,-0.2627850527267834,2
+2565,8,lowlevel.spectral_centroid.mean_essentia,0.8653582312058686,2
+2566,8,lowlevel.spectral_centroid.stdev_essentia,-0.1788863322175659,2
+2567,8,lowlevel.spectral_complexity.mean_essentia,0.845503716147112,2
+2568,8,lowlevel.spectral_complexity.stdev_essentia,0.4357200862698831,2
+2569,8,lowlevel.spectral_energy.mean_essentia,-0.25153658454749533,2
+2570,8,lowlevel.spectral_energy.stdev_essentia,-0.7445067202087622,2
+2571,8,lowlevel.spectral_energyband_high.stdev_essentia,0.36703061807235465,2
+2572,8,lowlevel.spectral_energyband_low.mean_essentia,-0.36878079874952413,2
+2573,8,lowlevel.spectral_energyband_low.stdev_essentia,-0.42603921200161876,2
+2574,8,lowlevel.spectral_energyband_middle_high.mean_essentia,0.6420256754022069,2
+2575,8,lowlevel.spectral_energyband_middle_high.stdev_essentia,-0.014398735455208325,2
+2576,8,lowlevel.spectral_energyband_middle_low.mean_essentia,-0.29023389551143036,2
+2577,8,lowlevel.spectral_energyband_middle_low.stdev_essentia,-0.629515079936836,2
+2578,8,lowlevel.spectral_entropy.mean_essentia,0.8955216245488048,2
+2579,8,lowlevel.spectral_entropy.stdev_essentia,-0.9193712548489538,2
+2580,8,lowlevel.spectral_flux.mean_essentia,0.07872667495487201,2
+2581,8,lowlevel.spectral_flux.stdev_essentia,-0.6361234250981027,2
+2582,8,lowlevel.spectral_kurtosis.mean_essentia,-0.7349743376615409,2
+2583,8,lowlevel.spectral_kurtosis.stdev_essentia,-0.8879278010350945,2
+2584,8,lowlevel.spectral_rolloff.mean_essentia,0.9380129536711878,2
+2585,8,lowlevel.spectral_rolloff.stdev_essentia,0.19120968639784713,2
+2586,8,lowlevel.spectral_skewness.mean_essentia,-0.7135847788332832,2
+2587,8,lowlevel.spectral_skewness.stdev_essentia,-0.962789672917387,2
+2588,8,lowlevel.spectral_spread.mean_essentia,0.3337658181152224,2
+2589,8,lowlevel.spectral_spread.stdev_essentia,-0.3497976875011781,2
+2590,8,lowlevel.spectral_strongpeak.mean_essentia,0.17892109881460624,2
+2591,8,lowlevel.spectral_strongpeak.stdev_essentia,0.22051157103426655,2
+2592,8,lowlevel.zerocrossingrate.mean_essentia,0.960393405003465,2
+2593,8,lowlevel.zerocrossingrate.stdev_essentia,0.08038494941776925,2
+2594,8,rhythm.beats_count_essentia,0.18868157872268168,2
+2595,8,rhythm.beats_loudness.mean_essentia,-0.4236926234054611,2
+2596,8,rhythm.beats_loudness.stdev_essentia,-0.7266857989382993,2
+2597,8,rhythm.bpm_essentia,0.18027064170712964,2
+2598,8,rhythm.bpm_histogram_first_peak_bpm_essentia,0.17871609413205808,2
+2599,8,rhythm.bpm_histogram_first_peak_weight_essentia,-0.11443122692597284,2
+2600,8,rhythm.bpm_histogram_second_peak_bpm_essentia,0.15453871501361865,2
+2601,8,rhythm.bpm_histogram_second_peak_spread_essentia,-0.12430530615166437,2
+2602,8,rhythm.bpm_histogram_second_peak_weight_essentia,0.06681574364246737,2
+2603,8,rhythm.danceability_essentia,-0.19791069707181816,2
+2604,8,rhythm.onset_rate_essentia,-0.2577775526185978,2
+2605,8,tonal.hpcp_crest.mean_essentia,-0.27285527965986034,2
+2606,8,tonal.hpcp_crest.stdev_essentia,-0.17438698004636533,2
+2607,8,tonal.hpcp_entropy.mean_essentia,0.3309195618251676,2
+2608,8,tonal.hpcp_entropy.stdev_essentia,-0.03323908640042736,2
+2609,8,tonal.tuning_diatonic_strength_essentia,0.16903002918420298,2
+2610,8,tonal.tuning_equal_tempered_deviation_essentia,-0.20560198295615942,2
+2611,8,tonal.tuning_frequency_essentia,0.08917543734898034,2
+2612,8,tonal.tuning_nontempered_energy_ratio_essentia,-0.1753550864051909,2
+2613,8,lines,0.1523981228676889,3
+2614,8,words,0.16689687028784217,3
+2615,8,verses,0.20129074977329608,3
+2616,8,words_token,0.16137392163981407,3
+2617,8,unique_words_token,0.02073495158871118,3
+2618,8,length_mean_words_token,-0.09758493816174987,3
+2619,8,length_max_words_token,-0.018931405705436243,3
+2620,8,length_mstd_words_token,-0.051781984836158576,3
+2621,8,polarity,-0.026240028340743547,3
+2622,8,subjectivity,0.013979273746089604,3
+2623,8,DET,0.075772185565605,3
+2624,8,PRON,0.14151224615145105,3
+2625,8,CCONJ,-0.05945481895038418,3
+2626,8,ADP,0.1219423113872921,3
+2627,8,PUNCT,-0.09882317246378089,3
+2628,9,zcr_mean_pyAA,-0.1190889345097294,0
+2629,9,energy_mean_pyAA,0.5305938287082763,0
+2630,9,energy_entropy_mean_pyAA,0.43721197626951835,0
+2631,9,spectral_centroid_mean_pyAA,-0.26359442464495064,0
+2632,9,spectral_spread_mean_pyAA,-0.3559032172439527,0
+2633,9,spectral_entropy_mean_pyAA,-0.07306256121631685,0
+2634,9,spectral_flux_mean_pyAA,-0.3636856332905394,0
+2635,9,spectral_rolloff_mean_pyAA,-0.11352310814883518,0
+2636,9,mfcc_1_mean_pyAA,0.7598209052592326,0
+2637,9,mfcc_2_mean_pyAA,-0.1641581896099929,0
+2638,9,mfcc_3_mean_pyAA,-0.06098117863697841,0
+2639,9,mfcc_4_mean_pyAA,0.12080647515034311,0
+2640,9,mfcc_5_mean_pyAA,0.02036351744760842,0
+2641,9,mfcc_6_mean_pyAA,0.19513450273299235,0
+2642,9,mfcc_7_mean_pyAA,-0.012291503148600447,0
+2643,9,mfcc_8_mean_pyAA,0.11295216080828568,0
+2644,9,mfcc_9_mean_pyAA,-0.05854420950157313,0
+2645,9,mfcc_10_mean_pyAA,0.1697387751087879,0
+2646,9,mfcc_11_mean_pyAA,-0.011178383377071284,0
+2647,9,mfcc_12_mean_pyAA,-0.007113997997953959,0
+2648,9,mfcc_13_mean_pyAA,-1.2198114005657068e-05,0
+2649,9,chroma_1_mean_pyAA,0.017607786249295418,0
+2650,9,chroma_2_mean_pyAA,0.11965390293284545,0
+2651,9,chroma_3_mean_pyAA,-0.0636089282473373,0
+2652,9,chroma_4_mean_pyAA,0.01670069263587473,0
+2653,9,chroma_5_mean_pyAA,-0.030643234912445496,0
+2654,9,chroma_6_mean_pyAA,0.05192091958697004,0
+2655,9,chroma_7_mean_pyAA,-0.14422322994186415,0
+2656,9,chroma_8_mean_pyAA,0.18205461290764424,0
+2657,9,chroma_9_mean_pyAA,0.03112006780184931,0
+2658,9,chroma_10_mean_pyAA,0.13974358776806842,0
+2659,9,chroma_11_mean_pyAA,-0.005479765593823613,0
+2660,9,chroma_12_mean_pyAA,0.056615200635677626,0
+2661,9,chroma_std_mean_pyAA,-0.31997575831407404,0
+2662,9,delta zcr_mean_pyAA,-0.00646162920316197,0
+2663,9,delta energy_mean_pyAA,0.23457111726165691,0
+2664,9,delta energy_entropy_mean_pyAA,0.12678621371558313,0
+2665,9,delta spectral_centroid_mean_pyAA,-0.14648086007702957,0
+2666,9,delta spectral_spread_mean_pyAA,-0.14594688589561,0
+2667,9,delta spectral_entropy_mean_pyAA,-0.011378791194935858,0
+2668,9,delta spectral_flux_mean_pyAA,-0.17564215287328522,0
+2669,9,delta spectral_rolloff_mean_pyAA,0.026358135341960458,0
+2670,9,delta mfcc_1_mean_pyAA,0.003918075116895493,0
+2671,9,delta mfcc_2_mean_pyAA,-0.14000129956530133,0
+2672,9,delta mfcc_3_mean_pyAA,-0.05432871027237226,0
+2673,9,delta mfcc_4_mean_pyAA,0.0682450121291078,0
+2674,9,delta mfcc_5_mean_pyAA,0.0023412798152933345,0
+2675,9,delta mfcc_6_mean_pyAA,0.016564042643673338,0
+2676,9,delta mfcc_7_mean_pyAA,0.01237201425622007,0
+2677,9,delta mfcc_8_mean_pyAA,9.728528169090228e-05,0
+2678,9,delta mfcc_9_mean_pyAA,-0.001532038621067015,0
+2679,9,delta mfcc_10_mean_pyAA,0.028421404318092904,0
+2680,9,delta mfcc_11_mean_pyAA,-0.04644021280417048,0
+2681,9,delta mfcc_12_mean_pyAA,-0.059648165437704716,0
+2682,9,delta mfcc_13_mean_pyAA,-0.031901823900466704,0
+2683,9,delta chroma_1_mean_pyAA,0.054148810904045414,0
+2684,9,delta chroma_2_mean_pyAA,0.09689405447925467,0
+2685,9,delta chroma_3_mean_pyAA,0.039939500874556805,0
+2686,9,delta chroma_4_mean_pyAA,0.07392612744338153,0
+2687,9,delta chroma_5_mean_pyAA,-0.016103319880346377,0
+2688,9,delta chroma_6_mean_pyAA,0.04741829703019204,0
+2689,9,delta chroma_7_mean_pyAA,0.0019666535785910905,0
+2690,9,delta chroma_8_mean_pyAA,0.10988667694756508,0
+2691,9,delta chroma_9_mean_pyAA,0.0685373233672557,0
+2692,9,delta chroma_10_mean_pyAA,0.044856833503000335,0
+2693,9,delta chroma_11_mean_pyAA,-0.014498993259104987,0
+2694,9,delta chroma_12_mean_pyAA,0.05238902735027245,0
+2695,9,delta chroma_std_mean_pyAA,-0.056694534327044216,0
+2696,9,zcr_std_pyAA,-0.662429640562517,0
+2697,9,energy_std_pyAA,0.025770864655221375,0
+2698,9,energy_entropy_std_pyAA,-0.5103457960557601,0
+2699,9,spectral_centroid_std_pyAA,-0.6683248473364559,0
+2700,9,spectral_spread_std_pyAA,-0.19549518547352257,0
+2701,9,spectral_entropy_std_pyAA,-0.6423991874349433,0
+2702,9,spectral_flux_std_pyAA,-0.05310727160588715,0
+2703,9,spectral_rolloff_std_pyAA,-0.6315985259114043,0
+2704,9,mfcc_1_std_pyAA,-0.4335290809878049,0
+2705,9,mfcc_2_std_pyAA,-0.5479071219346078,0
+2706,9,mfcc_3_std_pyAA,-0.46529896754814426,0
+2707,9,mfcc_4_std_pyAA,-0.4538831848562504,0
+2708,9,mfcc_5_std_pyAA,-0.39156049232556467,0
+2709,9,mfcc_6_std_pyAA,-0.3785724021206693,0
+2710,9,mfcc_7_std_pyAA,-0.40023615204367974,0
+2711,9,mfcc_8_std_pyAA,-0.3603252691851237,0
+2712,9,mfcc_9_std_pyAA,-0.30099475471004833,0
+2713,9,mfcc_10_std_pyAA,-0.3253468076534288,0
+2714,9,mfcc_11_std_pyAA,-0.2924987994375407,0
+2715,9,mfcc_12_std_pyAA,-0.33174151581009637,0
+2716,9,mfcc_13_std_pyAA,-0.2926283049559127,0
+2717,9,chroma_1_std_pyAA,-0.1765174126810184,0
+2718,9,chroma_2_std_pyAA,-0.04128400466405155,0
+2719,9,chroma_3_std_pyAA,-0.24396167496958593,0
+2720,9,chroma_4_std_pyAA,-0.15038566861431224,0
+2721,9,chroma_5_std_pyAA,-0.19269348106065645,0
+2722,9,chroma_6_std_pyAA,-0.1152451223189507,0
+2723,9,chroma_7_std_pyAA,-0.31286826531229617,0
+2724,9,chroma_8_std_pyAA,0.016588969216023347,0
+2725,9,chroma_9_std_pyAA,-0.14376438585452472,0
+2726,9,chroma_10_std_pyAA,-0.04830230809742733,0
+2727,9,chroma_11_std_pyAA,-0.18588249405013968,0
+2728,9,chroma_12_std_pyAA,-0.09541534530833622,0
+2729,9,chroma_std_std_pyAA,-0.5413460311265442,0
+2730,9,delta zcr_std_pyAA,-0.6042234499772534,0
+2731,9,delta energy_std_pyAA,0.08038104974814907,0
+2732,9,delta energy_entropy_std_pyAA,-0.4772108243470123,0
+2733,9,delta spectral_centroid_std_pyAA,-0.6118726942514715,0
+2734,9,delta spectral_spread_std_pyAA,-0.10414914605620902,0
+2735,9,delta spectral_entropy_std_pyAA,-0.5819928630327809,0
+2736,9,delta spectral_flux_std_pyAA,-0.029525730635443507,0
+2737,9,delta spectral_rolloff_std_pyAA,-0.5894336866251727,0
+2738,9,delta mfcc_1_std_pyAA,-0.3804136306148814,0
+2739,9,delta mfcc_2_std_pyAA,-0.5099203523016308,0
+2740,9,delta mfcc_3_std_pyAA,-0.4949197278543767,0
+2741,9,delta mfcc_4_std_pyAA,-0.4800779569037697,0
+2742,9,delta mfcc_5_std_pyAA,-0.44647265831530847,0
+2743,9,delta mfcc_6_std_pyAA,-0.4045309190733994,0
+2744,9,delta mfcc_7_std_pyAA,-0.43174345417829924,0
+2745,9,delta mfcc_8_std_pyAA,-0.41213233270584715,0
+2746,9,delta mfcc_9_std_pyAA,-0.374211477722137,0
+2747,9,delta mfcc_10_std_pyAA,-0.3852436514972057,0
+2748,9,delta mfcc_11_std_pyAA,-0.35614650593906894,0
+2749,9,delta mfcc_12_std_pyAA,-0.33729380256198505,0
+2750,9,delta mfcc_13_std_pyAA,-0.32907772129125934,0
+2751,9,delta chroma_1_std_pyAA,-0.18218015146364383,0
+2752,9,delta chroma_2_std_pyAA,-0.06114367362277939,0
+2753,9,delta chroma_3_std_pyAA,-0.2527854203706047,0
+2754,9,delta chroma_4_std_pyAA,-0.17146039678731426,0
+2755,9,delta chroma_5_std_pyAA,-0.2292635071010367,0
+2756,9,delta chroma_6_std_pyAA,-0.1099978273494649,0
+2757,9,delta chroma_7_std_pyAA,-0.25458681436152986,0
+2758,9,delta chroma_8_std_pyAA,0.027026142755485025,0
+2759,9,delta chroma_9_std_pyAA,-0.12152569430520437,0
+2760,9,delta chroma_10_std_pyAA,-0.06811125347357862,0
+2761,9,delta chroma_11_std_pyAA,-0.19937043233830903,0
+2762,9,delta chroma_12_std_pyAA,-0.10688323059186106,0
+2763,9,delta chroma_std_std_pyAA,-0.4521997191720186,0
+2764,9,tempo_pyAA,-0.07534281236476559,0
+2765,9,global_highest_pitch_cents_all,0.025700839777863388,1
+2766,9,global_lowest_pitch_cents_all,-0.14368161186728945,1
+2767,9,global_pitch_range_cents_all,0.24076348894539637,1
+2768,9,duration_mean_all,0.11582153639370668,1
+2769,9,interval_duration_mean_all,-0.332548759046272,1
+2770,9,interval_duration_std_all,-0.25755771221839674,1
+2771,9,global_highest_pitch_cents_onethird,0.07034033229808934,1
+2772,9,global_lowest_pitch_cents_onethird,-0.20218031845729767,1
+2773,9,global_pitch_range_cents_onethird,0.34025754693065813,1
+2774,9,global_vibrato_coverage_onethird,-0.09560255150536517,1
+2775,9,duration_mean_onethird,0.12453236722658381,1
+2776,9,pitch_mean_height_cents_mean_onethird,-0.09713617007452813,1
+2777,9,pitch_deviation_cents_mean_onethird,0.15139079423385313,1
+2778,9,pitch_range_cents_mean_onethird,0.13119086336301464,1
+2779,9,pitch_min_cents_mean_onethird,-0.10813406977056544,1
+2780,9,pitch_max_cents_mean_onethird,-0.053533075344589426,1
+2781,9,pitch_mean_height_hz_mean_onethird,-0.07069256383350331,1
+2782,9,pitch_deviation_hz_mean_onethird,0.074691639877391,1
+2783,9,pitch_range_hz_mean_onethird,0.06652391011495402,1
+2784,9,pitch_min_hz_mean_onethird,-0.09619612345228676,1
+2785,9,pitch_max_hz_mean_onethird,-0.028767700861191597,1
+2786,9,vibrato_length_mean_onethird,0.044813368356639835,1
+2787,9,vibrato_coverage_mean_onethird,-0.07514250908922289,1
+2788,9,vibrato_rate_hz_mean_onethird,-0.022028917988660593,1
+2789,9,vibrato_extend_cents_mean_onethird,-0.1380498760184847,1
+2790,9,vibrato_extend_hz_mean_onethird,-0.08561348722678616,1
+2791,9,duration_std_onethird,0.1459102575905031,1
+2792,9,pitch_mean_height_cents_std_onethird,0.317526320430689,1
+2793,9,pitch_deviation_cents_std_onethird,0.24926230513434508,1
+2794,9,pitch_range_cents_std_onethird,0.212190074976979,1
+2795,9,pitch_min_cents_std_onethird,0.2628272192120078,1
+2796,9,pitch_max_cents_std_onethird,0.3177956774287267,1
+2797,9,pitch_mean_height_hz_std_onethird,0.20269008343014916,1
+2798,9,pitch_deviation_hz_std_onethird,0.1603811687803517,1
+2799,9,pitch_range_hz_std_onethird,0.14047225324886325,1
+2800,9,pitch_min_hz_std_onethird,0.13774984747700952,1
+2801,9,pitch_max_hz_std_onethird,0.21413137131913362,1
+2802,9,vibrato_length_std_onethird,0.06320656499390075,1
+2803,9,vibrato_coverage_std_onethird,0.005679175443409054,1
+2804,9,vibrato_rate_hz_std_onethird,0.0325310793688402,1
+2805,9,vibrato_extend_cents_std_onethird,0.2500416203420053,1
+2806,9,vibrato_extend_hz_std_onethird,0.03284736353464869,1
+2807,9,lowlevel.average_loudness_essentia,0.40474949520268066,2
+2808,9,lowlevel.barkbands_crest.mean_essentia,-0.4360106479889902,2
+2809,9,lowlevel.barkbands_crest.stdev_essentia,-0.6018230081591894,2
+2810,9,lowlevel.barkbands_flatness_db.mean_essentia,-0.22782018563256368,2
+2811,9,lowlevel.barkbands_flatness_db.stdev_essentia,-0.6039913026452216,2
+2812,9,lowlevel.barkbands_kurtosis.mean_essentia,-0.510623458298407,2
+2813,9,lowlevel.barkbands_kurtosis.stdev_essentia,-0.6226589661686739,2
+2814,9,lowlevel.barkbands_skewness.mean_essentia,-0.3357815372929597,2
+2815,9,lowlevel.barkbands_skewness.stdev_essentia,-0.692117034260058,2
+2816,9,lowlevel.barkbands_spread.mean_essentia,-0.009810552883370127,2
+2817,9,lowlevel.barkbands_spread.stdev_essentia,-0.6294786912686524,2
+2818,9,lowlevel.dissonance.mean_essentia,0.21998042703252085,2
+2819,9,lowlevel.dissonance.stdev_essentia,-0.33946109265561236,2
+2820,9,lowlevel.dynamic_complexity_essentia,-0.6377681941318946,2
+2821,9,lowlevel.erbbands_crest.mean_essentia,-0.23987896317010285,2
+2822,9,lowlevel.erbbands_crest.stdev_essentia,-0.3130541766425292,2
+2823,9,lowlevel.erbbands_flatness_db.mean_essentia,-0.006354119880701281,2
+2824,9,lowlevel.erbbands_flatness_db.stdev_essentia,-0.39676015264341224,2
+2825,9,lowlevel.erbbands_kurtosis.mean_essentia,-0.35575533986285124,2
+2826,9,lowlevel.erbbands_kurtosis.stdev_essentia,-0.5046330594924631,2
+2827,9,lowlevel.erbbands_skewness.mean_essentia,-0.16844120618265307,2
+2828,9,lowlevel.erbbands_skewness.stdev_essentia,-0.5870402280158977,2
+2829,9,lowlevel.erbbands_spread.mean_essentia,-0.203228127829969,2
+2830,9,lowlevel.erbbands_spread.stdev_essentia,-0.5790765851182059,2
+2831,9,lowlevel.hfc.mean_essentia,0.29264767169237266,2
+2832,9,lowlevel.hfc.stdev_essentia,-0.35034144447386145,2
+2833,9,lowlevel.loudness_ebu128.integrated_essentia,0.5201772542513979,2
+2834,9,lowlevel.loudness_ebu128.loudness_range_essentia,-0.4098712590838256,2
+2835,9,lowlevel.loudness_ebu128.momentary.mean_essentia,0.5978024949722249,2
+2836,9,lowlevel.loudness_ebu128.momentary.stdev_essentia,-0.46311527077369985,2
+2837,9,lowlevel.loudness_ebu128.short_term.mean_essentia,0.5613963511353077,2
+2838,9,lowlevel.loudness_ebu128.short_term.stdev_essentia,-0.41505119472965246,2
+2839,9,lowlevel.melbands_crest.mean_essentia,-0.4363562428548449,2
+2840,9,lowlevel.melbands_crest.stdev_essentia,-0.5485628538675896,2
+2841,9,lowlevel.melbands_flatness_db.mean_essentia,-0.20011982341326207,2
+2842,9,lowlevel.melbands_flatness_db.stdev_essentia,-0.682778817607493,2
+2843,9,lowlevel.melbands_kurtosis.mean_essentia,-0.5353612226968827,2
+2844,9,lowlevel.melbands_kurtosis.stdev_essentia,-0.6283133410390533,2
+2845,9,lowlevel.melbands_skewness.mean_essentia,-0.38950868165396024,2
+2846,9,lowlevel.melbands_skewness.stdev_essentia,-0.6502306716934007,2
+2847,9,lowlevel.melbands_spread.mean_essentia,-0.0022115618062238107,2
+2848,9,lowlevel.melbands_spread.stdev_essentia,-0.5876415523036134,2
+2849,9,lowlevel.pitch_salience.mean_essentia,0.3281453435272059,2
+2850,9,lowlevel.pitch_salience.stdev_essentia,-0.5946959778624764,2
+2851,9,lowlevel.silence_rate_20dB.mean_essentia,0.1431186868950612,2
+2852,9,lowlevel.silence_rate_20dB.stdev_essentia,-0.1432810159455011,2
+2853,9,lowlevel.silence_rate_30dB.mean_essentia,0.7529621148513681,2
+2854,9,lowlevel.silence_rate_30dB.stdev_essentia,-0.753478513022464,2
+2855,9,lowlevel.silence_rate_60dB.mean_essentia,-0.606465266118019,2
+2856,9,lowlevel.silence_rate_60dB.stdev_essentia,-0.6159946215198834,2
+2857,9,lowlevel.spectral_centroid.mean_essentia,-0.019391140640661858,2
+2858,9,lowlevel.spectral_centroid.stdev_essentia,-0.6773807325357184,2
+2859,9,lowlevel.spectral_complexity.mean_essentia,0.5713874379149609,2
+2860,9,lowlevel.spectral_complexity.stdev_essentia,-0.07263907025248614,2
+2861,9,lowlevel.spectral_energy.mean_essentia,0.33367958239924633,2
+2862,9,lowlevel.spectral_energy.stdev_essentia,-0.2702441258943812,2
+2863,9,lowlevel.spectral_energyband_high.stdev_essentia,-0.28175138770644553,2
+2864,9,lowlevel.spectral_energyband_low.mean_essentia,0.1188190043686594,2
+2865,9,lowlevel.spectral_energyband_low.stdev_essentia,-0.06757364961814671,2
+2866,9,lowlevel.spectral_energyband_middle_high.mean_essentia,0.5172027116203327,2
+2867,9,lowlevel.spectral_energyband_middle_high.stdev_essentia,0.024427439294812406,2
+2868,9,lowlevel.spectral_energyband_middle_low.mean_essentia,0.34512754522243194,2
+2869,9,lowlevel.spectral_energyband_middle_low.stdev_essentia,-0.07476660629933747,2
+2870,9,lowlevel.spectral_entropy.mean_essentia,0.07975604863591013,2
+2871,9,lowlevel.spectral_entropy.stdev_essentia,-0.5434292273610796,2
+2872,9,lowlevel.spectral_flux.mean_essentia,0.3370399983507564,2
+2873,9,lowlevel.spectral_flux.stdev_essentia,-0.28363815899964345,2
+2874,9,lowlevel.spectral_kurtosis.mean_essentia,0.05388453492882442,2
+2875,9,lowlevel.spectral_kurtosis.stdev_essentia,-0.16305090868456132,2
+2876,9,lowlevel.spectral_rolloff.mean_essentia,-0.12032732656971806,2
+2877,9,lowlevel.spectral_rolloff.stdev_essentia,-0.6528637940687863,2
+2878,9,lowlevel.spectral_skewness.mean_essentia,-0.0017464047852784603,2
+2879,9,lowlevel.spectral_skewness.stdev_essentia,-0.3257879391513468,2
+2880,9,lowlevel.spectral_spread.mean_essentia,-0.3049198181916875,2
+2881,9,lowlevel.spectral_spread.stdev_essentia,-0.45572179355730225,2
+2882,9,lowlevel.spectral_strongpeak.mean_essentia,0.18292220637376141,2
+2883,9,lowlevel.spectral_strongpeak.stdev_essentia,0.010894868765230326,2
+2884,9,lowlevel.zerocrossingrate.mean_essentia,-0.12806783376738165,2
+2885,9,lowlevel.zerocrossingrate.stdev_essentia,-0.7035982976790981,2
+2886,9,rhythm.beats_count_essentia,0.21211761786520103,2
+2887,9,rhythm.beats_loudness.mean_essentia,0.1178705503536763,2
+2888,9,rhythm.beats_loudness.stdev_essentia,-0.32357573559673997,2
+2889,9,rhythm.bpm_essentia,0.19545959318310366,2
+2890,9,rhythm.bpm_histogram_first_peak_bpm_essentia,0.1926346283347034,2
+2891,9,rhythm.bpm_histogram_first_peak_weight_essentia,-0.01715334840917269,2
+2892,9,rhythm.bpm_histogram_second_peak_bpm_essentia,0.1248804472728148,2
+2893,9,rhythm.bpm_histogram_second_peak_spread_essentia,-0.1924286985463399,2
+2894,9,rhythm.bpm_histogram_second_peak_weight_essentia,-0.010722841118524395,2
+2895,9,rhythm.danceability_essentia,0.08431494729059645,2
+2896,9,rhythm.onset_rate_essentia,-0.11676684031369357,2
+2897,9,tonal.hpcp_crest.mean_essentia,-0.1048912477636102,2
+2898,9,tonal.hpcp_crest.stdev_essentia,-0.17709510111367405,2
+2899,9,tonal.hpcp_entropy.mean_essentia,0.08850369587015641,2
+2900,9,tonal.hpcp_entropy.stdev_essentia,-0.3059955199130842,2
+2901,9,tonal.tuning_diatonic_strength_essentia,0.11185903245469075,2
+2902,9,tonal.tuning_equal_tempered_deviation_essentia,-0.23964943261001953,2
+2903,9,tonal.tuning_frequency_essentia,0.11182698427036207,2
+2904,9,tonal.tuning_nontempered_energy_ratio_essentia,-0.2114928535946995,2
+2905,9,lines,-0.27089875940339925,3
+2906,9,words,-0.3107227454217782,3
+2907,9,verses,-0.11090298922727006,3
+2908,9,words_token,-0.3081175344283829,3
+2909,9,unique_words_token,-0.27015599244898636,3
+2910,9,length_mean_words_token,0.05266790047376087,3
+2911,9,length_max_words_token,-0.06174768763337004,3
+2912,9,length_mstd_words_token,0.03289925921995321,3
+2913,9,polarity,-0.053516850133848715,3
+2914,9,subjectivity,0.016001400556878924,3
+2915,9,DET,-0.16858440715812809,3
+2916,9,PRON,-0.2714347233758385,3
+2917,9,CCONJ,-0.30871659910365223,3
+2918,9,ADP,-0.1921904679124938,3
+2919,9,PUNCT,-0.12265735812207998,3
